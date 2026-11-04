@@ -3,83 +3,17 @@ import type { SectionId } from "@/lib/routes";
 import type { Tone } from "@/lib/tones";
 
 export const exploreCards: { id: SectionId; text: L10n }[] = [
-  {
-    id: "bars",
-    text: {
-      ja: "店を探す。いま置いているのは、実在しないサンプルだけです。",
-      en: "Look for bars. Only fictional samples are listed.",
-    },
-  },
-  {
-    id: "cocktails",
-    text: {
-      ja: "カクテルを探す。レシピも価格も、まだありません。",
-      en: "Look for cocktails. No recipes and no prices yet.",
-    },
-  },
-  {
-    id: "stories",
-    text: {
-      ja: "夜の読みもの。人物も店も架空です。",
-      en: "Reading for the night. People and bars are fictional.",
-    },
-  },
-  {
-    id: "events",
-    text: {
-      ja: "集まりの予告。日程も会場も未定のサンプルです。",
-      en: "Notices of gatherings. Dates and places are unset samples.",
-    },
-  },
-  {
-    id: "guide",
-    text: {
-      ja: "バーでの過ごし方。特定の店への案内ではありません。",
-      en: "How to spend time in a bar. Not a route to any one address.",
-    },
-  },
+  { id:"bars", text:{ja:"都市とエリアから、バーとの出会いを。",en:"Find your way into the city's bar scene."} },
+  { id:"cocktails", text:{ja:"一杯に宿る味わいとストーリー。",en:"Discover the stories behind the glass."} },
+  { id:"stories", text:{ja:"人と文化、その舞台裏を読む。",en:"The people and ideas shaping the culture."} },
+  { id:"events", text:{ja:"バー文化が交差する瞬間へ。",en:"Where the bar community comes together."} },
+  { id:"guide", text:{ja:"はじめての一杯から、もっと深く。",en:"An introduction to the art of the bar."} },
 ];
-
-/** トップの PICK UP。表示は最大3件。 */
+/** Editorial placeholders only. Never present as verified reporting. */
 export const pickups: {
-  id: string;
-  page: SectionId;
-  tone: Tone;
-  kicker: L10n;
-  title: L10n;
-  summary: L10n;
-}[] = [
-  {
-    id: "pickup-story",
-    page: "stories",
-    tone: "lacquer",
-    kicker: { ja: "STORY / サンプル", en: "STORY / SAMPLE" },
-    title: { ja: "カウンターの静けさについて", en: "On the Quiet of the Counter" },
-    summary: {
-      ja: "試作のためのサンプル原稿です。実在の店や人は出てきません。",
-      en: "A sample essay for this prototype. No real bar or person appears.",
-    },
-  },
-  {
-    id: "pickup-cocktail",
-    page: "cocktails",
-    tone: "wine",
-    kicker: { ja: "COCKTAIL / サンプル", en: "COCKTAIL / SAMPLE" },
-    title: { ja: "サンプル 01 — 香りと余白", en: "Sample 01 — Aroma and Space" },
-    summary: {
-      ja: "架空のカクテルです。レシピと価格は書いていません。",
-      en: "A fictional cocktail. The recipe and the price are absent.",
-    },
-  },
-  {
-    id: "pickup-guide",
-    page: "guide",
-    tone: "bone",
-    kicker: { ja: "GUIDE / サンプル", en: "GUIDE / SAMPLE" },
-    title: { ja: "はじめての夜に、三つの作法", en: "Three Manners for a First Night" },
-    summary: {
-      ja: "バーでの過ごし方を示すサンプルです。特定の店舗案内ではありません。",
-      en: "A sample of how to spend time in a bar. Not a guide to a specific venue.",
-    },
-  },
+ id:string;page:SectionId;tone:Tone;kicker:L10n;title:L10n;summary:L10n;
+}[]=[
+ {id:"pickup-story",page:"stories",tone:"lacquer",kicker:{ja:"STORIES / PREVIEW",en:"STORIES / PREVIEW"},title:{ja:"カウンターの向こう側にある文化",en:"The culture behind the counter"},summary:{ja:"公開準備中の編集テーマ。実在の人物・店舗を紹介する記事ではありません。",en:"An editorial theme in development, not a report about a specific person or venue."}},
+ {id:"pickup-cocktail",page:"cocktails",tone:"wine",kicker:{ja:"COCKTAILS / PREVIEW",en:"COCKTAILS / PREVIEW"},title:{ja:"一杯から始まる発見",en:"A world in every glass"},summary:{ja:"カクテルの魅力を伝える企画のプレビューです。",en:"A preview of the stories and craft behind cocktails."}},
+ {id:"pickup-guide",page:"guide",tone:"bone",kicker:{ja:"GUIDE / PREVIEW",en:"GUIDE / PREVIEW"},title:{ja:"日本のバーをもっと身近に",en:"Your introduction to Japanese bars"},summary:{ja:"訪日客や初心者に向けたガイドの企画プレビューです。",en:"A preview of the guide for first-time visitors and curious travelers."}}
 ];
