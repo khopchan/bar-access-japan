@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Script from "next/script";
+import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import type { Locale } from "@/lib/i18n";
 import { hrefFor } from "@/lib/routes";
@@ -22,7 +23,9 @@ declare global {
 }
 
 /** Basic consent mode: no Google Analytics script before a visitor opts in. */
-export function AnalyticsConsent({ locale }: { locale: Locale }) {
+export function AnalyticsConsent() {
+  const pathname = usePathname();
+  const locale: Locale = pathname === "/en" || pathname.startsWith("/en/") ? "en" : "ja";
   const [ready, setReady] = useState(false);
   const [decision, setDecision] = useState<Decision>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
