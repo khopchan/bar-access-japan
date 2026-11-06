@@ -2,6 +2,7 @@ import Link from "next/link";
 import { footerNav } from "@/content/navigation";
 import { brand, site, ui } from "@/content/site";
 import { LangSwitch, type LanguageLink } from "@/components/LangSwitch";
+import { AnalyticsPreferencesButton } from "@/components/AnalyticsConsent";
 import { t, type Locale } from "@/lib/i18n";
 import { hrefFor, type PageId } from "@/lib/routes";
 
@@ -34,6 +35,7 @@ export function SiteFooter({ locale, page }: { locale: Locale; page: PageId }) {
                 <span className="visually-hidden"> {t(ui.newTab, locale)}</span>
               </a>
             </li>
+            <li><AnalyticsPreferencesButton locale={locale} /></li>
             {privacy ? (
               <li>
                 <Link href={hrefFor(locale, privacy.id)} aria-current={page === privacy.id ? "page" : undefined}>

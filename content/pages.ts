@@ -85,8 +85,8 @@ export const privacyDoc: EditorialDoc = {
       heading: { ja: "プライバシー", en: "Privacy" },
       paragraphs: [
         {
-          ja: "お問い合わせフォームはブラウザの中だけで動きます。入力した内容を、このサイトのサーバーへ送ることはありません。メールのリンクを開いたとき、お使いのメールソフトが起動します。解析用のタグは入れていません。",
-          en: "The contact form runs only in the browser. What you type is not sent to this site’s server. Opening the mail link starts your own mail app. No analytics tag is installed.",
+          ja: "このサイトでは、同意した場合に限りGoogle Analytics 4を読み込み、閲覧ページや流入元などの利用状況を分析します。拒否した場合は解析タグを読み込みません。同意はフッターの「アクセス解析の設定」から変更できます。Googleによるデータ処理についてはGoogleのプライバシーポリシーもご確認ください。お問い合わせフォームは現在試作で、入力内容をサーバーに送信しません。メールリンクを開くとお使いのメールソフトが起動します。",
+          en: "We load Google Analytics 4 only with your permission, to understand page visits and traffic sources. If you decline, we do not load the analytics tag. You can change your choice via Analytics settings in the footer. See Google's privacy policy for information about its data processing. The contact form is currently a prototype and does not submit your message to our server. The email link opens your email application.",
         },
       ],
     },

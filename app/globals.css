@@ -1086,3 +1086,88 @@ select {
     color: black;
   }
 }
+
+
+/* GA4 basic-consent interface. The Google tag is not loaded before opt-in. */
+.analytics-consent {
+  position: fixed;
+  inset: auto 0 0;
+  z-index: 95;
+  padding: 1.1rem var(--gutter) 1.4rem;
+  border-top: 3px solid var(--baj-red);
+  background: var(--white);
+  color: var(--ink);
+  box-shadow: 0 -12px 55px rgba(0, 0, 0, 0.25);
+}
+.analytics-consent-inner {
+  width: min(72rem, 100%);
+  margin-inline: auto;
+  display: grid;
+  gap: 1.25rem;
+}
+.analytics-consent-text h2 {
+  margin: .35rem 0 .5rem;
+  font-size: 1.35rem;
+}
+.analytics-consent-text p:not(.eyebrow) {
+  font-size: .84rem;
+  line-height: 1.7;
+  max-width: 44rem;
+}
+.analytics-consent-text a {
+  display: inline-block;
+  padding: .5rem 0;
+  font-size: .76rem;
+  text-underline-offset: .18em;
+}
+.analytics-consent-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .65rem;
+}
+.analytics-consent-actions button {
+  min-height: 2.8rem;
+  border: 1px solid var(--ink);
+  padding: .65rem 1.1rem;
+  font-size: .8rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+.analytics-consent-accept {
+  background: var(--ink);
+  color: var(--white);
+}
+.analytics-consent-reject {
+  background: transparent;
+  color: var(--ink);
+}
+.analytics-preferences-button {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+.analytics-preferences-button:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--baj-red);
+  text-underline-offset: .2em;
+}
+@media (min-width: 820px) {
+  .analytics-consent-inner {
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 2rem;
+  }
+}
+@media (max-width: 460px) {
+  .analytics-consent-actions button { flex: 1; }
+}
+@media print {
+  .analytics-consent { display: none; }
+}
