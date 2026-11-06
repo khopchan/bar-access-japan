@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import { mainNav } from "@/content/navigation";
 import { ui } from "@/content/site";
 import { SiteFooter } from "@/components/SiteFooter";
+import { AnalyticsConsent } from "@/components/AnalyticsConsent";
 import { SiteHeader, type HeaderModel } from "@/components/SiteHeader";
 import { t, type Locale } from "@/lib/i18n";
 import { hrefFor, type PageId } from "@/lib/routes";
@@ -44,6 +45,7 @@ export function SiteFrame({
         {children}
       </main>
       <SiteFooter locale={locale} page={page} />
+      <AnalyticsConsent locale={locale} />
     </div>
   );
 }
