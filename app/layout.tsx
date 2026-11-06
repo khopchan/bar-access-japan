@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { Cormorant_Garamond, Noto_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import { siteUrl } from "@/lib/site-url";
+import { AnalyticsConsent } from "@/components/AnalyticsConsent";
 import "./globals.css";
 
 const display = Cormorant_Garamond({
@@ -64,6 +65,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           }}
         />
         {children}
+        <AnalyticsConsent />
       </body>
     </html>
   );
