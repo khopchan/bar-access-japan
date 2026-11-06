@@ -2,8 +2,7 @@
 
 import Link from "next/link";
 import Script from "next/script";
-import { useEffect, useRef, useState } from "react";
-import { usePathname } from "next/navigation";
+import { useEffect, useState } from "react";
 import type { Locale } from "@/lib/i18n";
 import { hrefFor } from "@/lib/routes";
 
@@ -24,12 +23,9 @@ declare global {
 
 /** Basic consent mode: no Google Analytics script before a visitor opts in. */
 export function AnalyticsConsent({ locale }: { locale: Locale }) {
-  const pathname = usePathname();
   const [ready, setReady] = useState(false);
   const [decision, setDecision] = useState<Decision>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const [tagLoaded, setTagLoaded] = useState(false);
-  const lastTrackedPath = useRef("");
 
   useEffect(() => {
     try {
@@ -48,26 +44,6 @@ export function AnalyticsConsent({ locale }: { locale: Locale }) {
     window.addEventListener(OPEN_SETTINGS_EVENT, open);
     return () => window.removeEventListener(OPEN_SETTINGS_EVENT, open);
   }, []);
-
-  useEffect(() => {
-    if (!ready || decision !== "accepted" || !tagLoaded || !pathname || !window.gtag) return;
-    // Preserve attribution parameters, but don't send arbitrary query values to GA4.
-    const url = new URL(window.location.href);
-    const sanitized = new URL(url.pathname, url.origin);
-    for (const key of ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"]) {
-      const value = url.searchParams.get(key);
-      if (value) sanitized.searchParams.set(key, value);
-    }
-    const pageLocation = sanitized.toString();
-    if (lastTrackedPath.current === pageLocation) return;
-    lastTrackedPath.current = pageLocation;
-
-    window.gtag("event", "page_view", {
-      page_location: pageLocation,
-      page_path: pathname,
-      page_title: document.title,
-    });
-  }, [pathname, ready, decision, tagLoaded]);
 
   function saveDecision(next: Exclude<Decision, null>) {
     const wasAccepted = decision === "accepted";
@@ -102,8 +78,9 @@ export function AnalyticsConsent({ locale }: { locale: Locale }) {
               ad_personalization: "denied",
             });
             window.gtag("js", new Date());
-            window.gtag("config", MEASUREMENT_ID, { send_page_view: false });
-            setTagLoaded(true);
+            // GA4 Enhanced Measurement tracks initial and SPA history page views.
+            // Do not send page_view manually or load GTM simultaneously.
+            window.gtag("config", MEASUREMENT_ID);
           }}
         />
       ) : null}
