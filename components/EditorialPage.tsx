@@ -1,4 +1,6 @@
 import { aboutDoc, privacyDoc } from "@/content/pages";
+import { ui } from "@/content/site";
+import { BrandPlate } from "@/components/BrandMark";
 import { PageHeader } from "@/components/PageHeader";
 import { PrototypeNotice } from "@/components/PrototypeNotice";
 import { t, type Locale } from "@/lib/i18n";
@@ -9,6 +11,7 @@ export function EditorialPage({ locale, page }: { locale: Locale; page: "about" 
   return (
     <article className="sheet">
       <PageHeader kicker={t(doc.kicker, locale)} title={t(doc.title, locale)} lede={t(doc.lede, locale)} />
+      {page === "about" ? <BrandPlate caption={t(ui.brandCaption, locale)} /> : null}
       <PrototypeNotice locale={locale} />
       <div className="prose">
         {doc.sections.map((section) => (

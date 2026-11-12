@@ -2,45 +2,47 @@
 
 import Link from "next/link";
 import { useEffect, useId, useRef, useState } from "react";
+import { usePathname } from "next/navigation";
+import { Monogram } from "@/components/BrandMark";
 import { LangSwitch, type LanguageLink } from "@/components/LangSwitch";
+import { SearchDialog } from "@/components/SearchDialog";
+import type { SearchHit } from "@/lib/cards";
 
 export type HeaderModel = {
-  locale: "ja" | "en";
-  pageId: string;
-  overlay: boolean;
   homeHref: string;
+  brandName: string;
   menuOpenLabel: string;
   menuCloseLabel: string;
   navLabel: string;
   items: { href: string; label: string; current: boolean }[];
   languages: LanguageLink[];
+  search: {
+    openLabel: string;
+    closeLabel: string;
+    placeholder: string;
+    hint: string;
+    empty: string;
+    more: string;
+    label: string;
+    hits: SearchHit[];
+  };
 };
 
 const DESKTOP_NAV = "(min-width: 1040px)";
 
 export function SiteHeader({ model }: { model: HeaderModel }) {
+  const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const [solid, setSolid] = useState(!model.overlay);
+  const [searchOpen, setSearchOpen] = useState(false);
   const toggleRef = useRef<HTMLButtonElement>(null);
+  const searchRef = useRef<HTMLButtonElement>(null);
   const firstLinkRef = useRef<HTMLAnchorElement>(null);
   const navId = useId();
 
   useEffect(() => {
     setOpen(false);
-  }, [model.pageId, model.locale]);
-
-  useEffect(() => {
-    if (!model.overlay) {
-      setSolid(true);
-      return;
-    }
-    const onScroll = () => {
-      setSolid(window.scrollY > 12);
-    };
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, [model.overlay]);
+    setSearchOpen(false);
+  }, [pathname]);
 
   useEffect(() => {
     const media = window.matchMedia(DESKTOP_NAV);
@@ -52,77 +54,130 @@ export function SiteHeader({ model }: { model: HeaderModel }) {
   }, []);
 
   useEffect(() => {
-    if (!open) return;
+    const locked = open || searchOpen;
+    if (!locked) return;
     const previousOverflow = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     const main = document.getElementById("main");
     const footer = document.querySelector("footer");
     const skip = document.querySelector(".skip-link");
     if (main) main.inert = true;
-    if (footer) footer.inert = true;
+    if (footer instanceof HTMLElement) footer.inert = true;
     if (skip instanceof HTMLElement) skip.inert = true;
-    firstLinkRef.current?.focus({ preventScroll: true });
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      if (main) main.inert = false;
+      if (footer instanceof HTMLElement) footer.inert = false;
+      if (skip instanceof HTMLElement) skip.inert = false;
+    };
+  }, [open, searchOpen]);
 
-    const onKey = (event: KeyboardEvent) => {
+  useEffect(() => {
+    if (!open) return;
+    firstLinkRef.current?.focus({ preventScroll: true });
+    function onKey(event: KeyboardEvent) {
       if (event.key !== "Escape") return;
       setOpen(false);
       toggleRef.current?.focus();
-    };
+    }
     document.addEventListener("keydown", onKey);
-
-    return () => {
-      document.body.style.overflow = previousOverflow;
-      document.removeEventListener("keydown", onKey);
-      if (main) main.inert = false;
-      if (footer) footer.inert = false;
-      if (skip instanceof HTMLElement) skip.inert = false;
-    };
+    return () => document.removeEventListener("keydown", onKey);
   }, [open]);
 
-  const headerClass = ["site-header", solid || open ? "is-solid" : "", open ? "is-menu-open" : ""]
+  function closeSearch() {
+    setSearchOpen(false);
+    searchRef.current?.focus();
+  }
+
+  const headerClass = ["site-header", open ? "is-menu-open" : "", searchOpen ? "is-search-open" : ""]
     .filter(Boolean)
     .join(" ");
 
   return (
     <header className={headerClass}>
-      <div className="header-inner">
+      <div className="header-bar">
+        <div className="header-start">
+          <button
+            ref={toggleRef}
+            type="button"
+            className="nav-toggle"
+            aria-expanded={open}
+            aria-controls={navId}
+            onClick={() => {
+              setSearchOpen(false);
+              setOpen((value) => !value);
+            }}
+          >
+            <span className="nav-toggle-lines" aria-hidden="true" />
+            <span className="visually-hidden">{open ? model.menuCloseLabel : model.menuOpenLabel}</span>
+          </button>
+        </div>
         <Link href={model.homeHref} className="wordmark">
-          BAR ACCESS JAPAN
+          <Monogram priority />
+          <span className="visually-hidden">{model.brandName}</span>
         </Link>
-        <button
-          ref={toggleRef}
-          type="button"
-          className="nav-toggle"
-          aria-expanded={open}
-          aria-controls={navId}
-          onClick={() => setOpen((value) => !value)}
-        >
-          <span className="nav-toggle-lines" aria-hidden="true" />
-          <span className="visually-hidden">{open ? model.menuCloseLabel : model.menuOpenLabel}</span>
-        </button>
-        <nav
-          id={navId}
-          className="primary-nav"
-          aria-label={model.navLabel}
-          onClick={(event) => {
-            const target = event.target;
-            if (target instanceof Element && target.closest("a")) setOpen(false);
-          }}
-        >
-          {model.items.map((item, index) => (
-            <Link
-              key={item.href}
-              ref={index === 0 ? firstLinkRef : undefined}
-              href={item.href}
-              className="nav-link"
-              aria-current={item.current ? "page" : undefined}
-            >
-              {item.label}
-            </Link>
-          ))}
+        <div className="header-end">
+          <button
+            ref={searchRef}
+            type="button"
+            className="search-toggle"
+            aria-expanded={searchOpen}
+            aria-controls="search-dialog"
+            onClick={() => {
+              setOpen(false);
+              setSearchOpen((value) => !value);
+            }}
+          >
+            <SearchIcon />
+            <span className="visually-hidden">
+              {searchOpen ? model.search.closeLabel : model.search.openLabel}
+            </span>
+          </button>
           <LangSwitch languages={model.languages} />
-        </nav>
+        </div>
       </div>
+      <nav
+        id={navId}
+        className="section-nav"
+        aria-label={model.navLabel}
+        onClick={(event) => {
+          const target = event.target;
+          if (target instanceof Element && target.closest("a")) setOpen(false);
+        }}
+      >
+        {model.items.map((item, index) => (
+          <Link
+            key={item.href}
+            ref={index === 0 ? firstLinkRef : undefined}
+            href={item.href}
+            className="nav-link"
+            aria-current={item.current ? "page" : undefined}
+          >
+            {item.label}
+          </Link>
+        ))}
+      </nav>
+      {searchOpen ? (
+        <SearchDialog
+          hits={model.search.hits}
+          label={model.search.label}
+          placeholder={model.search.placeholder}
+          hint={model.search.hint}
+          empty={model.search.empty}
+          more={model.search.more}
+          closeLabel={model.search.closeLabel}
+          onClose={closeSearch}
+        />
+      ) : null}
     </header>
+  );
+}
+
+function SearchIcon() {
+  return (
+    <svg className="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <circle cx="10.5" cy="10.5" r="5.5" fill="none" stroke="currentColor" strokeWidth="1.5" />
+      <path d="M15 15.5 L20 20.5" fill="none" stroke="currentColor" strokeWidth="1.5" />
+    </svg>
   );
 }
