@@ -17,4 +17,6 @@ export type SearchHit = {
   title: string;
   kicker: string;
   dek: string;
+  /** Extra text matched by search and not shown in the result row. */
+  extra?: string;
 };

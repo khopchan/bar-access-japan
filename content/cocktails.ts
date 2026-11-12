@@ -1,10 +1,40 @@
 import type { L10n } from "@/lib/i18n";
 import type { Tone } from "@/lib/tones";
+import { asCopy, asTone } from "@/content/load";
+import editorialJson from "@/research/cocktails.json";
+import richJson from "@/research/cocktails.data.json";
 
 /**
- * 味の方向だけを示すサンプル。銘柄・配合・価格は書かない。
+ * ベースの分類。データ側の baseSpirit を、フィルターに出す分類へ対応させる。
+ * bitter-aperitif（アメリカーノ）は aperitif。指定なしには落とさない。
  */
-export const spiritBases = ["gin", "whisky", "shochu", "wine", "unspecified"] as const;
+const SPIRIT = {
+  gin: "gin",
+  whisky: "whisky",
+  rum: "rum",
+  vodka: "vodka",
+  brandy: "brandy",
+  tequila: "tequila",
+  liqueur: "liqueur",
+  shochu: "shochu",
+  wine: "wine",
+  sherry: "sherry",
+  "bitter-aperitif": "aperitif",
+} as const;
+
+export const spiritBases = [
+  "gin",
+  "whisky",
+  "rum",
+  "vodka",
+  "brandy",
+  "tequila",
+  "liqueur",
+  "shochu",
+  "wine",
+  "sherry",
+  "aperitif",
+] as const;
 export type SpiritBase = (typeof spiritBases)[number];
 
 export const flavors = ["aroma", "finish", "light", "after"] as const;
@@ -13,9 +43,15 @@ export type Flavor = (typeof flavors)[number];
 export const baseLabels: Record<SpiritBase, L10n> = {
   gin: { ja: "ジン", en: "Gin" },
   whisky: { ja: "ウイスキー", en: "Whisky" },
+  rum: { ja: "ラム", en: "Rum" },
+  vodka: { ja: "ウオッカ", en: "Vodka" },
+  brandy: { ja: "ブランデー", en: "Brandy" },
+  tequila: { ja: "テキーラ", en: "Tequila" },
+  liqueur: { ja: "リキュール", en: "Liqueur" },
   shochu: { ja: "焼酎", en: "Shochu" },
   wine: { ja: "ワイン", en: "Wine" },
-  unspecified: { ja: "指定なし", en: "Unspecified" },
+  sherry: { ja: "シェリー", en: "Sherry" },
+  aperitif: { ja: "ビター・アペリティフ", en: "Bitter aperitif" },
 };
 
 export const flavorLabels: Record<Flavor, L10n> = {
@@ -30,11 +66,21 @@ export const cocktailUi = {
   flavor: { ja: "味わい", en: "Flavor" },
   all: { ja: "すべて", en: "All" },
   empty: {
-    ja: "この条件に合うサンプルはありません。",
-    en: "No sample matches these filters.",
+    ja: "この条件に合うカクテルはありません。",
+    en: "No cocktails match these filters.",
   },
-  shownJa: "件",
-  shownEn: "shown",
+  recipe: { ja: "レシピ", en: "Recipe" },
+  ingredients: { ja: "材料", en: "Ingredients" },
+  method: { ja: "作り方", en: "Method" },
+  glass: { ja: "グラス", en: "Glass" },
+  garnish: { ja: "ガーニッシュ", en: "Garnish" },
+  specSource: { ja: "配合の出典", en: "Spec source" },
+  history: { ja: "来歴", en: "History" },
+  japan: { ja: "日本のバーでは", en: "In Japanese bars" },
+  recipeNote: {
+    ja: "配合は出典にある標準のレシピです。店では分量も作り方も異なることがあります。",
+    en: "This is a standard spec from the cited source. A bar may measure and build it differently.",
+  },
 } as const;
 
 export type Cocktail = {
@@ -45,105 +91,93 @@ export type Cocktail = {
   credit: L10n;
   base: SpiritBase;
   flavor: Flavor;
+  spec: L10n[];
+  specSource: string;
+  method: L10n;
+  glass: L10n;
+  garnish: L10n | null;
+  history: L10n;
+  japan: L10n | null;
+  barSlugs: string[];
+  sources: string[];
+  lastVerified: string;
 };
 
-const credit: L10n = { ja: "写真クレジット未設定", en: "Photo credit unset" };
+type Copy = { ja: string; en: string };
 
-export const cocktails: Cocktail[] = [
-  {
-    slug: "cocktail-01",
-    tone: "wine",
-    base: "gin",
-    flavor: "aroma",
-    credit,
-    title: { ja: "サンプル 01 — 香りと余白", en: "Sample 01 — Aroma and space" },
-    dek: {
-      ja: "短い香りが先に立つ、という方向だけです。材料、配合、価格は書いていません。",
-      en: "One direction only: a short aroma arrives first. Ingredients, measures, and price are absent.",
-    },
-  },
-  {
-    slug: "cocktail-02",
-    tone: "ink",
-    base: "whisky",
-    flavor: "finish",
-    credit,
-    title: { ja: "サンプル 02 — 長い余韻", en: "Sample 02 — A long finish" },
-    dek: {
-      ja: "食後に想像するためのサンプルです。ベースの銘柄は指定していません。",
-      en: "A sample meant to be imagined after a meal. No brand of the base spirit is named.",
-    },
-  },
-  {
-    slug: "cocktail-03",
-    tone: "bone",
-    base: "unspecified",
-    flavor: "light",
-    credit,
-    title: { ja: "サンプル 03 — 低い度数", en: "Sample 03 — A lower strength" },
-    dek: {
-      ja: "会話が続く夜、という方向です。度数の数字もレシピもありません。",
-      en: "A direction: a night that leaves room for talk. There is no number for the strength, and no recipe.",
-    },
-  },
-  {
-    slug: "cocktail-04",
-    tone: "lacquer",
-    base: "wine",
-    flavor: "after",
-    credit,
-    title: { ja: "サンプル 04 — 食後の仮定", en: "Sample 04 — An after-dinner assumption" },
-    dek: {
-      ja: "食事のあと、という位置だけを示すサンプルです。産地も価格も未設定です。",
-      en: "A sample that marks only a place in the night: after the meal. Origin and price are unset.",
-    },
-  },
-  {
-    slug: "cocktail-05",
-    tone: "dusk",
-    base: "shochu",
-    flavor: "aroma",
-    credit,
-    title: { ja: "サンプル 05 — 短い香り", en: "Sample 05 — A short aroma" },
-    dek: {
-      ja: "焼酎をベースの分類に置いた、架空の一杯です。銘柄は書いていません。",
-      en: "A fictional drink filed under shochu as a base category. No brand is written.",
-    },
-  },
-  {
-    slug: "cocktail-06",
-    tone: "ash",
-    base: "gin",
-    flavor: "light",
-    credit,
-    title: { ja: "サンプル 06 — 会話のための一杯", en: "Sample 06 — A drink for talk" },
-    dek: {
-      ja: "長く席にいる夜、という方向です。配合はサンプルにも載せていません。",
-      en: "A direction: a night spent longer at the seat. The sample does not carry a formula.",
-    },
-  },
-  {
-    slug: "cocktail-07",
-    tone: "wine",
-    base: "unspecified",
-    flavor: "finish",
-    credit,
-    title: { ja: "サンプル 07 — 余韻だけ", en: "Sample 07 — Finish alone" },
-    dek: {
-      ja: "何をベースにするかを、わざと未設定にしたサンプルです。",
-      en: "A sample that leaves the base unspecified on purpose.",
-    },
-  },
-  {
-    slug: "cocktail-08",
-    tone: "ink",
-    base: "whisky",
-    flavor: "after",
-    credit,
-    title: { ja: "サンプル 08 — 食後の想定", en: "Sample 08 — Imagined after dinner" },
-    dek: {
-      ja: "ウイスキーという分類だけのサンプルです。銘柄も価格もありません。",
-      en: "A sample of the category whisky, and nothing finer. No brand and no price.",
-    },
-  },
-];
+type EditorialCocktail = {
+  slug: string;
+  tone: string;
+  title: Copy;
+  dek: Copy;
+  credit: Copy;
+  flavor: string;
+};
+
+type RichCocktail = {
+  slug: string;
+  baseSpirit: string;
+  spec: Copy[];
+  specSource: string;
+  method: Copy;
+  glass: Copy;
+  garnish: Copy | null;
+  history: Copy;
+  japan: Copy | null;
+  barSlugs: string[];
+  sources: string[];
+  lastVerified: string;
+};
+
+function spiritOf(value: string, slug: string): SpiritBase {
+  if (Object.prototype.hasOwnProperty.call(SPIRIT, value)) return SPIRIT[value as keyof typeof SPIRIT];
+  throw new Error(`Unknown base spirit “${value}” on ${slug}`);
+}
+
+function flavorOf(value: string, slug: string): Flavor {
+  if ((flavors as readonly string[]).includes(value)) return value as Flavor;
+  throw new Error(`Unknown flavor “${value}” on ${slug}`);
+}
+
+function loadCocktails(editorial: EditorialCocktail[], rich: RichCocktail[]): Cocktail[] {
+  if (editorial.length !== rich.length) {
+    throw new Error(`Cocktail count mismatch: ${editorial.length} editorial, ${rich.length} rich`);
+  }
+  const richBySlug = new Map<string, RichCocktail>();
+  for (const item of rich) {
+    if (richBySlug.has(item.slug)) throw new Error(`Duplicate cocktail slug: ${item.slug}`);
+    richBySlug.set(item.slug, item);
+  }
+
+  return editorial.map((item) => {
+    const extra = richBySlug.get(item.slug);
+    if (!extra) throw new Error(`Missing rich cocktail: ${item.slug}`);
+    if (!extra.sources.length) throw new Error(`No sources for ${item.slug}`);
+    if (!/^https?:\/\//.test(extra.specSource)) throw new Error(`Bad spec source on ${item.slug}`);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(extra.lastVerified)) throw new Error(`Bad verification date on ${item.slug}`);
+    return {
+      slug: item.slug,
+      tone: asTone(item.tone, item.slug),
+      title: asCopy(item.title, item.slug, "title"),
+      dek: asCopy(item.dek, item.slug, "dek"),
+      credit: asCopy(item.credit, item.slug, "credit"),
+      base: spiritOf(extra.baseSpirit, item.slug),
+      flavor: flavorOf(item.flavor, item.slug),
+      spec: extra.spec.map((line, index) => asCopy(line, item.slug, `spec[${index}]`)),
+      specSource: extra.specSource,
+      method: asCopy(extra.method, item.slug, "method"),
+      glass: asCopy(extra.glass, item.slug, "glass"),
+      garnish: extra.garnish ? asCopy(extra.garnish, item.slug, "garnish") : null,
+      history: asCopy(extra.history, item.slug, "history"),
+      japan: extra.japan ? asCopy(extra.japan, item.slug, "japan") : null,
+      barSlugs: extra.barSlugs,
+      sources: extra.sources,
+      lastVerified: extra.lastVerified,
+    };
+  });
+}
+
+export const cocktails: Cocktail[] = loadCocktails(
+  editorialJson as EditorialCocktail[],
+  richJson as RichCocktail[],
+);

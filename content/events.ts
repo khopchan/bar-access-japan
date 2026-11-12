@@ -2,8 +2,8 @@ import type { L10n } from "@/lib/i18n";
 import type { Tone } from "@/lib/tones";
 
 /**
- * 集まりのサンプル。日程・会場・料金・出演者は置かない。
- * status は表示上の状態だけで、実在の開催記録ではない。
+ * 集まりのサンプル。実在の日程・会場・料金・出演者はまだない。
+ * キッカーとページ上の注記で、サンプルだと分かるようにしてある。
  */
 export type EventStatus = "upcoming" | "ended";
 
@@ -30,7 +30,7 @@ export const eventUi = {
   },
 } as const;
 
-const credit: L10n = { ja: "写真クレジット未設定", en: "Photo credit unset" };
+const credit: L10n = { ja: "写真未掲載（権利確認中）", en: "No photo (rights pending)" };
 const upcomingWhen: L10n = { ja: "日程未定", en: "Date unset" };
 const endedWhen: L10n = { ja: "終了（サンプル）", en: "Ended (sample)" };
 

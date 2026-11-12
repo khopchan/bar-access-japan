@@ -1,118 +1,142 @@
-import type { Bar, BarFact } from "@/content/types";
 import type { L10n } from "@/lib/i18n";
-
-const kicker: L10n = { ja: "EXPLORE BARS / サンプル", en: "EXPLORE BARS / SAMPLE" };
-const byline: L10n = { ja: "サンプル店舗", en: "Sample venue" };
-const credit: L10n = { ja: "写真クレジット未設定", en: "Photo credit unset" };
-const unset: L10n = { ja: "未設定", en: "Unset" };
-
-/** 実用情報は全店おなじ。実在の住所・価格・確認日は置かない。 */
-export const sampleFacts: BarFact[] = [
-  { id: "area", label: { ja: "エリア", en: "Area" }, value: unset },
-  { id: "hours", label: { ja: "時間", en: "Hours" }, value: unset },
-  { id: "seats", label: { ja: "席", en: "Seats" }, value: unset },
-  { id: "price", label: { ja: "価格", en: "Prices" }, value: unset },
-  {
-    id: "checked",
-    label: { ja: "確認日", en: "Date checked" },
-    value: { ja: "未確認（サンプル）", en: "Unchecked (sample)" },
-  },
-];
+import type { Bar, BarFact, HoursStatus } from "@/content/types";
+import { asCopy, asTone } from "@/content/load";
+import editorialJson from "@/research/bars.json";
+import richJson from "@/research/bars.data.json";
 
 /**
- * 架空の店舗設定。店名・住所・価格は未設定のまま。
+ * 掲載店。本文は research/bars.json、都市・出典・営業時間の確度は research/bars.data.json。
+ * エリアの絞り込みは areaId。表示名が分かれる3件だけ、フィルター用の短いラベルを置く。
  */
-export const bars: Bar[] = [
-  {
-    slug: "bar-a",
-    tone: "lacquer",
-    kicker,
-    byline,
-    credit,
-    facts: sampleFacts,
-    title: { ja: "サンプル店舗 A", en: "Sample venue A" },
-    dek: {
-      ja: "カウンターが中心の小さな店、という設定です。店名も住所も未設定です。",
-      en: "A setting only: a small bar built around the counter. The name and the address are unset.",
-    },
-    concept: [
-      {
-        ja: "席はカウンターに沿って並ぶ、という仮定だけを置く。何席かは書かない。照明は低く、会話は隣で切れる、という方向のサンプルである。",
-        en: "The only assumption is that seats follow the counter. How many is not written. A sample in one direction: low light, and talk that stops at the next seat.",
-      },
-      {
-        ja: "系列も立地も与えない。このページの写真枠は、図柄のプレースホルダであり、店の外観ではない。",
-        en: "No group and no location are assigned. The picture frame on this page is a graphic placeholder, not the exterior of a bar.",
-      },
-    ],
+const AREA_FILTER_LABEL: Record<string, L10n> = {
+  shibuya: { ja: "渋谷", en: "Shibuya" },
+  kitashinchi: { ja: "北新地・堂島", en: "Kitashinchi & Dojima" },
+  kawaramachi: { ja: "河原町・木屋町", en: "Kawaramachi & Kiyamachi" },
+};
+
+type Copy = { ja: string; en: string };
+
+type EditorialBar = {
+  slug: string;
+  tone: string;
+  kicker: Copy;
+  title: Copy;
+  dek: Copy;
+  byline: Copy;
+  credit: Copy;
+  concept: Copy[];
+  facts: { id: string; label: Copy; value: Copy }[];
+};
+
+type RichBar = {
+  slug: string;
+  city: Copy;
+  cityId: string;
+  area: Copy;
+  areaId: string;
+  hoursStatus: string;
+  sources: string[];
+  lastVerified: string;
+};
+
+export const barUi = {
+  city: { ja: "都市", en: "City" },
+  area: { ja: "エリア", en: "Area" },
+  all: { ja: "すべて", en: "All" },
+  empty: {
+    ja: "この条件に合う店はありません。",
+    en: "No bars match these filters.",
   },
-  {
-    slug: "bar-b",
-    tone: "ash",
-    kicker,
-    byline,
-    credit,
-    facts: sampleFacts,
-    title: { ja: "サンプル店舗 B", en: "Sample venue B" },
-    dek: {
-      ja: "ホテルの一角にある店、という設定です。施設名も所在地も未設定です。",
-      en: "A setting only: a bar in the corner of a hotel. The property name and the location are unset.",
-    },
-    concept: [
-      {
-        ja: "ロビーから一段入ったところ、という位置関係だけを想像させる。ホテルの名前は出さない。宿泊客かどうかも、この原稿では問わない。",
-        en: "The only spatial hint is a step in from a lobby. The hotel is not named. Whether a guest is staying the night is not asked.",
-      },
-      {
-        ja: "営業時間は未設定のままにする。夜の始まりを、時刻で固定しないためのサンプルである。",
-        en: "Hours stay unset. The sample refuses to pin the start of the night to a clock time.",
-      },
-    ],
-  },
-  {
-    slug: "bar-c",
-    tone: "dusk",
-    kicker,
-    byline,
-    credit,
-    facts: sampleFacts,
-    title: { ja: "サンプル店舗 C", en: "Sample venue C" },
-    dek: {
-      ja: "夜だけ開く店、という設定です。営業時間も住所も未設定です。",
-      en: "A setting only: a bar that opens at night. Hours and the address are unset.",
-    },
-    concept: [
-      {
-        ja: "昼の姿は、このサンプルでは存在しないことにする。扉の時間も書いていない。夜だけ、という方向を示すための設定である。",
-        en: "In this sample, a daytime version does not exist. The hour of the door is not written. The setting exists to point in one direction: night only.",
-      },
-      {
-        ja: "メニューの価格帯も置かない。頼めるものの名も出さない。概念の輪郭だけがある。",
-        en: "No price range is listed, and no menu item is named. Only the outline of a concept is here.",
-      },
-    ],
-  },
-  {
-    slug: "bar-d",
-    tone: "wine",
-    kicker,
-    byline,
-    credit,
-    facts: sampleFacts,
-    title: { ja: "サンプル店舗 D", en: "Sample venue D" },
-    dek: {
-      ja: "立ち席が混ざる小さな店、という設定です。定員も住所も未設定です。",
-      en: "A setting only: a small bar with some standing room. Capacity and the address are unset.",
-    },
-    concept: [
-      {
-        ja: "座る席と、立ったままの幅が同じカウンターにある、という仮定である。何人が立てるかは書かない。",
-        en: "The assumption is that seated places and a standing width share one counter. How many can stand is not written.",
-      },
-      {
-        ja: "この設定は、実在の店の類型図ではない。確認日は空欄のまま、未確認と表示する。",
-        en: "The setting is not a typology of real bars. The date-checked field stays empty, and the page says so.",
-      },
-    ],
-  },
-];
+} as const;
+
+function hoursStatusOf(value: string, slug: string): HoursStatus {
+  if (value === "official" || value === "secondary") return value;
+  if (value === "要確認") return "unverified";
+  throw new Error(`Unknown hours status “${value}” on ${slug}`);
+}
+
+function loadBars(editorial: EditorialBar[], rich: RichBar[]): Bar[] {
+  if (editorial.length !== rich.length) {
+    throw new Error(`Bar count mismatch: ${editorial.length} editorial, ${rich.length} rich`);
+  }
+  const richBySlug = new Map<string, RichBar>();
+  for (const item of rich) {
+    if (richBySlug.has(item.slug)) throw new Error(`Duplicate bar slug: ${item.slug}`);
+    richBySlug.set(item.slug, item);
+  }
+
+  return editorial.map((item) => {
+    const extra = richBySlug.get(item.slug);
+    if (!extra) throw new Error(`Missing rich bar: ${item.slug}`);
+    if (!extra.cityId || !extra.areaId) throw new Error(`Missing city or area on ${item.slug}`);
+    if (!extra.sources.length) throw new Error(`No sources for ${item.slug}`);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(extra.lastVerified)) throw new Error(`Bad verification date on ${item.slug}`);
+    const facts: BarFact[] = item.facts.map((fact) => ({
+      id: fact.id,
+      label: asCopy(fact.label, item.slug, fact.id),
+      value: asCopy(fact.value, item.slug, fact.id),
+    }));
+    if (!facts.some((fact) => fact.id === "hours") || !facts.some((fact) => fact.id === "checked")) {
+      throw new Error(`Bar ${item.slug} is missing hours or the date checked`);
+    }
+    for (const fact of facts) {
+      if ((fact.id === "web" || fact.id === "instagram") && !/^https?:\/\//.test(fact.value.ja)) {
+        throw new Error(`Bar ${item.slug} has a ${fact.id} value that is not a URL`);
+      }
+    }
+    return {
+      slug: item.slug,
+      tone: asTone(item.tone, item.slug),
+      kicker: asCopy(item.kicker, item.slug, "kicker"),
+      title: asCopy(item.title, item.slug, "title"),
+      dek: asCopy(item.dek, item.slug, "dek"),
+      byline: asCopy(item.byline, item.slug, "byline"),
+      credit: asCopy(item.credit, item.slug, "credit"),
+      concept: item.concept.map((paragraph, index) => asCopy(paragraph, item.slug, `concept[${index}]`)),
+      facts,
+      cityId: extra.cityId,
+      areaId: extra.areaId,
+      city: asCopy(extra.city, item.slug, "city"),
+      area: asCopy(extra.area, item.slug, "area"),
+      hoursStatus: hoursStatusOf(extra.hoursStatus, item.slug),
+      sources: extra.sources,
+      lastVerified: extra.lastVerified,
+    };
+  });
+}
+
+export const bars: Bar[] = loadBars(editorialJson as EditorialBar[], richJson as RichBar[]);
+
+export type CityFilter = { id: string; label: L10n };
+export type AreaFilter = { id: string; cityId: string; label: L10n };
+
+function collectPlaces(list: Bar[]): { cities: CityFilter[]; areas: AreaFilter[] } {
+  const cities: CityFilter[] = [];
+  const areas: AreaFilter[] = [];
+  const seenCity = new Set<string>();
+  const seenArea = new Set<string>();
+  const areaLabels = new Map<string, L10n>();
+
+  for (const bar of list) {
+    if (!seenCity.has(bar.cityId)) {
+      seenCity.add(bar.cityId);
+      cities.push({ id: bar.cityId, label: bar.city });
+    }
+    const label = AREA_FILTER_LABEL[bar.areaId] ?? bar.area;
+    const previous = areaLabels.get(bar.areaId);
+    if (previous && (previous.ja !== label.ja || previous.en !== label.en)) {
+      throw new Error(`Area ${bar.areaId} has conflicting filter labels. Add one in AREA_FILTER_LABEL.`);
+    }
+    areaLabels.set(bar.areaId, label);
+    if (!seenArea.has(bar.areaId)) {
+      seenArea.add(bar.areaId);
+      areas.push({ id: bar.areaId, cityId: bar.cityId, label });
+    }
+  }
+
+  return { cities, areas };
+}
+
+const places = collectPlaces(bars);
+export const barCities = places.cities;
+export const barAreas = places.areas;

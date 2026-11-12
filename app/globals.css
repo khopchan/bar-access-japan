@@ -89,6 +89,7 @@ h1, h2, h3 {
 .locale-en .event-group > h2,
 .locale-en .related > h2,
 .locale-en .facts > h2,
+.locale-en .sources > h2,
 .locale-en .kicker,
 .locale-en .eyebrow {
   font-family: var(--font-sans), sans-serif;
@@ -506,7 +507,7 @@ button, input, textarea, select { font: inherit; color: inherit; }
 
 .home-split { margin-top: 2.5rem; }
 
-.card-grid, .river, .cocktail-list { display: grid; }
+.card-grid, .river, .cocktail-list, .bar-list { display: grid; }
 
 .card-grid { gap: 2.25rem 1.25rem; margin-top: 2.25rem; }
 
@@ -610,7 +611,8 @@ button, input, textarea, select { font: inherit; color: inherit; }
 .latest-title,
 .event-group > h2,
 .related > h2,
-.facts > h2 {
+.facts > h2,
+.sources > h2 {
   margin: 0 0 0.75rem;
   font-family: var(--font-sans), sans-serif;
   font-size: 0.72rem;
@@ -713,7 +715,51 @@ button, input, textarea, select { font: inherit; color: inherit; }
   text-transform: uppercase;
 }
 
-.fact dd { margin: 0; }
+.fact dd { margin: 0; overflow-wrap: anywhere; }
+
+.fact-caution {
+  border-left: 2px solid var(--baj-red);
+  padding-left: 0.75rem;
+}
+
+.hours-body { display: block; }
+
+.caution {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--baj-red);
+  font-size: 0.84rem;
+  letter-spacing: 0.01em;
+}
+
+.spec-lines { display: grid; }
+
+.fact a,
+.sources a {
+  border-bottom: 1px solid var(--baj-red);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.sources {
+  max-width: 42rem;
+  margin-top: 2.5rem;
+}
+
+.sources-meta {
+  margin: 0 0 0.75rem;
+  color: var(--muted-on-paper);
+  font-size: 0.85rem;
+}
+
+.sources ol {
+  display: grid;
+  gap: 0.35rem;
+  list-style: decimal;
+  padding-left: 1.25rem;
+}
+
+.sources li { padding-left: 0.2rem; }
 
 .fact-checked {
   border-top: 2px solid var(--baj-red);
@@ -1140,6 +1186,8 @@ button, input, textarea, select { font: inherit; color: inherit; }
   .text-button:hover,
   .email-line a:hover,
   .prose a:hover,
+  .fact a:hover,
+  .sources a:hover,
   .analytics-preferences-button:hover {
     color: var(--baj-red);
   }

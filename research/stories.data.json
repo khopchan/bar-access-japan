@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "asia-50-best-bars-2026-japan",
+    "sources": [
+      "https://www.japantimes.co.jp/life/2026/07/29/food-drink/asias-50-best-bars-2026-japan-no-top-10/",
+      "https://www.theatlasindex.com/awards/asias-50-best-bars/",
+      "https://www.the50.com/bars/best-in-asia/the-list/punch-room-tokyo.html"
+    ],
+    "related": [
+      "punch-room-tokyo",
+      "virtu",
+      "bar-libre",
+      "bar-trench",
+      "the-bar-ritz-carlton-tokyo",
+      "yakoboku-kumamoto",
+      "bar-nayuta",
+      "craftroom",
+      "lamp-bar-nara"
+    ],
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "slug": "japan-highball-story",
+    "sources": [
+      "https://www.suntory.co.jp/whisky/100th/history/",
+      "https://en.wikipedia.org/wiki/Highball",
+      "https://www.samboa.bar/",
+      "https://www.ienomistyle.com/sakeguide/20221224-6070"
+    ],
+    "related": [
+      "sukiyabashi-samboa",
+      "gion-samboa",
+      "highball"
+    ],
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "slug": "yokohama-cocktail-history",
+    "sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/18976/bamboo-diffords-classic-recipe",
+      "https://www.diffordsguide.com/cocktails/recipe/1319/million-dollar-cocktail",
+      "https://www.diffordsguide.com/cocktails/recipe/2610/yokohama",
+      "https://www.hotel-newgrand.co.jp/menu/sea-guardian2-cocktail-story/"
+    ],
+    "related": [
+      "sea-guardian-ii",
+      "bamboo",
+      "million-dollar",
+      "yokohama"
+    ],
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "slug": "yukiguni-and-kern",
+    "sources": [
+      "https://www.suntory.co.jp/wnb/essay/109.html",
+      "https://news.ntv.co.jp/n/ybc/category/society/yb8871b04d87d647e798d1ad635ac80ddd",
+      "https://www.nikkei.com/article/DGKKZO80186710S4A420C2CE0000/",
+      "https://tabelog.com/yamagata/A0603/A060301/6012541/"
+    ],
+    "related": [
+      "kern-sakata",
+      "yukiguni"
+    ],
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "slug": "hard-shake-ginza",
+    "sources": [
+      "https://punchdrink.com/venues/ginza-tender/",
+      "https://www.spiritsanddistilling.com/dictionary/acref-9780199311132-e-31",
+      "https://tabelog.com/tokyo/A1301/A130101/13259123/",
+      "https://www.esquire.com/jp/lifestyle/food-drink/a70460952/about-mori-bar-gran/",
+      "https://www.the50.com/discovery/Establishments/Japan/Tokyo/Star-Bar.html"
+    ],
+    "related": [
+      "ginza-tender",
+      "star-bar-ginza",
+      "mori-bar-gran"
+    ],
+    "lastVerified": "2026-11-12"
+  }
+]

@@ -5,24 +5,24 @@ export type HomeRef =
   | { kind: "cocktail"; slug: string }
   | { kind: "event"; slug: string };
 
-/** トップの並び。実在の店や人には結びつかないサンプルだけを指す。 */
+/** トップの並び。スラッグは research/ の実在の店・カクテル・記事を指す。 */
 export const homeLayout = {
-  lead: { kind: "story", slug: "story-quiet" },
+  lead: { kind: "story", slug: "asia-50-best-bars-2026-japan" },
   grid: [
-    { kind: "story", slug: "story-glass" },
-    { kind: "story", slug: "story-door" },
-    { kind: "guide", slug: "guide-reserve" },
-    { kind: "bar", slug: "bar-a" },
+    { kind: "story", slug: "japan-highball-story" },
+    { kind: "story", slug: "hard-shake-ginza" },
+    { kind: "guide", slug: "omakase-cocktails-guide" },
+    { kind: "bar", slug: "punch-room-tokyo" },
   ],
   latest: [
-    { kind: "story", slug: "story-ice" },
-    { kind: "cocktail", slug: "cocktail-01" },
-    { kind: "event", slug: "event-01" },
-    { kind: "bar", slug: "bar-b" },
-    { kind: "guide", slug: "guide-counter" },
-    { kind: "event", slug: "event-03" },
-    { kind: "cocktail", slug: "cocktail-05" },
-    { kind: "guide", slug: "guide-leave" },
+    { kind: "bar", slug: "virtu" },
+    { kind: "cocktail", slug: "dry-martini" },
+    { kind: "bar", slug: "bar-high-five" },
+    { kind: "cocktail", slug: "highball" },
+    { kind: "story", slug: "yokohama-cocktail-history" },
+    { kind: "bar", slug: "kern-sakata" },
+    { kind: "cocktail", slug: "yukiguni" },
+    { kind: "cocktail", slug: "bamboo" },
   ],
 } as const satisfies {
   lead: HomeRef;

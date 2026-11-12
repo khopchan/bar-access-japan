@@ -2,7 +2,6 @@ import Link from "next/link";
 import { services, servicesIntro } from "@/content/services";
 import { ui } from "@/content/site";
 import { PageHeader } from "@/components/PageHeader";
-import { PrototypeNotice } from "@/components/PrototypeNotice";
 import { t, type Locale } from "@/lib/i18n";
 import { hrefFor } from "@/lib/routes";
 
@@ -14,7 +13,6 @@ export function ServicesPage({ locale }: { locale: Locale }) {
         title={t(servicesIntro.title, locale)}
         lede={t(servicesIntro.lede, locale)}
       />
-      <PrototypeNotice locale={locale} />
       <ol className="service-list">
         {services.map((service, index) => (
           <li key={service.id} id={service.id} className="service">

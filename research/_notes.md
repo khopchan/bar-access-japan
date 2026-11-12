@@ -1,0 +1,71 @@
+# research notes (raw)
+- High Five: Efflore Ginza5 B1F 5-4-15 Ginza; Mon-Sat 17-01 LE 00; closed Sun/hol (official barhighfive.com/map). Ueno Hidetsugu; opened 2008-07-04; moved 2015; no reservations since 2015; seat charge 1000 (bestcocktailbars policy quote); W50BB top 20 six times, #3 2013; Asia50 Best Bar Japan 2019 (bestcocktailbars). Ginza stn B7 1min (bar-navi). 18 seats (bar-navi). src: barhighfive.com/map, bar-navi.suntory.co.jp/shop/0X00104360/, bestcocktailbars.com/post/bar-high-five-tokyo/
+- Star Bar Ginza: MODERNS GINZA B1F 1-5-13 Ginza; 17:00-23:30 daily (tabelog); charge 1100 (tabelog); Kishi Hisashi IBA world champ 1996; opened 2000-12-14; Ninja ice / brilliant ice (official); Asia50 #50 2021 (the50 discovery); Ginza-itchome stn 2min. src starbar.jp/en/store-introduction-ginza, tabelog 13002270, the50 discovery Star-Bar
+- Gen Yamamoto: Anniversary Bldg 1F 1-6-4 Azabu-Juban; 15:00-22:30 last res 21:00; closed Sun Mon; 8 seats; opened 2013; omakase courses 5/6/7 = 8800/10000/11000 tax incl (official genyamamoto.jp). mizunara counter. Azabu-Juban stn.
+- Tender (Ginza Tender): Sanraku Bldg 9F 6-5-16 Ginza; Mon-Sat 17-23 (search synth, verify); Kazuo Uyeda hard shake. src tabelog 13259123, bar-tender.jp
+- Mixology Salon: GINZA SIX 13F 6-10-1 Ginza; Shuzo Nagumo; tea cocktails. src mixologysalon.net, the50 discovery
+- Bar Orchard Ginza: Sanraku Bldg 7F 6-5-16 Ginza; seasonal fruit cocktails. src bar-navi 0X00067627, the50 discovery
+- BenFiddich: 9F Yamatoya Bldg 1-13-7 Nishi-Shinjuku; Hiroyasu Kayama; W50BB 2026 #44, Asia 2026 #62; no menu; house absinthe/vermouth; herbs he grows; src the50 world list page; timeout news 2026
+- Virtù: 39F Four Seasons Otemachi 1-2-1 Otemachi; W50BB 2026 #48; Asia 2026 #26; art deco; french aperitifs. src timeout news
+- Punch Room Tokyo: Tokyo Edition Ginza; Asia 2026 #23 Best Bar in Japan 2026; Yasuhiro Kawakubo; punch bowls; Kappa & Yuzu (tequila, doburoku, yuzu); kumazasa martini. opened 2024. src the50 asia punch-room-tokyo
+- Bar Libre: Ikebukuro; Asia 2026 #39
+- Trench: Ebisu; Asia 2026 #53; W50BB 2026 #74(per thejapanpro – verify)
+- SG Club: 1-7-8 Jinnan Shibuya; Shingo Gokan; W50BB 2026 #88; best #10 2020; Guzzle 1F / Sip B1
+- Bellwood: Shibuya; Asia 2026 #79
+- Ritz-Carlton Tokyo The Bar: Asia 2026 #75
+- Yakoboku Kumamoto Asia2026 #59 ; Lamp Bar Nara #94 ; Bar Nayuta Osaka #70 ; Craftroom Osaka #72
+- 2025 Asia list also: Gold Bar (Tokyo #66), Tokyo Confidential #69, Bee's Knees Kyoto #74
+- Lists src: theatlasindex.com/awards/asias-50-best-bars/ ; japantimes 2026/07/29 ; the50.com stories 50 best bars 2026 1-50
+- Virtù: Four Seasons Otemachi 39F, 1-2-1 Otemachi Chiyoda; Michter's Art of Hospitality 2024; cocktail bar & cognac lounge; Smoked Ume Fashioned; Virtù martini w hinoki bitters; house umeshu ageing room; IG virtutokyo; src a50 virtu page
+- Bar Libre: Soumaya Bldg B1F 3-25-8 Nishi-Ikebukuro Toshima; since 2011; 17 seats; owner Yujiro Kiyosaki, mgr Kizuaki Nagao; menu Introduction/Development/Twist/Conclusion; Samurai Penicillin w shiso kombucha; Asia 2026 #39, 2025 #49; site bar-libre.jp IG barlibre_ikebukuro
+- Yakoboku: 1F 5-21 Minamitsuboi-machi Kumamoto 860-0848; Shinya Koba (ex Lamp Bar); former storehouse; seasonal Kyushu ingredients, house ferments; Asia 2025 #25, 2026 #59; IG bar_yakoboku_kumamoto
+- Lamp Bar: 1F Iseya Bldg 26 Tsunofuri-cho Nara 630-8224; Michito Kaneko World Class 2015 world bartender; no menu bespoke; Asia 2023 #23, 2025 #45, 2026 #94
+- BenFiddich: opened 2013; family land Chichibu; W50BB 2025 #18; tel 03-6279-4223
+- Bar Juniper Osaka: NJ Bldg 1F 1-4-4 Dojima Kita-ku; gin specialist
+- Bar K Osaka: Koyo Bldg B1F 1-3-3 Sonezakishinchi(Kita-ku 530-0002) Kitashinchi; whisky + cocktails; bar-k.jp
+- Bar K6 Kyoto: Vals Bldg 2F Kiyamachi Nijo higashi-iru Nakagyo; ~1200 bottles; ksix.jp
+- Bar Nayuta: Mario Bldg 5F 1-6-17 Nishi-Shinsaibashi? (Chuo-ku 542-0086) near Triangle Park (Amerikamura); bespoke; bar-nayuta.com; Asia 2026 #70
+- Orchard Ginza: 6-5-16 Ginza (Sanraku 7F); Takuo Miyanohara; fruit chosen from counter, no menu; Asia 2019 #28
+- Bar Tram: 2F 1-7-13 Ebisu-Nishi; absinthe; Small Axe (Takuya Ito)
+- Trench: 1F 1-5-8 Ebisu-Nishi; absinthe, bitters; Small Axe; W50BB 2025 #94; Asia 2021 #43; 2026 W50BB #74 (search synth) Asia 2026 #53; open daily 18-02 (search synth; small-axe.net)
+- Bee's Knees Kyoto: Matsuya Bldg 1F 364 Kamiya-cho Nakagyo; Mon-Thu 18-01, Fri-Sat 18-02, closed Sun (official bees-knees-kyoto.jp); yellow door; Astronaut (Ki No Tea gin, cassis jam); Asia 2021 #18, 2023 #44, 2025 #74; same team as Jeremiah
+- Craftroom Osaka: Osaka Ekimae Daiichi Bldg B2-70 1-3-1 Umeda Kita-ku (official craft-room.jp); Ryu Fujii ex Bar K; opened 2020; 6 seats; pies; Asia 2023 listed; 2026 #72
+- Gold Bar at Edition: Tokyo Edition Toranomon 1F 4-1-1 Toranomon; Tue-Thu 18-25, Fri-Sat 18-26, closed Sun-Mon (official goldbaratedition.com); golden age classics; Asia 2025 #66
+- Jeremiah: Shinjuku Q Flat Bldg 1F 5-4-1 Shinjuku; Jerry Thomas theme; same team as Bee's Knees, Newjack
+- L'Escamoteur Kyoto: 138-9 Saito-cho Shimogyo; magic/alchemy theme
+- Little Smith: KN Bldg B2F 6-4-12 Ginza; opened 1993-11-15; horseshoe counter, 4m ceiling; Mon-Sat 18-02 LO 1:30 closed Sun/hol (official littlesmith.jp)
+- Mixology Heritage: Hibiya OKUROJI G31 1-7-1 Uchisaiwaicho Chiyoda; Spirits & Sharing; vintage spirits, Ultimate Martini
+- Mixology Salon: GINZA SIX 13F; 8 seats; teatails; Asia 2019 #49
+- Mori Bar: MOVED -> Ginza 7-5-4 La Viale Ginza 7F (tabelog 13283340); Takao Mori; Mori martini; Mon-Fri 16-02 Sat 16-23 closed Sun/hol (tabelog synth)
+- Nokishita 711 Kyoto: 235 Atsumari-B Sendo-cho Shimogyo; Tomoiki Sekine; liquid cuisine; reservation-only flights
+- Tender: Ginza Tender Sanraku Bldg 9F 6-5-16 Ginza (tabelog 13259123, older listing 13002618 marked 移転); Kazuo Uyeda hard shake; Mon-Sat 17-23 closed Sun/hol (synth)
+- Ritz-Carlton The Bar: 45F Tokyo Midtown 9-7-1 Akasaka; Asia 2026 #75; bar.ritzcarltontokyo.com
+- Bellwood: 41-31 Udagawacho Shibuya; Atsushi Suzuki (ex Angel's Share, Speak Low); kissa Taisho theme, kaiseki-structured menu; sushi counter; W50BB 2025 #48, 2026 #100(japanpro); Asia 2023 #49, 2026 #79; IG the_bellwood
+- SG Club: Gokan; Guzzle 1F / Sip B1; 18-01, closed 4th Mon (tabelog synth); W50BB 2024 #23, 2025 #65, 2026 #88; best #10 2020; sg-management.jp/en/establishments/sgclub/
+- Tokyo Confidential: The V-City Azabu-Juban Place 9F 1-6-1 Azabu-Juban; Holly Graham & Tom Egerton; shrine-wood bar top; Asia 2025 #69; tokyoconfidential.com
+- High Five / Star Bar / Gen as above
+- Lupin: B1F Tsukamoto Fudosan Bldg 5-5-11 Ginza; opened 1928; Tue-Sat 17-23:30 (bar-navi/tabelog synth)
+- Zoetrope: Gaia Bldg 3F 7-10-14 Nishi-Shinjuku; Atsushi Horigami; 300+ Japanese whiskies; silent films; Mon-Sat 17-23 (tabelog synth)
+- Ishinohana: B1 Dai-ni Yaki Bldg 3-6-2 Shibuya; Shinobu Ishigaki; 17-24 LO23 Mon,Tue,Fri,Sat,Sun; closed Wed Thu hol (official ishinohana.com 2026 notice)
+- New York Bar Park Hyatt: 52F; reopened 2025-12-09 after 19-month renovation; daily 17-24; live jazz; cover 3300 from 18:30 (official restaurants.tokyo.park.hyatt.co.jp/en/newyorkbar/ + hyatt newsroom)
+- Old Imperial Bar: Imperial Hotel Main Bldg; daily 11:30-24 LO 23:30 (official imperialhotel.co.jp)
+- Albatross G: 2F Golden Gai 5-bangai 1-1-7 Kabukicho; chandeliers; 19-05 (official alba-s.com shop)
+- Bar Martha: 1-22-23 Ebisu Vera Heights 109; vinyl; 19-03 daily; no reservations (official martha-records.com/martha.html)
+- Mori Bar Gran: Ginza 6-12-12 Sakura Marks Ginza 612 13F-14F terrace; Mon-Fri 12-26 LO25:30; Sat/Sun/hol 12-23; no closed day; 23 seats; Mori Takao b.1947; MORI BAR opened 1997 (honten); 100-stir martini; Kinobi Kyoto Dry Gin MORI; Havana Martini; national comp wins 1984,1985 (Esquire JP 2026-02-28)
+- Kern Sakata: 1-7-45 Senba-cho Sakata (in 家坂亭) moved 2023-12-15; 10-17, Fri/Sat night 19-22:30; Yukiguni by Iyama Keiichi 1958 Kotobukiya contest (tabelog 6012541, ntv news 2023)
+- Sea Guardian II: Hotel New Grand main bldg 1F; 17-23 LO22:30; 43 seats; Yokohama (Savoy) & Bamboo; tel 045-681-1841 (official)
+- Samboa: founded 1918 Kobe; no-ice highball; Sukiyabashi Samboa Ginza 7-3-16 Togo Bldg 1F Mon-Fri 15-24 Sat/Sun/hol 15-23 (official samboa.bar); Gion Samboa 570 Gion-machi Minamigawa Higashiyama; Tue-Fri16-23 Sat15-23 Sun15-22 closed Mon (kyotokan.jp)
+- Rocking chair: 434-2 Tachibana-cho Gokomachi-dori Bukkoji-sagaru Shimogyo Kyoto; 17-25 LO24 irregular (official access); Kenji Tsubokura b.1974, ex Gaslight, K6; opened 2009-02; 2015 national champ; 2016 IBA World Cocktail Championship winner 'The Best Scene'
+- Bar Yamazaki: Katsumi Bldg 4F Minami3 Nishi3 Chuo-ku Sapporo; Mon-Sat 18-24:30 LO 0; seat 770 + 10% svc; founded 1958; Tatsuro Yamazaki imperial prize 1993 first for bartender; 'Sapporo' cocktail; 200+ originals (official english page)
+- Barns Nagoya: Sakae 2-3-32 HP Hirokoji Bldg B1; 16-24 LO23:30 basically reservation; 16 seats max 4/group; charge 1300 (official)
+- Higuchi Fukuoka: Tamon Bldg'83 1F 3-4-6 Nakasu Hakata; Mon-Sat 19-01 closed Sun/hol; Moscow mule (synth: JAL partner/official info)
+- Oscar Fukuoka: Stage1 Daimyo 6F 1-10-29 Daimyo Chuo; Shuichi Nagatomo; 18-02 closed Sun (bar-navi/tabelog synth)
+- Spoon Kanazawa: Chateau Bldg 1F 1-5-8 Katamachi; hours conflicting
+- Sone Kobe: 1-24-10 Nakayamate-dori Chuo-ku; since 1969; 17-23, live from 18:30; closed Jan 1-3 (official)
+- Martha: owner Wataru Fukuyama; 19-03 (official)
+- Albatross G Golden Gai: Kabukicho 1-1-7; daily 19-05 (official alba-s.com)
+- Little Smith: 2026-05 hours change notice (official) - ambiguous
+- Trench: opened 2010 as 2nd location of Bar Tram; daily 18-02 no reservations (official small-axe); Tram since 2003, open daily, no table charge (official)
+- Bar K: counter 7 + 2 tables; Mon-Sat 18-24 (official bar-k.jp)
+- K6: 18-02 closed Mon Tue (official ksix.jp)
+- Nayuta: 17-03 LC 02:30 (official)

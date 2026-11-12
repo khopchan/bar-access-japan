@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "bar-charges-guide",
+    "tone": "ink",
+    "kicker": {
+      "ja": "GUIDES / はじめての方へ",
+      "en": "GUIDES / FIRST VISIT"
+    },
+    "title": {
+      "ja": "チャージとハウスルール、実例で知る",
+      "en": "Cover Charges and House Rules, by Example"
+    },
+    "dek": {
+      "ja": "日本のバーには席料やカバーチャージがあることが多い。掲載店の実例から、目安を紹介する。",
+      "en": "Many Japanese bars add a seat or cover charge. Here are real examples from the bars we list."
+    },
+    "byline": {
+      "ja": "BAR ACCESS JAPAN 編集部",
+      "en": "BAR ACCESS JAPAN editors"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "before": [
+      {
+        "ja": "日本のバーでは、飲み物とは別に席料（チャージ）がかかることが多い。金額は店によって大きく違う。",
+        "en": "In Japan, many bars charge a seat fee on top of drinks, and the amount varies widely."
+      },
+      {
+        "ja": "たとえば札幌のBARやまざきは席料770円にサービス料10%、銀座のスタア・バーはチャージ1,100円、名古屋のBAR BARNSはチャージ1,300円（税込）。銀座のバー ハイファイブは席料1,000円とされる。",
+        "en": "Bar Yamazaki in Sapporo charges ¥770 per seat plus 10% service; Star Bar Ginza ¥1,100; Bar Barns in Nagoya ¥1,300 including tax; Bar High Five in Ginza is reported at ¥1,000."
+      }
+    ],
+    "pull": {
+      "ja": "チャージは、席とおもてなしへの対価。",
+      "en": "The charge pays for the seat and the hospitality."
+    },
+    "after": [
+      {
+        "ja": "ホテルのバーでは時間帯でカバーチャージが変わることもある。パーク ハイアット東京のニューヨーク バーは、18時30分以降に1人3,300円。一方、恵比寿のBar Tramのようにテーブルチャージのない店もある。",
+        "en": "Hotel bars may charge by time of day: New York Bar at Park Hyatt Tokyo adds ¥3,300 per person from 6:30pm. Others, like Bar Tram in Ebisu, have no table charge at all."
+      },
+      {
+        "ja": "予約の可否や人数制限など、店ごとのルールもある。金額や条件は変わることがあるので、訪問前に各店の情報を確かめてほしい。",
+        "en": "Bars also have their own rules on reservations and group size. Prices and rules change, so check each bar before you go."
+      }
+    ]
+  },
+  {
+    "slug": "omakase-cocktails-guide",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "GUIDES / 楽しみ方",
+      "en": "GUIDES / HOW TO"
+    },
+    "title": {
+      "ja": "メニューのないバー、おまかせという楽しみ方",
+      "en": "No Menu: How to Enjoy Omakase Cocktails"
+    },
+    "dek": {
+      "ja": "好みを伝えて任せる。コースで味わう。日本には、メニューを置かないバーがいくつもある。",
+      "en": "Tell the bartender what you like, or sit for a course. Japan has many bars with no menu at all."
+    },
+    "byline": {
+      "ja": "BAR ACCESS JAPAN 編集部",
+      "en": "BAR ACCESS JAPAN editors"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "before": [
+      {
+        "ja": "麻布十番のゲン ヤマモトは、8席のカウンターで季節の素材を使ったカクテルのコースを出す。5杯、6杯、7杯から選ぶおまかせ形式だ。",
+        "en": "Gen Yamamoto in Azabu-Juban serves cocktail courses of seasonal produce at an eight-seat counter, in omakase flights of five, six or seven drinks."
+      },
+      {
+        "ja": "西新宿のバー ベンフィディックにもメニューはない。鹿山博康氏が自家製のスピリッツやハーブを使い、客と話しながら一杯を作る。",
+        "en": "Bar BenFiddich in Nishi-Shinjuku has no menu either. Hiroyasu Kayama builds each drink in conversation, using house-made spirits and herbs."
+      }
+    ],
+    "pull": {
+      "ja": "好きな味をひとつ伝えれば、そこから始まる。",
+      "en": "Name one flavour you like, and the night begins there."
+    },
+    "after": [
+      {
+        "ja": "京都のnokishita711は完全予約制で、時間を区切った回ごとにカクテルとつまみのコースを出す。奈良のランプバーも、会話から一杯を決める。",
+        "en": "In Kyoto, nokishita711 is reservation-only, serving courses of cocktails and bites at set times. Lamp Bar in Nara also lets conversation decide the drink."
+      },
+      {
+        "ja": "苦手なもの、飲みたい強さ、好きな香りを伝えると、選ぶ手がかりになる。予約が必要な店も多いので、事前に確認を。",
+        "en": "Mention what you dislike, how strong you want it, and aromas you love. Many of these bars need a reservation, so check ahead."
+      }
+    ]
+  }
+]

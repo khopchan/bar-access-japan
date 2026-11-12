@@ -36,7 +36,9 @@ export function SearchDialog({
 
   const q = query.trim().toLocaleLowerCase();
   const matches = q
-    ? hits.filter((hit) => `${hit.title}\n${hit.dek}\n${hit.kicker}`.toLocaleLowerCase().includes(q))
+    ? hits.filter((hit) =>
+        `${hit.title}\n${hit.dek}\n${hit.kicker}\n${hit.extra ?? ""}`.toLocaleLowerCase().includes(q),
+      )
     : [];
   const shown = matches.slice(0, RESULT_CAP);
 

@@ -14,12 +14,12 @@ export type CocktailListItem = {
 
 export function CocktailBrowser({
   locale,
-  sampleLabel,
+  frameLabel,
   items,
   labels,
 }: {
   locale: Locale;
-  sampleLabel: string;
+  frameLabel: string;
   items: CocktailListItem[];
   labels: {
     base: string;
@@ -84,7 +84,7 @@ export function CocktailBrowser({
             <li key={item.id} hidden={!match}>
               <StoryCard
                 card={item.card}
-                sampleLabel={sampleLabel}
+                frameLabel={frameLabel}
                 heading={featured ? "h2" : "h3"}
                 variant={featured ? "feature" : "river"}
               />

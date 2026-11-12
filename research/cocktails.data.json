@@ -1,0 +1,2866 @@
+[
+  {
+    "slug": "dry-martini",
+    "name": {
+      "ja": "ドライ・マティーニ",
+      "en": "Dry Martini"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ジン 60ml",
+        "en": "Gin 60 ml"
+      },
+      {
+        "ja": "ドライ・ベルモット 10ml",
+        "en": "Dry vermouth 10 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/dry-martini/",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたカクテルグラスに注ぐ",
+      "en": "Stir with ice in a mixing glass; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "レモンピールの香りを搾りかける。好みでオリーブ",
+      "en": "Lemon peel oils, or an olive on request"
+    },
+    "dek": {
+      "ja": "ジンとベルモットだけで作る、カクテルの代名詞。日本のバーでは、ステアの回数や温度まで店ごとの流儀がある。",
+      "en": "Gin and vermouth, nothing more: the archetypal cocktail. In Japanese bars, even the number of stirs and the temperature are a matter of house style."
+    },
+    "history": {
+      "ja": "起源ははっきりせず、甘口のマルティネスから発展したという説が知られる。",
+      "en": "Its origin is unclear; one well-known theory is that it evolved from the sweeter Martinez."
+    },
+    "japan": {
+      "ja": "銀座の毛利バーでは、ベルモットをごく控えめにして約100回ステアする「毛利マティーニ」が名物。Mixology Heritageの「Ultimate Martini」、Virtùやパンチルームの独自のマティーニもある。",
+      "en": "Mori Bar in Ginza is famous for its Mori Martini, with a whisper of vermouth and about 100 stirs. Mixology Heritage's Ultimate Martini and house martinis at Virtù and Punch Room are others to seek out."
+    },
+    "barSlugs": [
+      "mori-bar-gran",
+      "mixology-heritage",
+      "virtu",
+      "punch-room-tokyo",
+      "bar-juniper-osaka"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/dry-martini/",
+      "https://en.wikipedia.org/wiki/Martini_(cocktail)",
+      "https://www.esquire.com/jp/lifestyle/food-drink/a70460952/about-mori-bar-gran/"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "gimlet",
+    "name": {
+      "ja": "ギムレット",
+      "en": "Gimlet"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ジン",
+        "en": "Gin"
+      },
+      {
+        "ja": "ライム・コーディアル（甘味のあるライムジュース）",
+        "en": "Lime cordial (sweetened lime juice)"
+      }
+    ],
+    "specSource": "https://en.wikipedia.org/wiki/Gimlet_(cocktail)",
+    "method": {
+      "ja": "シェイクまたはステアし、カクテルグラスに注ぐ",
+      "en": "Shake or stir; strain into a cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ジンとライム・コーディアルの二つで作る、きりっとした一杯。比率は時代と店で変わる。",
+      "en": "A crisp two-ingredient drink of gin and lime cordial. The ratio varies with era and bar."
+    },
+    "history": {
+      "ja": "1930年の『サヴォイ・カクテルブック』はジンとライム・コーディアルを半々とした。チャンドラーの小説『長いお別れ』（1953年）の台詞でも知られる。現代はジンを多めにする傾向がある。",
+      "en": "The Savoy Cocktail Book (1930) gives half gin, half lime cordial. A line in Raymond Chandler's The Long Goodbye (1953) made it famous. Modern versions tend to use more gin."
+    },
+    "japan": {
+      "ja": "日本では「ギムレットには早すぎる」という小説の台詞とともに知られ、バーの定番として親しまれている。",
+      "en": "In Japan it is known through that line from Chandler's novel, and is a bar staple."
+    },
+    "barSlugs": [
+      "bar-juniper-osaka"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gimlet_(cocktail)",
+      "https://www.diffordsguide.com/cocktails/recipe/831/gimlet-diffords-recipe"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": "No current IBA page; ratio left open intentionally."
+  },
+  {
+    "slug": "highball",
+    "name": {
+      "ja": "ハイボール",
+      "en": "Highball"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ウイスキー",
+        "en": "Whisky"
+      },
+      {
+        "ja": "炭酸水",
+        "en": "Soda water"
+      }
+    ],
+    "specSource": "https://en.wikipedia.org/wiki/Highball",
+    "method": {
+      "ja": "氷を入れたグラスにウイスキーを注ぎ、炭酸水で満たして軽く混ぜる",
+      "en": "Pour whisky over ice and top with soda; stir gently"
+    },
+    "glass": {
+      "ja": "ハイボールグラス",
+      "en": "Highball glass"
+    },
+    "garnish": {
+      "ja": "好みでレモンピール",
+      "en": "Lemon peel, optional"
+    },
+    "dek": {
+      "ja": "ウイスキーを炭酸水で割った、日本で最も親しまれている飲み方のひとつ。",
+      "en": "Whisky lengthened with soda: one of the most loved ways to drink in Japan."
+    },
+    "history": {
+      "ja": "スピリッツを炭酸などで割るロングドリンクで、20世紀半ばには世界に広まり、特に日本で定着した。",
+      "en": "A long drink of spirit and mixer that spread worldwide by the mid-20th century, taking particularly deep root in Japan."
+    },
+    "japan": {
+      "ja": "1950年代のトリスバーで大衆化し、2008年にサントリーが角ハイボールの普及を始めて再ブームとなった（翌2009年に缶を発売）。1918年に神戸で創業したサンボアは、冷やしたウイスキーと炭酸で作る氷なしのハイボールを守っている。",
+      "en": "Torys Bars made it a popular drink in the 1950s, and Suntory's Kaku Highball campaign from 2008 brought a revival (a canned version followed in 2009). Samboa, founded in Kobe in 1918, still serves its highball without ice, using chilled whisky and soda."
+    },
+    "barSlugs": [
+      "sukiyabashi-samboa",
+      "gion-samboa"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Highball",
+      "https://www.suntory.co.jp/whisky/100th/history/",
+      "https://www.samboa.bar/",
+      "https://www.ienomistyle.com/sakeguide/20221224-6070"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "mizuwari",
+    "name": {
+      "ja": "水割り",
+      "en": "Mizuwari"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ウイスキー 1",
+        "en": "Whisky, 1 part"
+      },
+      {
+        "ja": "冷たい水 2〜2.5",
+        "en": "Cold water, 2–2.5 parts"
+      }
+    ],
+    "specSource": "https://www.suntory.co.jp/whisky/beginner/drink/water.html",
+    "method": {
+      "ja": "氷を入れたグラスでウイスキーをよく冷やし、水を加えてステアする",
+      "en": "Chill whisky over ice in the glass, add water and stir"
+    },
+    "glass": {
+      "ja": "タンブラー",
+      "en": "Tumbler"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ウイスキーを水で割る、日本の食卓で育った飲み方。香りが開き、食事に合わせやすい。",
+      "en": "Whisky with water, a style that grew up at the Japanese dinner table. It opens the aroma and pairs easily with food."
+    },
+    "history": {
+      "ja": "焼酎を水で割る日本の習慣から広まり、ウイスキーでも定着した。",
+      "en": "It grew out of the Japanese habit of cutting shochu with water and became just as common with whisky."
+    },
+    "japan": {
+      "ja": "サントリーは公式に、ウイスキー1に対し水2〜2.5を目安としている。",
+      "en": "Suntory officially suggests about 2 to 2.5 parts water to 1 part whisky."
+    },
+    "barSlugs": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mizuwari",
+      "https://www.suntory.co.jp/whisky/beginner/drink/water.html",
+      "https://www.suntory.co.jp/customer/faq/001767.html"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "chuhai",
+    "name": {
+      "ja": "チューハイ",
+      "en": "Chūhai"
+    },
+    "baseSpirit": "shochu",
+    "baseLabel": {
+      "ja": "焼酎",
+      "en": "Shochu"
+    },
+    "strictBase": "shochu",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "焼酎",
+        "en": "Shochu"
+      },
+      {
+        "ja": "炭酸水",
+        "en": "Soda water"
+      },
+      {
+        "ja": "果汁などの風味（任意）",
+        "en": "Fruit juice or other flavouring (optional)"
+      }
+    ],
+    "specSource": "https://en.wikipedia.org/wiki/Ch%C5%ABhai",
+    "method": {
+      "ja": "氷を入れたグラスに焼酎を注ぎ、炭酸水で満たす",
+      "en": "Pour shochu over ice and top with soda"
+    },
+    "glass": {
+      "ja": "ジョッキまたはタンブラー",
+      "en": "Mug or tumbler"
+    },
+    "garnish": {
+      "ja": "好みでレモンなど",
+      "en": "Lemon or other citrus, optional"
+    },
+    "dek": {
+      "ja": "「焼酎ハイボール」を縮めた名前。居酒屋の定番で、レモンや季節の果物で味を変える。",
+      "en": "Short for 'shochu highball'. An izakaya staple, flavoured with lemon or seasonal fruit."
+    },
+    "history": {
+      "ja": "名前は焼酎ハイボールの略で、日本で生まれた飲み物。",
+      "en": "The name abbreviates 'shochu highball', a drink born in Japan."
+    },
+    "japan": {
+      "ja": "1984年、宝酒造が日本初の缶入りチューハイ「タカラcanチューハイ」を発売し、家庭にも広まった。",
+      "en": "In 1984 Takara Shuzo launched Japan's first canned chuhai, taking the drink into homes."
+    },
+    "barSlugs": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ch%C5%ABhai",
+      "https://www.takarashuzo.co.jp/news/1188201_1999.html",
+      "https://www.takara.co.jp/story/1188581_2231.html"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "yukiguni",
+    "name": {
+      "ja": "雪国",
+      "en": "Yukiguni"
+    },
+    "baseSpirit": "vodka",
+    "baseLabel": {
+      "ja": "ウオッカ",
+      "en": "Vodka"
+    },
+    "strictBase": "vodka",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ウオッカ 30ml",
+        "en": "Vodka 30 ml"
+      },
+      {
+        "ja": "ホワイト・キュラソー 15ml",
+        "en": "White curaçao 15 ml"
+      },
+      {
+        "ja": "ライム・コーディアル 7ml",
+        "en": "Lime cordial 7 ml"
+      }
+    ],
+    "specSource": "https://www.suntory.co.jp/wnb/essay/109.html",
+    "method": {
+      "ja": "シェイクし、砂糖でスノースタイルにしたグラスに注ぐ",
+      "en": "Shake and strain into a sugar-rimmed glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス（砂糖のスノースタイル）",
+      "en": "Cocktail glass with a sugar rim"
+    },
+    "garnish": {
+      "ja": "ミントチェリーを沈める",
+      "en": "A mint cherry dropped into the glass"
+    },
+    "dek": {
+      "ja": "砂糖の縁取りとミントチェリーで雪景色を描いた、昭和を代表する日本生まれのカクテル。",
+      "en": "A Showa-era Japanese classic that paints a snowscape with its sugar rim and mint cherry."
+    },
+    "history": {
+      "ja": "山形県酒田市の喫茶・バー「ケルン」の井山計一氏が考案し、1958年の寿屋（現サントリー）のカクテルコンクールで栄冠を得た。",
+      "en": "Created by Keiichi Iyama of Kern in Sakata, Yamagata, it won Kotobukiya's (now Suntory's) cocktail contest in 1958."
+    },
+    "japan": {
+      "ja": "発祥の店ケルンは2023年12月に移転し、今も酒田で雪国を出している。",
+      "en": "Kern moved in December 2023 and still serves Yukiguni in Sakata."
+    },
+    "barSlugs": [
+      "kern-sakata"
+    ],
+    "sources": [
+      "https://www.suntory.co.jp/wnb/essay/109.html",
+      "https://news.ntv.co.jp/n/ybc/category/society/yb8871b04d87d647e798d1ad635ac80ddd"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "bamboo",
+    "name": {
+      "ja": "バンブー",
+      "en": "Bamboo"
+    },
+    "baseSpirit": "sherry",
+    "baseLabel": {
+      "ja": "シェリー",
+      "en": "Sherry"
+    },
+    "strictBase": "sherry",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "フィノ・シェリー 60ml",
+        "en": "Fino sherry 60 ml"
+      },
+      {
+        "ja": "ベルモット 20ml",
+        "en": "Vermouth 20 ml"
+      },
+      {
+        "ja": "オレンジ・ビターズ 2ダッシュ",
+        "en": "Orange bitters, 2 dashes"
+      }
+    ],
+    "specSource": "https://www.diffordsguide.com/cocktails/recipe/18976/bamboo-diffords-classic-recipe",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "オレンジピール",
+      "en": "Orange zest"
+    },
+    "dek": {
+      "ja": "シェリーとベルモットで作る、度数の低い食前向きのカクテル。横浜と縁が深い。",
+      "en": "A low-alcohol aperitif of sherry and vermouth, closely tied to Yokohama."
+    },
+    "history": {
+      "ja": "1886年に初めて記録が残る。1889年から1907年まで横浜グランドホテルのバーを任されたルイス・エッピンガーが広めたことで知られる。",
+      "en": "First recorded in 1886, it was popularised by Louis Eppinger, who ran the bar at Yokohama's Grand Hotel from 1889 to 1907."
+    },
+    "japan": {
+      "ja": "横浜・ホテルニューグランドのバー シーガーディアンIIでも親しまれている。",
+      "en": "It remains a favourite at Bar Sea Guardian II in Yokohama's Hotel New Grand."
+    },
+    "barSlugs": [
+      "sea-guardian-ii"
+    ],
+    "sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/18976/bamboo-diffords-classic-recipe",
+      "https://www.hotel-newgrand.co.jp/menu/sea-guardian2-cocktail-story/"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": "Difford's splits vermouth 10 ml amber + 10 ml bianco; simplified to 'vermouth 20 ml'."
+  },
+  {
+    "slug": "yokohama",
+    "name": {
+      "ja": "ヨコハマ",
+      "en": "Yokohama"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 30ml",
+        "en": "Gin 30 ml"
+      },
+      {
+        "ja": "オレンジジュース 30ml",
+        "en": "Orange juice 30 ml"
+      },
+      {
+        "ja": "ウオッカ 15ml",
+        "en": "Vodka 15 ml"
+      },
+      {
+        "ja": "グレナデン・シロップ 7.5ml",
+        "en": "Grenadine 7.5 ml"
+      },
+      {
+        "ja": "アブサン 少量",
+        "en": "A dash of absinthe"
+      }
+    ],
+    "specSource": "https://www.diffordsguide.com/cocktails/recipe/2610/yokohama",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake and strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "港町の名を持つ、オレンジ色の華やかなカクテル。",
+      "en": "A bright orange cocktail named after the port city."
+    },
+    "history": {
+      "ja": "『サヴォイ・カクテルブック』に載る古典で、1923年のハリー・マッケルホーンの本にも見られる。",
+      "en": "A classic printed in The Savoy Cocktail Book and found earlier in Harry MacElhone's 1923 book."
+    },
+    "japan": {
+      "ja": "ホテルニューグランドのバー シーガーディアンIIの看板カクテルのひとつ。",
+      "en": "One of the signature drinks at Bar Sea Guardian II, Hotel New Grand."
+    },
+    "barSlugs": [
+      "sea-guardian-ii"
+    ],
+    "sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/2610/yokohama",
+      "https://www.hotel-newgrand.co.jp/menu/sea-guardian2-cocktail-story/"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "million-dollar",
+    "name": {
+      "ja": "ミリオンダラー",
+      "en": "Million Dollar"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 45ml",
+        "en": "Gin 45 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 22.5ml",
+        "en": "Sweet vermouth 22.5 ml"
+      },
+      {
+        "ja": "パイナップルジュース 15ml",
+        "en": "Pineapple juice 15 ml"
+      },
+      {
+        "ja": "グレナデン・シロップ 7.5ml",
+        "en": "Grenadine 7.5 ml"
+      },
+      {
+        "ja": "卵白 15ml",
+        "en": "Egg white 15 ml"
+      }
+    ],
+    "specSource": "https://www.diffordsguide.com/cocktails/recipe/1319/million-dollar-cocktail",
+    "method": {
+      "ja": "よくシェイクし、カクテルグラスに注ぐ",
+      "en": "Shake hard and strain into a cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "卵白の泡がのる、ピンク色のやわらかな一杯。横浜生まれとされる。",
+      "en": "A soft pink drink with a foam of egg white, said to have been born in Yokohama."
+    },
+    "history": {
+      "ja": "1894年ごろ、横浜グランドホテルのルイス・エッピンガーが考案したとされる。",
+      "en": "It is attributed to Louis Eppinger of Yokohama's Grand Hotel, around 1894."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/1319/million-dollar-cocktail"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "japanese-cocktail",
+    "name": {
+      "ja": "ジャパニーズ・カクテル",
+      "en": "Japanese Cocktail"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "コニャック 60ml",
+        "en": "Cognac 60 ml"
+      },
+      {
+        "ja": "オルジェー・シロップ 10ml",
+        "en": "Orgeat syrup 10 ml"
+      },
+      {
+        "ja": "ビターズ 3ダッシュ",
+        "en": "Bitters, 3 dashes"
+      }
+    ],
+    "specSource": "https://www.diffordsguide.com/cocktails/recipe/1055/japanese-cocktail",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、グラスに注ぐ",
+      "en": "Stir with ice; strain into a glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "レモンピール",
+      "en": "Lemon peel"
+    },
+    "dek": {
+      "ja": "ブランデーにアーモンドのシロップを合わせた、19世紀の古典。",
+      "en": "A 19th-century classic of brandy and almond syrup."
+    },
+    "history": {
+      "ja": "1862年のジェリー・トーマスの本に載っている。1860年に訪米した日本の使節団にちなむという説もあるが、確証はない。",
+      "en": "It appears in Jerry Thomas's 1862 book. A link to the Japanese delegation that visited the US in 1860 is often suggested but unproven."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/1055/japanese-cocktail"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "japanese-slipper",
+    "name": {
+      "ja": "ジャパニーズ・スリッパー",
+      "en": "Japanese Slipper"
+    },
+    "baseSpirit": "liqueur",
+    "baseLabel": {
+      "ja": "リキュール",
+      "en": "Liqueur"
+    },
+    "strictBase": "liqueur",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "メロン・リキュール（ミドリ）",
+        "en": "Melon liqueur (Midori)"
+      },
+      {
+        "ja": "コアントロー",
+        "en": "Cointreau"
+      },
+      {
+        "ja": "レモンジュース",
+        "en": "Lemon juice"
+      }
+    ],
+    "specSource": "https://en.wikipedia.org/wiki/Japanese_slipper",
+    "method": {
+      "ja": "シェイクし、カクテルグラスに注ぐ",
+      "en": "Shake and strain into a cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "サントリーのメロン・リキュール「ミドリ」を使う、鮮やかな緑のカクテル。",
+      "en": "A vivid green cocktail built on Midori, Suntory's melon liqueur."
+    },
+    "history": {
+      "ja": "1984年、メルボルンの「ミエッタズ」でフランス人バーテンダーのジャン＝ポール・ブルギニョンが考案した。",
+      "en": "Created in 1984 by French bartender Jean-Paul Bourguignon at Mietta's in Melbourne."
+    },
+    "japan": {
+      "ja": "名前は日本風だが生まれはオーストラリア。ミドリはサントリーが作るリキュールで、夕張メロンなどの風味を持つ。",
+      "en": "Japanese in name, Australian by birth. Midori is made by Suntory and flavoured with Yubari King and other muskmelons."
+    },
+    "barSlugs": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Japanese_slipper",
+      "https://en.wikipedia.org/wiki/Midori_(liqueur)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "salty-dog",
+    "name": {
+      "ja": "ソルティ・ドッグ",
+      "en": "Salty Dog"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン（またはウオッカ）",
+        "en": "Gin (or vodka)"
+      },
+      {
+        "ja": "グレープフルーツジュース",
+        "en": "Grapefruit juice"
+      }
+    ],
+    "specSource": "https://en.wikipedia.org/wiki/Salty_dog_(cocktail)",
+    "method": {
+      "ja": "塩でスノースタイルにしたグラスに氷を入れ、材料を注ぐ",
+      "en": "Build over ice in a salt-rimmed glass"
+    },
+    "glass": {
+      "ja": "ハイボールグラス（塩のスノースタイル）",
+      "en": "Highball glass with a salt rim"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "グレープフルーツの酸味に、縁の塩がアクセントを添えるロングドリンク。",
+      "en": "A long drink where a salted rim sharpens tart grapefruit."
+    },
+    "history": {
+      "ja": "塩の縁取りがグレイハウンドとの違い。もともとはジンで作られ、1920年代にさかのぼるとされる。",
+      "en": "The salt rim sets it apart from the Greyhound. Traditionally made with gin, it is thought to date to the 1920s."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salty_dog_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "old-fashioned",
+    "name": {
+      "ja": "オールド・ファッションド",
+      "en": "Old Fashioned"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "バーボンまたはライ・ウイスキー 45ml",
+        "en": "Bourbon or rye whiskey 45 ml"
+      },
+      {
+        "ja": "角砂糖 1個",
+        "en": "1 sugar cube"
+      },
+      {
+        "ja": "アロマティック・ビターズ 数ダッシュ",
+        "en": "Angostura bitters, a few dashes"
+      },
+      {
+        "ja": "水 少量",
+        "en": "A few dashes of water"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/old-fashioned/",
+    "method": {
+      "ja": "グラスで角砂糖にビターズと水を染み込ませて溶かし、氷とウイスキーを加えてステアする",
+      "en": "Soak the sugar cube with bitters and water in the glass, muddle, add ice and whiskey, and stir"
+    },
+    "glass": {
+      "ja": "オールドファッションド・グラス",
+      "en": "Old fashioned glass"
+    },
+    "garnish": {
+      "ja": "オレンジのスライスまたはピール、チェリー",
+      "en": "Orange slice or zest and a cocktail cherry"
+    },
+    "dek": {
+      "ja": "ウイスキー、砂糖、ビターズだけの、カクテルの原型に近い一杯。",
+      "en": "Whiskey, sugar and bitters: close to the original idea of a cocktail."
+    },
+    "history": {
+      "ja": "「昔ながらの」ウイスキー・カクテルを求める客の声から、1880年ごろにこの名で呼ばれるようになったとされる。",
+      "en": "The name is said to have emerged around 1880, from drinkers asking for whiskey cocktails made the old way."
+    },
+    "japan": {
+      "ja": "東京のVirtùや、日本茶を使うMixology Salonなど、日本のバーでも独自の解釈が見られる。",
+      "en": "Tokyo bars put their own spin on it, from Virtù's version to Mixology Salon's green-tea twist."
+    },
+    "barSlugs": [
+      "virtu",
+      "mixology-salon"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/old-fashioned/",
+      "https://en.wikipedia.org/wiki/Old_fashioned_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "sidecar",
+    "name": {
+      "ja": "サイドカー",
+      "en": "Sidecar"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "コニャック 50ml",
+        "en": "Cognac 50 ml"
+      },
+      {
+        "ja": "トリプルセック 20ml",
+        "en": "Triple sec 20 ml"
+      },
+      {
+        "ja": "レモンジュース 20ml",
+        "en": "Fresh lemon juice 20 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/sidecar/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ブランデー、オレンジ・リキュール、レモンの三つで作る、酸味と甘みの均衡が要の一杯。",
+      "en": "Brandy, orange liqueur and lemon: a drink that lives on the balance of sweet and sour."
+    },
+    "history": {
+      "ja": "1920年代初めにパリとロンドンで流行した。",
+      "en": "It became popular in Paris and London in the early 1920s."
+    },
+    "japan": {
+      "ja": "銀座のスタア・バーで評判の一杯として知られる（二次情報）。",
+      "en": "Known as a celebrated drink at Star Bar Ginza (secondary source)."
+    },
+    "barSlugs": [
+      "star-bar-ginza"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/sidecar/",
+      "https://en.wikipedia.org/wiki/Sidecar_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "manhattan",
+    "name": {
+      "ja": "マンハッタン",
+      "en": "Manhattan"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ライ・ウイスキー 50ml",
+        "en": "Rye whiskey 50 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 20ml",
+        "en": "Sweet vermouth 20 ml"
+      },
+      {
+        "ja": "アロマティック・ビターズ 1ダッシュ",
+        "en": "Angostura bitters, 1 dash"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/manhattan/",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたカクテルグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "カクテルチェリー",
+      "en": "Cocktail cherry"
+    },
+    "dek": {
+      "ja": "ウイスキーとスイート・ベルモットで作る、「カクテルの女王」とも呼ばれる一杯。",
+      "en": "Whiskey and sweet vermouth, sometimes called the queen of cocktails."
+    },
+    "history": {
+      "ja": "1870年代半ばにニューヨークのマンハッタン・クラブで生まれたという話がよく知られる。",
+      "en": "A popular story places its birth at New York's Manhattan Club in the mid-1870s."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/manhattan/",
+      "https://en.wikipedia.org/wiki/Manhattan_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "daiquiri",
+    "name": {
+      "ja": "ダイキリ",
+      "en": "Daiquiri"
+    },
+    "baseSpirit": "rum",
+    "baseLabel": {
+      "ja": "ラム",
+      "en": "Rum"
+    },
+    "strictBase": "rum",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ホワイト・ラム 60ml",
+        "en": "White rum 60 ml"
+      },
+      {
+        "ja": "ライムジュース 20ml",
+        "en": "Fresh lime juice 20 ml"
+      },
+      {
+        "ja": "砂糖 バースプーン2杯",
+        "en": "Superfine sugar, 2 bar spoons"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/daiquiri/",
+    "method": {
+      "ja": "砂糖を溶かしてから氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Dissolve the sugar, shake with ice and strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ラム、ライム、砂糖だけで作るキューバ生まれの古典。シンプルなだけに作り手の差が出る。",
+      "en": "A Cuban classic of rum, lime and sugar. Its simplicity shows every difference in technique."
+    },
+    "history": {
+      "ja": "1898年ごろ、キューバで米国人技師ジェニングス・コックスが作ったという説が知られる。",
+      "en": "It is commonly credited to American engineer Jennings Cox in Cuba, around 1898."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/daiquiri/",
+      "https://en.wikipedia.org/wiki/Daiquiri"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "negroni",
+    "name": {
+      "ja": "ネグローニ",
+      "en": "Negroni"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "finish",
+    "spec": [
+      {
+        "ja": "ジン 30ml",
+        "en": "Gin 30 ml"
+      },
+      {
+        "ja": "カンパリ 30ml",
+        "en": "Campari 30 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 30ml",
+        "en": "Sweet vermouth 30 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/negroni/",
+    "method": {
+      "ja": "氷を入れたグラスに直接注ぎ、軽くステアする",
+      "en": "Build over ice in an old fashioned glass and stir gently"
+    },
+    "glass": {
+      "ja": "オールドファッションド・グラス",
+      "en": "Old fashioned glass"
+    },
+    "garnish": {
+      "ja": "オレンジのハーフスライス",
+      "en": "Half orange slice"
+    },
+    "dek": {
+      "ja": "ジン、カンパリ、ベルモットを同量で合わせる、ほろ苦いイタリアの食前酒。",
+      "en": "Equal parts gin, Campari and vermouth: Italy's bittersweet aperitivo."
+    },
+    "history": {
+      "ja": "1919年ごろ、フィレンツェでネグローニ伯爵がアメリカーノにジンを加えるよう頼んだのが始まりとされる。",
+      "en": "The story goes that around 1919 in Florence, Count Negroni asked for his Americano to be strengthened with gin."
+    },
+    "japan": {
+      "ja": "池袋のBar Libreなど、日本のバーでも独自のアレンジが出されている。",
+      "en": "Bars such as Bar Libre in Ikebukuro serve their own twists."
+    },
+    "barSlugs": [
+      "bar-libre"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/negroni/",
+      "https://en.wikipedia.org/wiki/Negroni"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "moscow-mule",
+    "name": {
+      "ja": "モスコミュール",
+      "en": "Moscow Mule"
+    },
+    "baseSpirit": "vodka",
+    "baseLabel": {
+      "ja": "ウオッカ",
+      "en": "Vodka"
+    },
+    "strictBase": "vodka",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ウオッカ 45ml",
+        "en": "Vodka 45 ml"
+      },
+      {
+        "ja": "ジンジャービア 120ml",
+        "en": "Ginger beer 120 ml"
+      },
+      {
+        "ja": "ライムジュース 10ml",
+        "en": "Fresh lime juice 10 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/moscow-mule/",
+    "method": {
+      "ja": "銅のマグか氷を入れたグラスで、ウオッカとジンジャービアを合わせ、ライムを加えて軽く混ぜる",
+      "en": "Combine vodka and ginger beer in a copper mug or rocks glass, add lime and stir gently"
+    },
+    "glass": {
+      "ja": "銅のマグ",
+      "en": "Copper mug"
+    },
+    "garnish": {
+      "ja": "ライムのスライス",
+      "en": "Lime slice"
+    },
+    "dek": {
+      "ja": "ウオッカとジンジャービア、ライムで作る爽やかなロングドリンク。銅のマグでも知られる。",
+      "en": "A bright long drink of vodka, ginger beer and lime, famous for its copper mug."
+    },
+    "history": {
+      "ja": "1941年ごろ米国で、ウオッカとジンジャービアの販売促進のために広められたとされる。",
+      "en": "It is said to have been promoted in the US around 1941 to sell vodka and ginger beer."
+    },
+    "japan": {
+      "ja": "福岡・中洲のBar Higuchiは、名物のモスコミュールで知られる。",
+      "en": "Bar Higuchi in Fukuoka's Nakasu is known for its house Moscow Mule."
+    },
+    "barSlugs": [
+      "bar-higuchi-fukuoka"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/moscow-mule/",
+      "https://en.wikipedia.org/wiki/Moscow_mule",
+      "https://izakayahopping.com/hakata-bar-higuchi/"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "white-lady",
+    "name": {
+      "ja": "ホワイト・レディ",
+      "en": "White Lady"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 40ml",
+        "en": "Gin 40 ml"
+      },
+      {
+        "ja": "トリプルセック 30ml",
+        "en": "Triple sec 30 ml"
+      },
+      {
+        "ja": "レモンジュース 20ml",
+        "en": "Fresh lemon juice 20 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/white-lady/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "サイドカーのブランデーをジンに替えた形の、白く澄んだ一杯。",
+      "en": "The Sidecar with gin in place of brandy: pale, clean and bright."
+    },
+    "history": {
+      "ja": "ハリー・マッケルホーンがロンドンで1919年に考案した形が原型とされる。",
+      "en": "Its origin is credited to Harry MacElhone in London, 1919."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/white-lady/",
+      "https://en.wikipedia.org/wiki/White_Lady_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "gin-fizz",
+    "name": {
+      "ja": "ジン・フィズ",
+      "en": "Gin Fizz"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 45ml",
+        "en": "Gin 45 ml"
+      },
+      {
+        "ja": "レモンジュース 30ml",
+        "en": "Fresh lemon juice 30 ml"
+      },
+      {
+        "ja": "シュガーシロップ 10ml",
+        "en": "Simple syrup 10 ml"
+      },
+      {
+        "ja": "炭酸水 少量",
+        "en": "A splash of soda water"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/gin-fizz/",
+    "method": {
+      "ja": "炭酸水以外をシェイクして細いタンブラーに注ぎ、炭酸水を加える。氷は入れない",
+      "en": "Shake everything but the soda, strain into a slim tumbler and top with soda; no ice"
+    },
+    "glass": {
+      "ja": "タンブラー",
+      "en": "Tumbler"
+    },
+    "garnish": {
+      "ja": "レモンスライス",
+      "en": "Lemon slice"
+    },
+    "dek": {
+      "ja": "ジン、レモン、砂糖を炭酸で軽くした、日本のバーでもおなじみの一杯。",
+      "en": "Gin, lemon and sugar lifted with soda: a familiar order in Japanese bars."
+    },
+    "history": {
+      "ja": "サワー系から派生した「フィズ」の代表格。酸味のある果汁と炭酸が特徴。",
+      "en": "The best-known fizz, a branch of the sour family defined by citrus and soda."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/gin-fizz/",
+      "https://en.wikipedia.org/wiki/Fizz_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "margarita",
+    "name": {
+      "ja": "マルガリータ",
+      "en": "Margarita"
+    },
+    "baseSpirit": "tequila",
+    "baseLabel": {
+      "ja": "テキーラ",
+      "en": "Tequila"
+    },
+    "strictBase": "tequila",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "テキーラ（アガベ100%） 50ml",
+        "en": "100% agave tequila 50 ml"
+      },
+      {
+        "ja": "トリプルセック 20ml",
+        "en": "Triple sec 20 ml"
+      },
+      {
+        "ja": "ライムジュース 15ml",
+        "en": "Fresh lime juice 15 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/margarita/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "好みで塩のハーフ・スノースタイル",
+      "en": "Half salt rim, optional"
+    },
+    "dek": {
+      "ja": "テキーラにライムとオレンジ・リキュール。塩の縁取りが味を引き締める。",
+      "en": "Tequila, lime and orange liqueur, sharpened by a rim of salt."
+    },
+    "history": {
+      "ja": "考案者には諸説あり、1930年代後半からの主張がいくつも残る。",
+      "en": "Several people claim its invention, with stories going back to the late 1930s."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/margarita/",
+      "https://en.wikipedia.org/wiki/Margarita"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "whiskey-sour",
+    "name": {
+      "ja": "ウイスキー・サワー",
+      "en": "Whiskey Sour"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "バーボン 45ml",
+        "en": "Bourbon 45 ml"
+      },
+      {
+        "ja": "レモンジュース 25ml",
+        "en": "Fresh lemon juice 25 ml"
+      },
+      {
+        "ja": "シュガーシロップ 20ml",
+        "en": "Sugar syrup 20 ml"
+      },
+      {
+        "ja": "卵白 少量（任意）",
+        "en": "A few drops of egg white (optional)"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/whiskey-sour/",
+    "method": {
+      "ja": "シェイクし、グラスに注ぐ",
+      "en": "Shake with ice and strain"
+    },
+    "glass": {
+      "ja": "サワーグラスまたはオールドファッションド・グラス",
+      "en": "Sour or old fashioned glass"
+    },
+    "garnish": {
+      "ja": "オレンジのハーフスライスとチェリー",
+      "en": "Half orange slice and a cherry"
+    },
+    "dek": {
+      "ja": "ウイスキーにレモンと砂糖。甘み、酸味、ほのかな苦みが重なる。",
+      "en": "Whiskey with lemon and sugar, layering sweet, sour and a little bitterness."
+    },
+    "history": {
+      "ja": "サワーと呼ばれる系統の代表的な一杯。",
+      "en": "The archetype of the sour family."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/whiskey-sour/",
+      "https://en.wikipedia.org/wiki/Whiskey_sour"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "mojito",
+    "name": {
+      "ja": "モヒート",
+      "en": "Mojito"
+    },
+    "baseSpirit": "rum",
+    "baseLabel": {
+      "ja": "ラム",
+      "en": "Rum"
+    },
+    "strictBase": "rum",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ホワイト・ラム 45ml",
+        "en": "White rum 45 ml"
+      },
+      {
+        "ja": "ライムジュース 20ml",
+        "en": "Fresh lime juice 20 ml"
+      },
+      {
+        "ja": "ミント 6枝",
+        "en": "6 mint sprigs"
+      },
+      {
+        "ja": "砂糖 小さじ2",
+        "en": "2 tsp white cane sugar"
+      },
+      {
+        "ja": "炭酸水",
+        "en": "Soda water"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/mojito/",
+    "method": {
+      "ja": "ミント、砂糖、ライムを合わせ、氷とラムを加えて炭酸水で満たし、軽く混ぜる",
+      "en": "Combine mint, sugar and lime; add ice and rum, top with soda and stir lightly"
+    },
+    "glass": {
+      "ja": "ハイボールグラス",
+      "en": "Highball glass"
+    },
+    "garnish": {
+      "ja": "ミントとライムのスライス",
+      "en": "Mint sprigs and a lime slice"
+    },
+    "dek": {
+      "ja": "ミントとライムの香りが立つ、キューバ生まれの夏の定番。",
+      "en": "Cuba's summer favourite, alive with mint and lime."
+    },
+    "history": {
+      "ja": "ハバナで親しまれてきた伝統的な飲み物。",
+      "en": "A traditional drink long associated with Havana."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/mojito/",
+      "https://en.wikipedia.org/wiki/Mojito"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "tom-collins",
+    "name": {
+      "ja": "トム・コリンズ",
+      "en": "Tom Collins"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "オールド・トム・ジン 45ml",
+        "en": "Old Tom gin 45 ml"
+      },
+      {
+        "ja": "レモンジュース 30ml",
+        "en": "Fresh lemon juice 30 ml"
+      },
+      {
+        "ja": "シュガーシロップ 15ml",
+        "en": "Simple syrup 15 ml"
+      },
+      {
+        "ja": "炭酸水 60ml",
+        "en": "Soda water 60 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/john-collins/",
+    "method": {
+      "ja": "氷を入れたグラスに材料を注ぎ、軽く混ぜる",
+      "en": "Build over ice in a highball glass and stir gently"
+    },
+    "glass": {
+      "ja": "コリンズグラス",
+      "en": "Collins glass"
+    },
+    "garnish": {
+      "ja": "レモンスライスとチェリー",
+      "en": "Lemon slice and cherry"
+    },
+    "dek": {
+      "ja": "ジン、レモン、砂糖、炭酸。背の高いグラスで飲む、爽快なレモネード風の一杯。",
+      "en": "Gin, lemon, sugar and soda in a tall glass: a grown-up sparkling lemonade."
+    },
+    "history": {
+      "ja": "ロンドンのリマーズ・ホテルの給仕ジョン・コリンズの名に由来するとされる。",
+      "en": "The name is traced to John Collins, a waiter at Limmer's Hotel in London."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/john-collins/",
+      "https://en.wikipedia.org/wiki/Tom_Collins",
+      "https://www.diffordsguide.com/cocktails/recipe/1972/tom-collins"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": "IBA lists John Collins and notes Old Tom gin makes it a Tom Collins."
+  },
+  {
+    "slug": "bloody-mary",
+    "name": {
+      "ja": "ブラッディ・メアリー",
+      "en": "Bloody Mary"
+    },
+    "baseSpirit": "vodka",
+    "baseLabel": {
+      "ja": "ウオッカ",
+      "en": "Vodka"
+    },
+    "strictBase": "vodka",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ウオッカ 45ml",
+        "en": "Vodka 45 ml"
+      },
+      {
+        "ja": "トマトジュース 90ml",
+        "en": "Tomato juice 90 ml"
+      },
+      {
+        "ja": "レモンジュース 15ml",
+        "en": "Fresh lemon juice 15 ml"
+      },
+      {
+        "ja": "ウスターソース 2ダッシュ",
+        "en": "Worcestershire sauce, 2 dashes"
+      },
+      {
+        "ja": "タバスコ、セロリソルト、胡椒 適量",
+        "en": "Tabasco, celery salt and pepper to taste"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/bloody-mary/",
+    "method": {
+      "ja": "ミキシンググラスで氷と軽くステアし、グラスに注ぐ",
+      "en": "Stir gently with ice in a mixing glass; pour into a rocks glass"
+    },
+    "glass": {
+      "ja": "ロックグラス",
+      "en": "Rocks glass"
+    },
+    "garnish": {
+      "ja": "セロリ、レモン（任意）",
+      "en": "Celery and a lemon wedge (optional)"
+    },
+    "dek": {
+      "ja": "トマトジュースと香辛料で仕立てる、食事のようなカクテル。",
+      "en": "A savoury cocktail of tomato juice and spice, almost a meal in a glass."
+    },
+    "history": {
+      "ja": "1921年ごろ、パリでフェルナン・プティオが作ったという説が知られる。",
+      "en": "It is often credited to Fernand Petiot in Paris, around 1921."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/bloody-mary/",
+      "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "americano",
+    "name": {
+      "ja": "アメリカーノ",
+      "en": "Americano"
+    },
+    "baseSpirit": "bitter-aperitif",
+    "baseLabel": {
+      "ja": "ビター・アペリティフ",
+      "en": "Bitter aperitif"
+    },
+    "strictBase": "aperitif",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "カンパリ 30ml",
+        "en": "Campari 30 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 30ml",
+        "en": "Sweet vermouth 30 ml"
+      },
+      {
+        "ja": "炭酸水 少量",
+        "en": "A splash of soda water"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/americano/",
+    "method": {
+      "ja": "氷を入れたグラスで合わせ、炭酸水を加えて軽く混ぜる",
+      "en": "Build over ice, add a splash of soda and stir gently"
+    },
+    "glass": {
+      "ja": "オールドファッションド・グラス",
+      "en": "Old fashioned glass"
+    },
+    "garnish": {
+      "ja": "オレンジのハーフスライスとレモンピール",
+      "en": "Half orange slice and lemon zest"
+    },
+    "dek": {
+      "ja": "カンパリとベルモットを炭酸で軽くした、低アルコールの食前酒。",
+      "en": "Campari and vermouth lightened with soda: a low-alcohol aperitif."
+    },
+    "history": {
+      "ja": "1860年代、ミラノのカフェ・カンパリで出されたのが始まりとされ、ネグローニの原型になった。",
+      "en": "Traced to Caffè Campari in Milan in the 1860s, it later inspired the Negroni."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/americano/",
+      "https://en.wikipedia.org/wiki/Americano_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "vesper",
+    "name": {
+      "ja": "ヴェスパー",
+      "en": "Vesper"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ジン 45ml",
+        "en": "Gin 45 ml"
+      },
+      {
+        "ja": "ウオッカ 15ml",
+        "en": "Vodka 15 ml"
+      },
+      {
+        "ja": "リレ・ブラン 7.5ml",
+        "en": "Lillet Blanc 7.5 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/vesper/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "レモンピール",
+      "en": "Lemon zest"
+    },
+    "dek": {
+      "ja": "ジンとウオッカを合わせた、きわめて辛口の一杯。",
+      "en": "Gin and vodka together, bone-dry and strong."
+    },
+    "history": {
+      "ja": "イアン・フレミングの小説『カジノ・ロワイヤル』（1953年）でジェームズ・ボンドが注文する。当時のキナ・リレは現存せず、リレ・ブランなどで代用する。",
+      "en": "James Bond orders it in Ian Fleming's Casino Royale (1953). The original Kina Lillet is no longer made, so Lillet Blanc or similar stands in."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/vesper/",
+      "https://en.wikipedia.org/wiki/Vesper_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "rob-roy",
+    "name": {
+      "ja": "ロブ・ロイ",
+      "en": "Rob Roy"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ブレンデッド・スコッチ 60ml",
+        "en": "Blended Scotch whisky 60 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 30ml",
+        "en": "Sweet vermouth 30 ml"
+      },
+      {
+        "ja": "ビターズ 少量",
+        "en": "A few drops of bitters"
+      }
+    ],
+    "specSource": "https://www.diffordsguide.com/cocktails/recipe/1681/rob-roy",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "オレンジピールとチェリー",
+      "en": "Orange zest and a cherry"
+    },
+    "dek": {
+      "ja": "マンハッタンのウイスキーをスコッチに替えた形の一杯。",
+      "en": "Essentially a Manhattan made with Scotch."
+    },
+    "history": {
+      "ja": "名前は1894年にニューヨークで初演されたオペレッタ『ロブ・ロイ』にちなむ。ウォルドーフ・アストリアで生まれたという話もあるが、異説もある。",
+      "en": "Named after the operetta Rob Roy, which premiered in New York in 1894. A Waldorf-Astoria origin is often told, though disputed."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rob_Roy_(cocktail)",
+      "https://www.diffordsguide.com/cocktails/recipe/1681/rob-roy"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "rusty-nail",
+    "name": {
+      "ja": "ラスティ・ネイル",
+      "en": "Rusty Nail"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "スコッチ・ウイスキー 45ml",
+        "en": "Scotch whisky 45 ml"
+      },
+      {
+        "ja": "ドランブイ 25ml",
+        "en": "Drambuie 25 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/rusty-nail/",
+    "method": {
+      "ja": "氷を入れたグラスに直接注ぎ、軽くステアする",
+      "en": "Build over ice and stir gently"
+    },
+    "glass": {
+      "ja": "オールドファッションド・グラス",
+      "en": "Old fashioned glass"
+    },
+    "garnish": {
+      "ja": "レモンピール",
+      "en": "Lemon zest"
+    },
+    "dek": {
+      "ja": "スコッチに蜂蜜とハーブのリキュールを合わせた、食後向きの二品カクテル。",
+      "en": "Scotch with a honeyed herbal liqueur: a two-ingredient after-dinner drink."
+    },
+    "history": {
+      "ja": "スコッチとドランブイの組み合わせとして定着した古典。",
+      "en": "A classic pairing of Scotch and Drambuie."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/rusty-nail/",
+      "https://en.wikipedia.org/wiki/Rusty_nail_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "grasshopper",
+    "name": {
+      "ja": "グラスホッパー",
+      "en": "Grasshopper"
+    },
+    "baseSpirit": "liqueur",
+    "baseLabel": {
+      "ja": "リキュール",
+      "en": "Liqueur"
+    },
+    "strictBase": "liqueur",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "クレーム・ド・カカオ（ホワイト） 20ml",
+        "en": "White crème de cacao 20 ml"
+      },
+      {
+        "ja": "クレーム・ド・ミント（グリーン） 20ml",
+        "en": "Green crème de menthe 20 ml"
+      },
+      {
+        "ja": "生クリーム 20ml",
+        "en": "Fresh cream 20 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/grasshopper/",
+    "method": {
+      "ja": "短くシェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake briskly; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "好みでミントの葉",
+      "en": "Mint leaf, optional"
+    },
+    "dek": {
+      "ja": "ミントとカカオ、クリームで作る緑色のデザートカクテル。",
+      "en": "A green dessert cocktail of mint, cacao and cream."
+    },
+    "history": {
+      "ja": "ニューオーリンズのバー、トゥジャックスが1918年に考案したと主張している。",
+      "en": "New Orleans bar Tujague's claims its owner created it in 1918."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/grasshopper/",
+      "https://en.wikipedia.org/wiki/Grasshopper_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "alexander",
+    "name": {
+      "ja": "アレキサンダー",
+      "en": "Alexander"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "コニャック 30ml",
+        "en": "Cognac 30 ml"
+      },
+      {
+        "ja": "クレーム・ド・カカオ（ブラウン） 30ml",
+        "en": "Brown crème de cacao 30 ml"
+      },
+      {
+        "ja": "生クリーム 30ml",
+        "en": "Fresh cream 30 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/alexander/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "ナツメグを削りかける",
+      "en": "Freshly grated nutmeg"
+    },
+    "dek": {
+      "ja": "ブランデー、カカオ、クリームのなめらかな食後の一杯。",
+      "en": "Brandy, cacao and cream: a smooth after-dinner classic."
+    },
+    "history": {
+      "ja": "20世紀初頭に人気を得た。もとはジンを使うアレキサンダーがあり、ブランデー版が広まった。",
+      "en": "Popular in the early 20th century; an earlier gin-based Alexander gave way to the brandy version."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/alexander/",
+      "https://en.wikipedia.org/wiki/Brandy_Alexander"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "aviation",
+    "name": {
+      "ja": "アビエイション",
+      "en": "Aviation"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ジン 45ml",
+        "en": "Gin 45 ml"
+      },
+      {
+        "ja": "マラスキーノ 15ml",
+        "en": "Maraschino 15 ml"
+      },
+      {
+        "ja": "レモンジュース 15ml",
+        "en": "Fresh lemon juice 15 ml"
+      },
+      {
+        "ja": "クレーム・ド・ヴィオレット バースプーン1杯",
+        "en": "Crème de violette, 1 bar spoon"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/aviation/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with cracked ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "好みでマラスキーノ・チェリー",
+      "en": "Maraschino cherry, optional"
+    },
+    "dek": {
+      "ja": "すみれのリキュールが淡い空色を添える、ジンの古典。",
+      "en": "A gin classic tinted sky-blue by violet liqueur."
+    },
+    "history": {
+      "ja": "ニューヨークのバーテンダー、ヒューゴ・エンスリンの1916年の本に載ったものが知られる。",
+      "en": "Best known from New York bartender Hugo Ensslin's 1916 book."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/aviation/",
+      "https://en.wikipedia.org/wiki/Aviation_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "last-word",
+    "name": {
+      "ja": "ラスト・ワード",
+      "en": "Last Word"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ジン 22.5ml",
+        "en": "Gin 22.5 ml"
+      },
+      {
+        "ja": "グリーン・シャルトリューズ 22.5ml",
+        "en": "Green Chartreuse 22.5 ml"
+      },
+      {
+        "ja": "マラスキーノ 22.5ml",
+        "en": "Maraschino 22.5 ml"
+      },
+      {
+        "ja": "ライムジュース 22.5ml",
+        "en": "Fresh lime juice 22.5 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/last-word/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "四つの材料を同量で合わせる、ハーブの香りが濃い一杯。",
+      "en": "Four ingredients in equal parts, intensely herbal."
+    },
+    "history": {
+      "ja": "1910年代、デトロイト・アスレチック・クラブで生まれたとされ、2000年代にシアトルで再評価された。",
+      "en": "Said to come from the Detroit Athletic Club in the 1910s, it was rediscovered in Seattle in the 2000s."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/last-word/",
+      "https://en.wikipedia.org/wiki/Last_Word_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "clover-club",
+    "name": {
+      "ja": "クローバー・クラブ",
+      "en": "Clover Club"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 45ml",
+        "en": "Gin 45 ml"
+      },
+      {
+        "ja": "ラズベリー・シロップ 15ml",
+        "en": "Raspberry syrup 15 ml"
+      },
+      {
+        "ja": "レモンジュース 15ml",
+        "en": "Fresh lemon juice 15 ml"
+      },
+      {
+        "ja": "卵白 少量",
+        "en": "A few drops of egg white"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/clover-club/",
+    "method": {
+      "ja": "よくシェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake well with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "ラズベリー",
+      "en": "Fresh raspberries"
+    },
+    "dek": {
+      "ja": "ラズベリーと卵白の泡が美しい、ピンク色のジン・サワー。",
+      "en": "A pink gin sour crowned with a raspberry-scented foam."
+    },
+    "history": {
+      "ja": "フィラデルフィアの紳士クラブ「クローバー・クラブ」に由来する。",
+      "en": "Named after the Clover Club, a Philadelphia gentlemen's club."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/clover-club/",
+      "https://en.wikipedia.org/wiki/Clover_Club_cocktail"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "mint-julep",
+    "name": {
+      "ja": "ミント・ジュレップ",
+      "en": "Mint Julep"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "バーボン 60ml",
+        "en": "Bourbon 60 ml"
+      },
+      {
+        "ja": "ミント 4枝",
+        "en": "4 fresh mint sprigs"
+      },
+      {
+        "ja": "粉砂糖 小さじ1",
+        "en": "1 tsp powdered sugar"
+      },
+      {
+        "ja": "水 小さじ2",
+        "en": "2 tsp water"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/mint-julep/",
+    "method": {
+      "ja": "カップでミント、砂糖、水を軽くつぶし、クラッシュドアイスとバーボンを加えて霜がつくまでステアする",
+      "en": "Muddle mint, sugar and water in the cup, add crushed ice and bourbon, and stir until frosted"
+    },
+    "glass": {
+      "ja": "ジュレップ・カップ",
+      "en": "Julep cup"
+    },
+    "garnish": {
+      "ja": "ミントの枝",
+      "en": "Mint sprig"
+    },
+    "dek": {
+      "ja": "砕いた氷とミントで冷やすバーボンの一杯。米国南部を象徴する。",
+      "en": "Bourbon chilled over crushed ice with mint, a symbol of the American South."
+    },
+    "history": {
+      "ja": "ケンタッキー・ダービーの飲み物として知られる。",
+      "en": "Famous as the drink of the Kentucky Derby."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/mint-julep/",
+      "https://en.wikipedia.org/wiki/Mint_julep"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "paloma",
+    "name": {
+      "ja": "パロマ",
+      "en": "Paloma"
+    },
+    "baseSpirit": "tequila",
+    "baseLabel": {
+      "ja": "テキーラ",
+      "en": "Tequila"
+    },
+    "strictBase": "tequila",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "テキーラ（アガベ100%） 50ml",
+        "en": "100% agave tequila 50 ml"
+      },
+      {
+        "ja": "ライムジュース 5ml",
+        "en": "Fresh lime juice 5 ml"
+      },
+      {
+        "ja": "塩 ひとつまみ",
+        "en": "A pinch of salt"
+      },
+      {
+        "ja": "ピンク・グレープフルーツ・ソーダ 100ml",
+        "en": "Pink grapefruit soda 100 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/paloma/",
+    "method": {
+      "ja": "グラスにテキーラとライムを入れ、氷と塩を加えてソーダで満たし、軽く混ぜる",
+      "en": "Add tequila and lime to the glass, then ice and salt; top with soda and stir gently"
+    },
+    "glass": {
+      "ja": "ハイボールグラス",
+      "en": "Highball glass"
+    },
+    "garnish": {
+      "ja": "ライムのスライス",
+      "en": "Lime slice"
+    },
+    "dek": {
+      "ja": "テキーラをグレープフルーツのソーダで割った、メキシコで親しまれる一杯。",
+      "en": "Tequila with grapefruit soda, a Mexican favourite."
+    },
+    "history": {
+      "ja": "テキーラ、ライム、グレープフルーツ風味の炭酸で作るのが一般的。",
+      "en": "Usually made with tequila, lime and a grapefruit soda."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/paloma/",
+      "https://en.wikipedia.org/wiki/Paloma_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "cosmopolitan",
+    "name": {
+      "ja": "コスモポリタン",
+      "en": "Cosmopolitan"
+    },
+    "baseSpirit": "vodka",
+    "baseLabel": {
+      "ja": "ウオッカ",
+      "en": "Vodka"
+    },
+    "strictBase": "vodka",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "シトラス・ウオッカ 40ml",
+        "en": "Citrus vodka 40 ml"
+      },
+      {
+        "ja": "コアントロー 15ml",
+        "en": "Cointreau 15 ml"
+      },
+      {
+        "ja": "ライムジュース 15ml",
+        "en": "Fresh lime juice 15 ml"
+      },
+      {
+        "ja": "クランベリージュース 30ml",
+        "en": "Cranberry juice 30 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/cosmopolitan/",
+    "method": {
+      "ja": "シェイクし、大きめのカクテルグラスに注ぐ",
+      "en": "Shake well with ice; strain into a large cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "レモンピール",
+      "en": "Lemon twist"
+    },
+    "dek": {
+      "ja": "クランベリーの淡い赤が映える、軽やかなウオッカ・カクテル。",
+      "en": "A light vodka cocktail in a pale cranberry pink."
+    },
+    "history": {
+      "ja": "1988年ごろ、ニューヨークのオデオンでトビー・チェッキーニが広めた形が知られる。",
+      "en": "The best-known version was popularised by Toby Cecchini at New York's Odeon around 1988."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/cosmopolitan/",
+      "https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "french-75",
+    "name": {
+      "ja": "フレンチ75",
+      "en": "French 75"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 30ml",
+        "en": "Gin 30 ml"
+      },
+      {
+        "ja": "レモンジュース 15ml",
+        "en": "Fresh lemon juice 15 ml"
+      },
+      {
+        "ja": "シュガーシロップ 15ml",
+        "en": "Sugar syrup 15 ml"
+      },
+      {
+        "ja": "シャンパーニュ 60ml",
+        "en": "Champagne 60 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/french-75/",
+    "method": {
+      "ja": "シャンパーニュ以外をシェイクしてフルートに注ぎ、シャンパーニュで満たす",
+      "en": "Shake all but the champagne, strain into a flute and top with champagne"
+    },
+    "glass": {
+      "ja": "シャンパーニュ・フルート",
+      "en": "Champagne flute"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ジンとレモンをシャンパーニュで満たす、華やかな乾杯向きの一杯。",
+      "en": "Gin and lemon topped with champagne: a celebratory glass."
+    },
+    "history": {
+      "ja": "名前は第一次世界大戦期のフランスの75ミリ野砲に由来するとされる。",
+      "en": "The name is said to come from the French 75 mm field gun of the First World War era."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/french-75/",
+      "https://en.wikipedia.org/wiki/French_75_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "kir",
+    "name": {
+      "ja": "キール",
+      "en": "Kir"
+    },
+    "baseSpirit": "wine",
+    "baseLabel": {
+      "ja": "ワイン",
+      "en": "Wine"
+    },
+    "strictBase": "wine",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "辛口の白ワイン 90ml",
+        "en": "Dry white wine 90 ml"
+      },
+      {
+        "ja": "クレーム・ド・カシス 10ml",
+        "en": "Crème de cassis 10 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/kir/",
+    "method": {
+      "ja": "グラスにカシスを入れ、白ワインで満たす",
+      "en": "Pour the cassis into the glass and top with white wine"
+    },
+    "glass": {
+      "ja": "ワイングラス",
+      "en": "Wine glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "白ワインにカシスを落とした、ブルゴーニュ生まれの食前酒。",
+      "en": "White wine with a splash of cassis, Burgundy's aperitif."
+    },
+    "history": {
+      "ja": "ディジョン市長だったフェリックス・キールにちなむ名前。シャンパーニュで作るとキール・ロワイヤルになる。",
+      "en": "Named after Félix Kir, mayor of Dijon. Made with champagne, it becomes a Kir Royale."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/kir/",
+      "https://en.wikipedia.org/wiki/Kir_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "sazerac",
+    "name": {
+      "ja": "サゼラック",
+      "en": "Sazerac"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "コニャック 50ml",
+        "en": "Cognac 50 ml"
+      },
+      {
+        "ja": "アブサン 10ml",
+        "en": "Absinthe 10 ml"
+      },
+      {
+        "ja": "角砂糖 1個",
+        "en": "1 sugar cube"
+      },
+      {
+        "ja": "ペイショーズ・ビターズ 2ダッシュ",
+        "en": "Peychaud's bitters, 2 dashes"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/sazerac/",
+    "method": {
+      "ja": "グラスをアブサンでリンスする。残りを氷とステアしてそのグラスに注ぐ",
+      "en": "Rinse a chilled glass with absinthe; stir the rest with ice and strain into it"
+    },
+    "glass": {
+      "ja": "オールドファッションド・グラス",
+      "en": "Old fashioned glass"
+    },
+    "garnish": {
+      "ja": "レモンピール",
+      "en": "Lemon zest"
+    },
+    "dek": {
+      "ja": "アブサンの香りをまとわせる、ニューオーリンズの古典。",
+      "en": "A New Orleans classic scented with absinthe."
+    },
+    "history": {
+      "ja": "サゼラック・ド・フォルジュ・エ・フィスというコニャックの銘柄に由来する。ライ・ウイスキーで作ることも多い。",
+      "en": "Named after the Sazerac de Forge et Fils cognac brand; rye whiskey is also commonly used."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/sazerac/",
+      "https://en.wikipedia.org/wiki/Sazerac"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "penicillin",
+    "name": {
+      "ja": "ペニシリン",
+      "en": "Penicillin"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "aroma",
+    "spec": [
+      {
+        "ja": "ブレンデッド・スコッチ 60ml",
+        "en": "Blended Scotch whisky 60 ml"
+      },
+      {
+        "ja": "アイラ・シングルモルト 7.5ml",
+        "en": "Islay single malt 7.5 ml"
+      },
+      {
+        "ja": "レモンジュース 22.5ml",
+        "en": "Fresh lemon juice 22.5 ml"
+      },
+      {
+        "ja": "ハニー・シロップ 22.5ml",
+        "en": "Honey syrup 22.5 ml"
+      },
+      {
+        "ja": "生姜 2〜3枚",
+        "en": "2–3 slices fresh ginger"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/penicillin/",
+    "method": {
+      "ja": "生姜をつぶし、アイラ・モルト以外とシェイクして注ぎ、アイラ・モルトを浮かべる",
+      "en": "Muddle ginger, shake with everything but the Islay malt, strain, and float the Islay on top"
+    },
+    "glass": {
+      "ja": "ロックグラス",
+      "en": "Rocks glass"
+    },
+    "garnish": {
+      "ja": "生姜の砂糖漬け",
+      "en": "Candied ginger"
+    },
+    "dek": {
+      "ja": "蜂蜜と生姜、スモーキーなウイスキーが重なる現代の古典。",
+      "en": "A modern classic layering honey, ginger and smoky Scotch."
+    },
+    "history": {
+      "ja": "2005年、ニューヨークのミルク＆ハニーでサム・ロスが考案した。",
+      "en": "Created by Sam Ross at Milk & Honey in New York in 2005."
+    },
+    "japan": {
+      "ja": "池袋のBar Libreでは、ペニシリンを下敷きにした独自の一杯も出している。",
+      "en": "Bar Libre in Ikebukuro serves its own riff on the Penicillin."
+    },
+    "barSlugs": [
+      "bar-libre"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/penicillin/",
+      "https://en.wikipedia.org/wiki/Penicillin_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": "IBA names Lagavulin 16; generalised to Islay single malt."
+  },
+  {
+    "slug": "espresso-martini",
+    "name": {
+      "ja": "エスプレッソ・マティーニ",
+      "en": "Espresso Martini"
+    },
+    "baseSpirit": "vodka",
+    "baseLabel": {
+      "ja": "ウオッカ",
+      "en": "Vodka"
+    },
+    "strictBase": "vodka",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "ウオッカ 50ml",
+        "en": "Vodka 50 ml"
+      },
+      {
+        "ja": "コーヒー・リキュール 30ml",
+        "en": "Coffee liqueur 30 ml"
+      },
+      {
+        "ja": "シュガーシロップ 10ml",
+        "en": "Sugar syrup 10 ml"
+      },
+      {
+        "ja": "エスプレッソ 1杯",
+        "en": "1 shot strong espresso"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/espresso-martini/",
+    "method": {
+      "ja": "よくシェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake hard with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "コーヒー豆 3粒",
+      "en": "3 coffee beans"
+    },
+    "dek": {
+      "ja": "エスプレッソとウオッカで作る、泡の立つ冷たいコーヒー・カクテル。",
+      "en": "Espresso and vodka shaken into a foamy, chilled coffee cocktail."
+    },
+    "history": {
+      "ja": "1980年代、ロンドンでディック・ブラッドセルが考案したとされる。名前に反し、ジンもベルモットも使わない。",
+      "en": "Credited to Dick Bradsell in 1980s London. Despite the name, it contains neither gin nor vermouth."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/espresso-martini/",
+      "https://en.wikipedia.org/wiki/Espresso_martini"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "bees-knees",
+    "name": {
+      "ja": "ビーズ・ニーズ",
+      "en": "Bee's Knees"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ドライ・ジン 52.5ml",
+        "en": "Dry gin 52.5 ml"
+      },
+      {
+        "ja": "ハニー・シロップ 小さじ2",
+        "en": "2 tsp honey syrup"
+      },
+      {
+        "ja": "レモンジュース 22.5ml",
+        "en": "Fresh lemon juice 22.5 ml"
+      },
+      {
+        "ja": "オレンジジュース 22.5ml",
+        "en": "Fresh orange juice 22.5 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/bees-knees/",
+    "method": {
+      "ja": "蜂蜜を果汁で溶かしてからジンを加え、シェイクしてカクテルグラスに注ぐ",
+      "en": "Dissolve honey in the juices, add gin, shake and strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "好みでレモンかオレンジのピール",
+      "en": "Lemon or orange zest, optional"
+    },
+    "dek": {
+      "ja": "ジンに蜂蜜とレモンを合わせた、禁酒法時代生まれのやさしい一杯。",
+      "en": "Gin with honey and lemon, a gentle drink from the Prohibition era."
+    },
+    "history": {
+      "ja": "禁酒法時代の米国で生まれたカクテルとされる。",
+      "en": "A cocktail from Prohibition-era America."
+    },
+    "japan": {
+      "ja": "京都には、この名を冠したバー「Bee's Knees」がある。",
+      "en": "Kyoto has a bar named after it: Bee's Knees."
+    },
+    "barSlugs": [
+      "bees-knees-kyoto"
+    ],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/bees-knees/",
+      "https://en.wikipedia.org/wiki/Bee's_knees"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "singapore-sling",
+    "name": {
+      "ja": "シンガポール・スリング",
+      "en": "Singapore Sling"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "light",
+    "spec": [
+      {
+        "ja": "ジン 30ml",
+        "en": "Gin 30 ml"
+      },
+      {
+        "ja": "チェリー・リキュール 15ml",
+        "en": "Cherry liqueur 15 ml"
+      },
+      {
+        "ja": "コアントロー 7.5ml",
+        "en": "Cointreau 7.5 ml"
+      },
+      {
+        "ja": "ベネディクティン 7.5ml",
+        "en": "Bénédictine 7.5 ml"
+      },
+      {
+        "ja": "パイナップルジュース 120ml",
+        "en": "Fresh pineapple juice 120 ml"
+      },
+      {
+        "ja": "ライムジュース 15ml",
+        "en": "Fresh lime juice 15 ml"
+      },
+      {
+        "ja": "グレナデン・シロップ 10ml",
+        "en": "Grenadine 10 ml"
+      },
+      {
+        "ja": "アロマティック・ビターズ 1ダッシュ",
+        "en": "Angostura bitters, 1 dash"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/singapore-sling/",
+    "method": {
+      "ja": "シェイクし、ハリケーングラスに注ぐ",
+      "en": "Shake well with ice; strain into a hurricane glass"
+    },
+    "glass": {
+      "ja": "ハリケーングラス",
+      "en": "Hurricane glass"
+    },
+    "garnish": {
+      "ja": "パイナップルとチェリー",
+      "en": "Pineapple and a maraschino cherry"
+    },
+    "dek": {
+      "ja": "南国の果汁とジンを合わせた、背の高いトロピカルな一杯。",
+      "en": "A tall, tropical gin drink full of fruit."
+    },
+    "history": {
+      "ja": "1915年ごろ、シンガポールのラッフルズ・ホテルのロングバーで、ニャム・トン・ブーンが考案したと伝わる。",
+      "en": "Said to have been created around 1915 by Ngiam Tong Boon at the Long Bar of Raffles Hotel, Singapore."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/singapore-sling/",
+      "https://en.wikipedia.org/wiki/Singapore_sling"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "stinger",
+    "name": {
+      "ja": "スティンガー",
+      "en": "Stinger"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "コニャック 50ml",
+        "en": "Cognac 50 ml"
+      },
+      {
+        "ja": "クレーム・ド・ミント（ホワイト） 20ml",
+        "en": "White crème de menthe 20 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/stinger/",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたカクテルグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "好みでミントの葉",
+      "en": "Mint leaf, optional"
+    },
+    "dek": {
+      "ja": "ブランデーにミントの清涼感を重ねた、食後向きの二品カクテル。",
+      "en": "Brandy with a cool lift of mint: a two-ingredient after-dinner drink."
+    },
+    "history": {
+      "ja": "1890年代の米国にさかのぼり、1970年代まで広く飲まれた。",
+      "en": "Dates to 1890s America and stayed widely popular until the 1970s."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/stinger/",
+      "https://en.wikipedia.org/wiki/Stinger_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "between-the-sheets",
+    "name": {
+      "ja": "ビトウィーン・ザ・シーツ",
+      "en": "Between the Sheets"
+    },
+    "baseSpirit": "brandy",
+    "baseLabel": {
+      "ja": "ブランデー",
+      "en": "Brandy"
+    },
+    "strictBase": "brandy",
+    "flavor": "after",
+    "spec": [
+      {
+        "ja": "ホワイト・ラム 30ml",
+        "en": "White rum 30 ml"
+      },
+      {
+        "ja": "コニャック 30ml",
+        "en": "Cognac 30 ml"
+      },
+      {
+        "ja": "トリプルセック 30ml",
+        "en": "Triple sec 30 ml"
+      },
+      {
+        "ja": "レモンジュース 20ml",
+        "en": "Fresh lemon juice 20 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/between-the-sheets/",
+    "method": {
+      "ja": "シェイクし、冷やしたカクテルグラスに注ぐ",
+      "en": "Shake with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": null,
+    "dek": {
+      "ja": "ラムとブランデーを合わせた、サイドカーの親戚にあたる一杯。",
+      "en": "Rum and brandy together: a close cousin of the Sidecar."
+    },
+    "history": {
+      "ja": "ラム、コニャック、トリプルセック、レモンで作る。ジンで作ると「メイデンズ・プレイヤー」と呼ばれる。",
+      "en": "Made with white rum, cognac, triple sec and lemon; with gin instead, it becomes a Maiden's Prayer."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/between-the-sheets/",
+      "https://en.wikipedia.org/wiki/Between_the_sheets_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "boulevardier",
+    "name": {
+      "ja": "ブールヴァルディエ",
+      "en": "Boulevardier"
+    },
+    "baseSpirit": "whisky",
+    "baseLabel": {
+      "ja": "ウイスキー",
+      "en": "Whisky"
+    },
+    "strictBase": "whisky",
+    "flavor": "finish",
+    "spec": [
+      {
+        "ja": "バーボンまたはライ・ウイスキー 45ml",
+        "en": "Bourbon or rye whiskey 45 ml"
+      },
+      {
+        "ja": "カンパリ 30ml",
+        "en": "Campari 30 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 30ml",
+        "en": "Sweet vermouth 30 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/boulevardier/",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたカクテルグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "オレンジピール",
+      "en": "Orange zest"
+    },
+    "dek": {
+      "ja": "ネグローニのジンをウイスキーに替えた、より深く温かみのある一杯。",
+      "en": "The Negroni with whiskey in place of gin: deeper and warmer."
+    },
+    "history": {
+      "ja": "1920年代後半のパリで生まれ、長く忘れられたのち2000年代後半に再評価された。2020年にIBAの公式カクテルに加わった。",
+      "en": "Born in late-1920s Paris, it was largely forgotten until the late 2000s, and became an IBA official cocktail in 2020."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/boulevardier/",
+      "https://en.wikipedia.org/wiki/Boulevardier_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  },
+  {
+    "slug": "hanky-panky",
+    "name": {
+      "ja": "ハンキー・パンキー",
+      "en": "Hanky Panky"
+    },
+    "baseSpirit": "gin",
+    "baseLabel": {
+      "ja": "ジン",
+      "en": "Gin"
+    },
+    "strictBase": "gin",
+    "flavor": "finish",
+    "spec": [
+      {
+        "ja": "ロンドン・ドライ・ジン 45ml",
+        "en": "London dry gin 45 ml"
+      },
+      {
+        "ja": "スイート・ベルモット 45ml",
+        "en": "Sweet vermouth 45 ml"
+      },
+      {
+        "ja": "フェルネット 7.5ml",
+        "en": "Fernet 7.5 ml"
+      }
+    ],
+    "specSource": "https://iba-world.com/iba-cocktail/hanky-panky/",
+    "method": {
+      "ja": "ミキシンググラスで氷とステアし、冷やしたカクテルグラスに注ぐ",
+      "en": "Stir with ice; strain into a chilled cocktail glass"
+    },
+    "glass": {
+      "ja": "カクテルグラス",
+      "en": "Cocktail glass"
+    },
+    "garnish": {
+      "ja": "オレンジピール",
+      "en": "Orange zest"
+    },
+    "dek": {
+      "ja": "ジンとベルモットに、フェルネットの苦みを効かせた一杯。",
+      "en": "Gin and sweet vermouth with a bitter edge of Fernet."
+    },
+    "history": {
+      "ja": "ロンドンのサヴォイ・ホテルのヘッド・バーテンダー、エイダ・コールマンが考案したとされる。",
+      "en": "Credited to Ada Coleman, head bartender at London's Savoy Hotel."
+    },
+    "japan": null,
+    "barSlugs": [],
+    "sources": [
+      "https://iba-world.com/iba-cocktail/hanky-panky/",
+      "https://en.wikipedia.org/wiki/Hanky_panky_(cocktail)"
+    ],
+    "lastVerified": "2026-11-12",
+    "notes": ""
+  }
+]

@@ -47,12 +47,12 @@ export const aboutDoc: EditorialDoc = {
       ],
     },
     {
-      id: "prototype",
-      heading: { ja: "いまは試作", en: "A prototype, for now" },
+      id: "listings",
+      heading: { ja: "掲載について", en: "About the listings" },
       paragraphs: [
         {
-          ja: "このサイトに並ぶ店、人、記事、イベント、価格はすべてサンプルです。実在の情報は、確認できるまで置きません。",
-          en: "Every bar, person, story, event, and price on this site is a sample. Real information waits until it can be checked.",
+          ja: "店、カクテル、記事は、公開されている情報をもとに編集部の言葉で書いています。各ページに確認日と出典を置いています。営業時間や価格は変わるので、訪れる前に店へ確認してください。二次情報と、まだ確認できない時間には、その旨を記しています。写真は権利の確認が終わるまで載せていません。イベントの一覧だけは、まだサンプルです。",
+          en: "Bars, cocktails, and stories are written in our own words from public sources. Each page shows the date it was checked and the sources. Hours and prices change, so confirm with the bar before you visit. Hours from a secondary source, or not yet confirmed, are marked as such. Photographs stay off the site until the rights are cleared. Only the events list is still a sample.",
         },
       ],
     },
@@ -66,8 +66,8 @@ export const privacyDoc: EditorialDoc = {
     en: "Privacy / Editorial Policy",
   },
   lede: {
-    ja: "何を書き、何を受け取らないか。試作の段階で、先に置いておきます。",
-    en: "What this site will publish, and what it will not collect. Set down now, while the site is still a prototype.",
+    ja: "何を書き、何を受け取らないか。",
+    en: "What this site publishes, and what it does not collect.",
   },
   sections: [
     {
@@ -75,8 +75,8 @@ export const privacyDoc: EditorialDoc = {
       heading: { ja: "編集方針", en: "Editorial policy" },
       paragraphs: [
         {
-          ja: "BAR ACCESS JAPAN は、確認できたことだけを公開したいと考えています。試作のあいだは、実在の店舗名、人物名、住所、価格、イベントを置きません。サンプルであることは、ページの上で分かるようにします。",
-          en: "BAR ACCESS JAPAN intends to publish only what can be checked. During this prototype, real bar names, people, addresses, prices, and events are left out. A page says when its contents are samples.",
+          ja: "BAR ACCESS JAPAN は、確認できた公開情報を、編集部の言葉で載せます。営業時間は、公式・二次情報・要確認の区別がページ上で分かるようにします。イベントはサンプルで、実在の告知ではありません。誤りに気づいたときは、連絡先から知らせてください。",
+          en: "BAR ACCESS JAPAN publishes what it can check, in its own words, from public sources. Pages distinguish official hours from secondary sources and from times still to be confirmed. Events are samples, not real announcements. If you spot an error, write via the contact page.",
         },
       ],
     },
@@ -85,8 +85,8 @@ export const privacyDoc: EditorialDoc = {
       heading: { ja: "プライバシー", en: "Privacy" },
       paragraphs: [
         {
-          ja: "このサイトでは、同意した場合に限りGoogle Analytics 4を読み込み、閲覧ページや流入元などの利用状況を分析します。拒否した場合は解析タグを読み込みません。同意はフッターの「アクセス解析の設定」から変更できます。Googleによるデータ処理についてはGoogleのプライバシーポリシーもご確認ください。お問い合わせフォームは現在試作で、入力内容をサーバーに送信しません。メールリンクを開くとお使いのメールソフトが起動します。",
-          en: "We load Google Analytics 4 only with your permission, to understand page visits and traffic sources. If you decline, we do not load the analytics tag. You can change your choice via Analytics settings in the footer. See Google's privacy policy for information about its data processing. The contact form is currently a prototype and does not submit your message to our server. The email link opens your email application.",
+          ja: "このサイトでは、同意した場合に限りGoogle Analytics 4を読み込み、閲覧ページや流入元などの利用状況を分析します。拒否した場合は解析タグを読み込みません。同意はフッターの「アクセス解析の設定」から変更できます。Googleによるデータ処理についてはGoogleのプライバシーポリシーもご確認ください。お問い合わせフォームは、まだ入力内容をサーバーに送信しません。メールリンクを開くとお使いのメールソフトが起動します。",
+          en: "We load Google Analytics 4 only with your permission, to understand page visits and traffic sources. If you decline, we do not load the analytics tag. You can change your choice via Analytics settings in the footer. See Google's privacy policy for information about its data processing. The contact form does not yet submit your message to our server. The email link opens your email application.",
         },
       ],
     },

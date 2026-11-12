@@ -3,7 +3,6 @@ import { services } from "@/content/services";
 import { site } from "@/content/site";
 import { ContactForm, type ContactFormCopy } from "@/components/ContactForm";
 import { PageHeader } from "@/components/PageHeader";
-import { PrototypeNotice } from "@/components/PrototypeNotice";
 import { t, type Locale } from "@/lib/i18n";
 
 export function ContactPage({ locale }: { locale: Locale }) {
@@ -37,7 +36,6 @@ export function ContactPage({ locale }: { locale: Locale }) {
             title={t(contactCopy.title, locale)}
             lede={t(contactCopy.lede, locale)}
           />
-          <PrototypeNotice locale={locale} />
           <p className="email-line">
             <span className="eyebrow">{t(contactCopy.emailCaption, locale)}</span>
             <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>

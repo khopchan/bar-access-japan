@@ -2,14 +2,13 @@ import type { L10n } from "@/lib/i18n";
 
 /**
  * サービス6件。料金・提携先・実施例が決まり次第、ここを書き換える。
- * 実在の店名・人物・住所・価格・日程は置かない。
  */
 export const servicesIntro = {
   kicker: { ja: "SERVICES", en: "SERVICES" },
   title: { ja: "仕事", en: "Services" },
   lede: {
-    ja: "BAR ACCESS JAPAN が扱う仕事です。説明は試作で、料金と実施例はまだありません。",
-    en: "The work of BAR ACCESS JAPAN. These notes are a prototype. Fees and case studies are unset.",
+    ja: "BAR ACCESS JAPAN が扱う仕事です。料金と実施例は、まだ置いていません。",
+    en: "The work of BAR ACCESS JAPAN. Fees and case studies are not listed yet.",
   },
 } as const satisfies { kicker: L10n; title: L10n; lede: L10n };
 
@@ -31,8 +30,8 @@ export const services: {
     id: "reservation",
     title: { ja: "予約・アテンド", en: "Reservation & Attend Service" },
     body: {
-      ja: "予約の手配と、当日そばにいるアテンドです。対応する店と料金はサンプルで、実在の予約先は示しません。",
-      en: "Help with reservations, and someone beside you on the night. Bars and fees here are samples. No real booking target is named.",
+      ja: "予約の手配と、当日そばにいるアテンドです。対応する店と料金は、まだ決めていません。",
+      en: "Help with reservations, and someone beside you on the night. Partner bars and fees are not set yet.",
     },
   },
   {
@@ -55,8 +54,8 @@ export const services: {
     id: "english-pr",
     title: { ja: "店舗特集・英語PR支援", en: "Store Features & English PR" },
     body: {
-      ja: "店の特集づくりと、英語での発信の支援です。このページに実在の店は出ていません。",
-      en: "Editorial features for a bar, and support for speaking about it in English. No real bar appears on this page.",
+      ja: "店の特集づくりと、英語での発信の支援です。提携先は、これから載せます。",
+      en: "Editorial features for a bar, and support for speaking about it in English. Partners will be listed later.",
     },
   },
   {
