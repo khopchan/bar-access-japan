@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ui } from "@/content/site";
 import type { Bar } from "@/content/types";
+import { ReadingProgress } from "@/components/Motion";
 import { Placeholder } from "@/components/Placeholder";
 import { PrototypeNotice } from "@/components/PrototypeNotice";
 import { StoryCard } from "@/components/StoryCard";
@@ -14,6 +15,7 @@ export function BarView({ locale, bar }: { locale: Locale; bar: Bar }) {
 
   return (
     <article className="sheet bar-sheet">
+      <ReadingProgress />
       <Placeholder tone={bar.tone} label={sample} credit={t(bar.credit, locale)} ratio="wide" />
       <header className="page-header bar-header">
         <p className="kicker">{t(bar.kicker, locale)}</p>
@@ -31,7 +33,7 @@ export function BarView({ locale, bar }: { locale: Locale; bar: Bar }) {
             <p key={index}>{t(paragraph, locale)}</p>
           ))}
         </section>
-        <section className="facts" aria-labelledby="bar-facts">
+        <section className="facts" data-reveal aria-labelledby="bar-facts">
           <h2 id="bar-facts">{t(ui.practicalTitle, locale)}</h2>
           <dl>
             {bar.facts.map((fact) => (
@@ -50,7 +52,7 @@ export function BarView({ locale, bar }: { locale: Locale; bar: Bar }) {
         </Link>
       </p>
       {related.length > 0 ? (
-        <section className="related" aria-labelledby="related-bars">
+        <section className="related" data-reveal aria-labelledby="related-bars">
           <h2 id="related-bars">{t(ui.relatedTitle, locale)}</h2>
           <ol className="card-grid">
             {related.map((card) => (

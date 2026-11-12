@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ui } from "@/content/site";
 import type { Article } from "@/content/types";
+import { ReadingProgress } from "@/components/Motion";
 import { PageHeader } from "@/components/PageHeader";
 import { Placeholder } from "@/components/Placeholder";
 import { PrototypeNotice } from "@/components/PrototypeNotice";
@@ -25,6 +26,7 @@ export function ArticleView({
 
   return (
     <article className="sheet article-sheet">
+      <ReadingProgress />
       <PageHeader kicker={t(article.kicker, locale)} title={t(article.title, locale)} lede={t(article.dek, locale)} />
       <p className="meta article-meta">
         <span className="byline">{t(article.byline, locale)}</span>
@@ -35,7 +37,7 @@ export function ArticleView({
         {article.before.map((paragraph, index) => (
           <p key={`before-${index}`}>{t(paragraph, locale)}</p>
         ))}
-        <blockquote className="pull">
+        <blockquote className="pull" data-reveal>
           <p>{t(article.pull, locale)}</p>
           <footer>{t(ui.pullCaption, locale)}</footer>
         </blockquote>
@@ -50,7 +52,7 @@ export function ArticleView({
         </Link>
       </p>
       {related.length > 0 ? (
-        <section className="related" aria-labelledby="related-heading">
+        <section className="related" data-reveal aria-labelledby="related-heading">
           <h2 id="related-heading">{t(ui.relatedTitle, locale)}</h2>
           <ol className="card-grid">
             {related.map((card) => (

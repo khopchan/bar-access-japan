@@ -31,7 +31,7 @@ export function HomePage({ locale }: { locale: Locale }) {
       <div className="home-split">
         <ol className="card-grid">
           {grid.map((card) => (
-            <li key={card.id}>
+            <li key={card.id} data-reveal>
               <StoryCard card={card} sampleLabel={sample} heading="h2" variant="grid" />
             </li>
           ))}
@@ -42,7 +42,7 @@ export function HomePage({ locale }: { locale: Locale }) {
           </h2>
           <ol className="river">
             {latest.map((card) => (
-              <li key={card.id}>
+              <li key={card.id} data-reveal>
                 <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
               </li>
             ))}

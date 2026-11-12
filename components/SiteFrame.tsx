@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { mainNav } from "@/content/navigation";
 import { brand, ui } from "@/content/site";
+import { MotionRoot, RouteFade } from "@/components/Motion";
 import { Newsletter } from "@/components/Newsletter";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader, type HeaderModel } from "@/components/SiteHeader";
@@ -48,7 +49,8 @@ export function SiteFrame({ route, children }: { route: ParsedRoute; children: R
       </a>
       <SiteHeader model={model} />
       <main id="main" tabIndex={-1}>
-        {children}
+        <MotionRoot />
+        <RouteFade>{children}</RouteFade>
         <Newsletter
           kicker={t(ui.newsletterKicker, locale)}
           title={t(ui.newsletterTitle, locale)}

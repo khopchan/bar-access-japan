@@ -12,7 +12,8 @@ export function Placeholder({
   ratio?: "portrait" | "landscape" | "wide" | "square";
 }) {
   return (
-    <figure className={`ph ph-${tone} ph-${ratio}`}>
+    <figure className={`ph ph-${ratio}`}>
+      <span className={`ph-fill ph-${tone}`} aria-hidden="true" />
       <span className="ph-label">{label}</span>
       {credit ? <figcaption className="ph-credit">{credit}</figcaption> : null}
     </figure>

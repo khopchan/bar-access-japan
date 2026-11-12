@@ -70,7 +70,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <script
           dangerouslySetInnerHTML={{
             __html:
-              "document.documentElement.lang=location.pathname==='/en'||location.pathname.indexOf('/en/')===0?'en':'ja';",
+              "document.documentElement.classList.add('js');document.documentElement.lang=location.pathname==='/en'||location.pathname.indexOf('/en/')===0?'en':'ja';",
           }}
         />
         {children}

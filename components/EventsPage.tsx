@@ -33,7 +33,7 @@ export function EventsPage({ locale }: { locale: Locale }) {
         {rest.length > 0 ? (
           <ol className="river river-list">
             {rest.map((card) => (
-              <li key={card.id}>
+              <li key={card.id} data-reveal>
                 <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
               </li>
             ))}
@@ -46,7 +46,7 @@ export function EventsPage({ locale }: { locale: Locale }) {
         <p className="group-note">{t(eventUi.endedNote, locale)}</p>
         <ol className="river river-list">
           {ended.map((card) => (
-            <li key={card.id}>
+            <li key={card.id} data-reveal>
               <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
             </li>
           ))}

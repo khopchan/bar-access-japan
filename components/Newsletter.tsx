@@ -43,7 +43,7 @@ export function Newsletter({
   }
 
   return (
-    <section className="newsletter" aria-labelledby="newsletter-title">
+    <section className="newsletter" data-reveal aria-labelledby="newsletter-title">
       <div className="newsletter-inner">
         <p className="kicker">{kicker}</p>
         <h2 id="newsletter-title">{title}</h2>

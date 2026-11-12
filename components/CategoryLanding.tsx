@@ -30,7 +30,7 @@ export function CategoryLanding({
       {rest.length > 0 ? (
         <ol className="river river-list">
           {rest.map((card) => (
-            <li key={card.id}>
+            <li key={card.id} data-reveal>
               <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
             </li>
           ))}

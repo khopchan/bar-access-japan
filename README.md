@@ -122,6 +122,8 @@ npm start
 
 `npm run build` は型チェックと、日英すべての静的ページ生成を行う。
 
+動きの長さとイージングは [MOTION.md](MOTION.md) にまとめてある。`prefers-reduced-motion` ではアニメーションを止める。
+
 ## Deploy to Vercel / Vercel への配置
 
 1. このリポジトリを Vercel にインポートする。

@@ -34,6 +34,7 @@ export function SiteHeader({ model }: { model: HeaderModel }) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [compact, setCompact] = useState(false);
   const toggleRef = useRef<HTMLButtonElement>(null);
   const searchRef = useRef<HTMLButtonElement>(null);
   const firstLinkRef = useRef<HTMLAnchorElement>(null);
@@ -43,6 +44,27 @@ export function SiteHeader({ model }: { model: HeaderModel }) {
     setOpen(false);
     setSearchOpen(false);
   }, [pathname]);
+
+  useEffect(() => {
+    let frame = 0;
+    const apply = () => {
+      frame = 0;
+      const next = window.scrollY > 28;
+      setCompact((prev) => (prev === next ? prev : next));
+      document.documentElement.classList.toggle("is-header-compact", next);
+    };
+    const onScroll = () => {
+      if (frame) return;
+      frame = window.requestAnimationFrame(apply);
+    };
+    apply();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (frame) cancelAnimationFrame(frame);
+      document.documentElement.classList.remove("is-header-compact");
+    };
+  }, []);
 
   useEffect(() => {
     const media = window.matchMedia(DESKTOP_NAV);
@@ -89,7 +111,12 @@ export function SiteHeader({ model }: { model: HeaderModel }) {
     searchRef.current?.focus();
   }
 
-  const headerClass = ["site-header", open ? "is-menu-open" : "", searchOpen ? "is-search-open" : ""]
+  const headerClass = [
+    "site-header",
+    compact ? "is-compact" : "",
+    open ? "is-menu-open" : "",
+    searchOpen ? "is-search-open" : "",
+  ]
     .filter(Boolean)
     .join(" ");
 
