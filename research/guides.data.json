@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "bar-charges-guide",
+    "sources": [
+      "https://www.bar-yamazaki.com/",
+      "https://tabelog.com/tokyo/A1301/A130101/13002270/dtlmap/",
+      "https://www.bar-barns.jp/",
+      "https://bestcocktailbars.com/post/bar-high-five-tokyo/",
+      "https://small-axe.net/bar-tram/"
+    ],
+    "related": [
+      "bar-yamazaki-sapporo",
+      "star-bar-ginza",
+      "bar-barns-nagoya",
+      "bar-high-five",
+      "new-york-bar",
+      "bar-tram"
+    ],
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "slug": "omakase-cocktails-guide",
+    "sources": [
+      "http://www.genyamamoto.jp/",
+      "https://www.the50.com/discovery/Establishments/Japan/Tokyo/Bar-Benfiddich.html",
+      "https://www.nokishita.net/nokishita711",
+      "https://www.the50.com/discovery/Establishments/Japan/Nara/Lamp-Bar.html"
+    ],
+    "related": [
+      "gen-yamamoto",
+      "bar-benfiddich",
+      "nokishita711",
+      "lamp-bar-nara"
+    ],
+    "lastVerified": "2026-11-12"
+  }
+]

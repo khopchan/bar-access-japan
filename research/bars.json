@@ -1,0 +1,7112 @@
+[
+  {
+    "slug": "bar-benfiddich",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 西新宿",
+      "en": "EXPLORE BARS / NISHI-SHINJUKU"
+    },
+    "title": {
+      "ja": "バー ベンフィディック",
+      "en": "Bar BenFiddich"
+    },
+    "dek": {
+      "ja": "秩父の実家の畑で育てたハーブを、目の前ですり潰して一杯に仕立てる。メニューはなく、好みの酒を伝えるところから始まる。",
+      "en": "Herbs from the family farm in Chichibu are crushed at the counter and built into your drink. There is no menu; you start by naming a spirit you like."
+    },
+    "byline": {
+      "ja": "東京・西新宿",
+      "en": "Nishi-Shinjuku, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "鹿山博康氏が2013年に開いた店。棚には瓶詰めのスパイスや浸漬酒が並び、薬局のような景色をつくっている。アブサンもこの店で仕込まれる。",
+        "en": "Hiroyasu Kayama opened the bar in 2013. Jars of spices and infusions line the back bar like an apothecary, and the absinthe is made in-house."
+      },
+      {
+        "ja": "注文の起点は客の好み。ベースの酒を聞き、季節の素材と合わせて、その場で一杯を組み立てる。いわば「おまかせ」のカクテルである。",
+        "en": "Every order begins with the guest's taste. The bartender asks about a base spirit, then builds a drink on the spot with seasonal ingredients, a cocktail omakase of sorts."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・西新宿",
+          "en": "Nishi-Shinjuku, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都新宿区西新宿1-13-7 Yamatoya Bldg 9F",
+          "en": "Yamatoya Building 9F, 1-13-7 Nishi-Shinjuku, Shinjuku-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "JR新宿駅 西口から徒歩約5分",
+          "en": "About 5 min walk from JR Shinjuku Station, West Exit"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "メニューのないファーム・トゥ・グラスのカクテルバー",
+          "en": "Menu-free, farm-to-glass cocktail bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "鹿山博康（オーナーバーテンダー）",
+          "en": "Hiroyasu Kayama (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "自家製アブサンとヴェルモット、すり鉢で潰すハーブやスパイスのカクテル",
+          "en": "House-made absinthe and vermouth; herbs and spices crushed by mortar and pestle"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "The World's 50 Best Bars 2025 第18位／The 50 Best Bars 2026 第44位／Asia's 50 Best Bars 2026 第62位（51–100位）",
+          "en": "The World's 50 Best Bars 2025, No. 18; The 50 Best Bars 2026, No. 44; Asia's 50 Best Bars 2026, No. 62 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（訪問前に店舗へ確認を）",
+          "en": "To be confirmed (check with the bar before visiting)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認（資料により8席／15席と分かれる）",
+          "en": "To be confirmed (sources list 8 or 15 seats)"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/benfiddich_tokyo/",
+          "en": "https://www.instagram.com/benfiddich_tokyo/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "virtu",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 大手町",
+      "en": "EXPLORE BARS / OTEMACHI"
+    },
+    "title": {
+      "ja": "ヴェルテュ",
+      "en": "Virtù"
+    },
+    "dek": {
+      "ja": "39階のアール・デコの空間で、日本の地酒や焼酎を織り込んだカクテルを。迎えから見送りまで途切れないサービスで知られる。",
+      "en": "An Art Deco room on the 39th floor, pouring cocktails woven with Japanese sake, shochu and regional spirits. Known for service that never leaves you waiting."
+    },
+    "byline": {
+      "ja": "東京・大手町",
+      "en": "Otemachi, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "カクテルには日本各地の酒やリキュールが使われ、メニューの地図で産地をたどれる。入口近くには自家製梅酒を寝かせる部屋がある。",
+        "en": "Cocktails draw on lesser-known Japanese brews and spirits, and a map on the menu shows where each comes from. Near the entrance, jars of house umeshu age in their own room."
+      },
+      {
+        "ja": "2024年にはホスピタリティを評価する賞を受けた。窓の外には東京の街並みが広がる。",
+        "en": "In 2024 the team received an award for hospitality. Outside the windows, the city stretches to the horizon."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・大手町",
+          "en": "Otemachi, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都千代田区大手町1-2-1 フォーシーズンズホテル東京大手町 39F",
+          "en": "39F, Four Seasons Hotel Tokyo at Otemachi, 1-2-1 Otemachi, Chiyoda-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ホテルのカクテルバー＆コニャックラウンジ",
+          "en": "Hotel cocktail bar and cognac lounge"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "自家製ブランデー梅酒を使うスモークド・ウメ・ファッションド、ひのきビターズのヴェルテュ・マティーニ",
+          "en": "Smoked Ume Fashioned with house brandy umeshu; the Virtù Martini with hinoki bitters"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Michter's Art of Hospitality Award 2024／Asia's 50 Best Bars 2026 第26位／The 50 Best Bars 2026 第48位",
+          "en": "Michter's Art of Hospitality Award 2024; Asia's 50 Best Bars 2026, No. 26; The 50 Best Bars 2026, No. 48"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "日〜水・祝 17:00〜24:00／木〜土 17:00〜24:30",
+          "en": "Sun–Wed & holidays 5pm–midnight; Thu–Sat 5pm–12:30am"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.fourseasons.com/otemachi/dining/restaurants/virtu/",
+          "en": "https://www.fourseasons.com/otemachi/dining/restaurants/virtu/"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/virtutokyo/",
+          "en": "https://www.instagram.com/virtutokyo/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "punch-room-tokyo",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "パンチルーム 東京",
+      "en": "Punch Room Tokyo"
+    },
+    "dek": {
+      "ja": "世界最古級のミックスドリンク「パンチ」を、日本の柑橘や地酒で組み直す。二人以上で同じ一杯を頼むと銀のボウルで供される。",
+      "en": "Punch, one of the oldest mixed drinks, rebuilt with Japanese citrus and small-batch brews. Order the same drink for two or more and it arrives in a silver bowl."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "2024年、東京エディション銀座とともに開業。隈研吾氏が手がけた建物の中に、19世紀ロンドンのクラブを思わせる部屋がある。",
+        "en": "Opened in 2024 with the Tokyo EDITION Ginza. Inside the Kengo Kuma building sits a room that nods to the clubs of 19th-century London."
+      },
+      {
+        "ja": "スピリッツ、柑橘、砂糖、スパイス、茶というパンチの五要素を、日本の素材で置き換えていく。2026年には日本のベストバーに選ばれた。",
+        "en": "The five pillars of punch, spirit, citrus, sugar, spice and tea, are recast with Japanese ingredients. In 2026 it was named the Best Bar in Japan."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座2-8-13 東京エディション銀座 2F",
+          "en": "2F, Tokyo EDITION Ginza, 2-8-13 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ホテルのパンチ専門バー",
+          "en": "Hotel bar devoted to punch"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "カワクボ ヤスヒロ（バーを率いるバーテンダー）",
+          "en": "Yasuhiro Kawakubo (leads the bar)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "テキーラとどぶろく、柚子を合わせた「Kappa & Yuzu」、熊笹茶を浸したマティーニ",
+          "en": "Kappa & Yuzu (tequila, doburoku, yuzu); a martini infused with kumazasa tea"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2025 第36位／Asia's 50 Best Bars 2026 第23位／The Best Bar in Japan 2026",
+          "en": "Asia's 50 Best Bars 2025, No. 36; Asia's 50 Best Bars 2026, No. 23 / The Best Bar in Japan 2026"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "火〜木 18:00〜24:00／金・土 18:00〜翌2:00／日・月 定休",
+          "en": "Tue–Thu 6pm–midnight; Fri–Sat 6pm–2am; closed Sun–Mon"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/",
+          "en": "https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-libre",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 池袋",
+      "en": "EXPLORE BARS / IKEBUKURO"
+    },
+    "title": {
+      "ja": "バー リブレ",
+      "en": "Bar Libre"
+    },
+    "dek": {
+      "ja": "ベトナム食材店の看板の先、地下へ降りる。2011年から池袋で続く、業界人にも愛される一軒。",
+      "en": "Past a Vietnamese grocery sign and down the stairs. Open in Ikebukuro since 2011, and a favourite among people in the trade."
+    },
+    "byline": {
+      "ja": "東京・池袋",
+      "en": "Ikebukuro, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "メニューは度数の低いものから高いものへ、四つの章に分かれる。クラシックに日本の素材を重ね、器づかいにも遊びがある。",
+        "en": "The menu runs from low to high strength in four chapters. Classics meet Japanese ingredients, and the glassware has a playful streak."
+      },
+      {
+        "ja": "ジャズが流れる17席の店。技術を前面に出したカクテルを、肩の力の抜けた空気の中で出す。",
+        "en": "Seventeen seats and a jazz soundtrack. Technique-driven cocktails served in a relaxed, unhurried room."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・池袋",
+          "en": "Ikebukuro, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都豊島区西池袋3-25-8 相馬屋ビル B1F",
+          "en": "Soumaya Building B1F, 3-25-8 Nishi-Ikebukuro, Toshima-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "クラシックと日本の素材を行き来するカクテルバー",
+          "en": "Cocktail bar moving between classics and Japanese ingredients"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "清崎雄二郎（オーナーバーテンダー）",
+          "en": "Yujiro Kiyosaki (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "しそコンブチャと蜂蜜の「サムライ・ペニシリン」、柚子とレモングラスの泡をのせたネグローニの変奏",
+          "en": "Samurai Penicillin with shiso kombucha and honey; a Negroni twist with yuzu-lemongrass foam"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2025 第49位／Asia's 50 Best Bars 2026 第39位",
+          "en": "Asia's 50 Best Bars 2025, No. 49; Asia's 50 Best Bars 2026, No. 39"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 17:00〜翌1:00（年末年始を除く）（二次情報・訪問前に要確認）",
+          "en": "Daily 5pm–1am (except New Year period) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "17席",
+          "en": "17 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.bar-libre.jp/",
+          "en": "https://www.bar-libre.jp/"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/barlibre_ikebukuro/",
+          "en": "https://www.instagram.com/barlibre_ikebukuro/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-trench",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 恵比寿",
+      "en": "EXPLORE BARS / EBISU"
+    },
+    "title": {
+      "ja": "バー トレンチ",
+      "en": "Bar Trench"
+    },
+    "dek": {
+      "ja": "恵比寿の路地裏にある小さな店。アブサンと薬草系リキュール、そして国内有数というビターズの棚が主役。",
+      "en": "A small room down an Ebisu back street. Absinthe, herbal liqueurs and what it calls one of Japan's biggest bitters collections take centre stage."
+    },
+    "byline": {
+      "ja": "東京・恵比寿",
+      "en": "Ebisu, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "2010年、近くのBar Tramの2号店として開業。古い時代の趣を残す内装で、アブサンを伝統的な作法で出す。",
+        "en": "Opened in 2010 as the second bar from the team behind nearby Bar Tram. The room keeps an old-world feel, and absinthe is poured the traditional way."
+      },
+      {
+        "ja": "予約は受けず、毎日開いている。席が限られるので少人数での来店が勧められている。",
+        "en": "No reservations, and open every day. Seats are limited, so small groups are encouraged."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・恵比寿",
+          "en": "Ebisu, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区恵比寿西1-5-8 1F",
+          "en": "1F, 1-5-8 Ebisu-Nishi, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "恵比寿駅近くの路地",
+          "en": "Back alley near Ebisu Station"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "アブサンとハーブリキュールのバー",
+          "en": "Absinthe and herbal liqueur bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "冷水と角砂糖で供する伝統的なアブサン、豊富なビターズ",
+          "en": "Traditional absinthe service with cold water and sugar; a deep bitters collection"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2021 第43位／The World's 50 Best Bars 2025 第94位（51–100位）／Asia's 50 Best Bars 2026 第53位（51–100位）／The 50 Best Bars 2026 第74位（51–100位）",
+          "en": "Asia's 50 Best Bars 2021, No. 43; The World's 50 Best Bars 2025, No. 94 (51–100); Asia's 50 Best Bars 2026, No. 53 (51–100); The 50 Best Bars 2026, No. 74 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 18:00〜翌2:00（予約不可）",
+          "en": "Daily 6pm–2am (no reservations)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://small-axe.net/bar-trench/",
+          "en": "https://small-axe.net/bar-trench/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-tram",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 恵比寿",
+      "en": "EXPLORE BARS / EBISU"
+    },
+    "title": {
+      "ja": "バー トラム",
+      "en": "Bar Tram"
+    },
+    "dek": {
+      "ja": "2003年から続く東京のアブサンバー。チャージがなく、いつでも立ち寄れる気軽さがある。",
+      "en": "A Tokyo absinthe bar since 2003. There is no table charge, so you can drop in any time."
+    },
+    "byline": {
+      "ja": "東京・恵比寿",
+      "en": "Ebisu, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "1920年代の酒場を思わせる暗く落ち着いた店。アブサンを中心に、国内外のスピリッツを揃える。",
+        "en": "A dark, cosy room that recalls a 1920s saloon. Absinthe leads, backed by spirits from Japan and abroad."
+      },
+      {
+        "ja": "日曜や祝日も深夜まで開き、貸切営業もしない。近くのBar Trenchの原点にあたる店である。",
+        "en": "It stays open late on Sundays and holidays and does not close for private parties. This is where the team behind nearby Bar Trench began."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・恵比寿",
+          "en": "Ebisu, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区恵比寿西1-7-13 2F",
+          "en": "2F, 1-7-13 Ebisu-Nishi, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "アブサンとウイスキーのバー",
+          "en": "Absinthe and whisky bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "イトウ タクヤ（オーナー）",
+          "en": "Takuya Ito (owner)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "伝統的なアブサン・ドリップ、サンフランシスコの影響を受けたカクテル",
+          "en": "Traditional absinthe drip; San Francisco–inspired cocktails"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日営業（曜日により13:00または19:00開店、深夜まで）（二次情報・訪問前に要確認）",
+          "en": "Open daily (opens 1pm or 7pm depending on the day, until late) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "テーブルチャージなし",
+          "en": "No table charge"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://small-axe.net/bar-tram/",
+          "en": "https://small-axe.net/bar-tram/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "the-sg-club",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 渋谷・神南",
+      "en": "EXPLORE BARS / SHIBUYA (JINNAN)"
+    },
+    "title": {
+      "ja": "ザ・エスジー・クラブ",
+      "en": "The SG Club"
+    },
+    "dek": {
+      "ja": "上海でも名を上げた後閑信吾氏の東京の拠点。日本と世界の素材や技法を一杯に混ぜ合わせる。",
+      "en": "Shingo Gokan's Tokyo base, after making his name in Shanghai. Ingredients and techniques from Japan and the world meet in the glass."
+    },
+    "byline": {
+      "ja": "東京・渋谷・神南",
+      "en": "Shibuya (Jinnan), Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "地上の「Guzzle」は賑やかで立ち飲みもしやすい。地下の「Sip」は、マンハッタンの古いスピークイージーを思わせる落ち着いた部屋。",
+        "en": "Guzzle at street level is lively and easy to stand in. Sip, below, is a darker room that nods to old Manhattan speakeasies."
+      },
+      {
+        "ja": "世界のランキングに長く名を連ね、2020年には10位に入った。",
+        "en": "A long-time fixture on the world rankings, it reached No. 10 in 2020."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・渋谷・神南",
+          "en": "Shibuya (Jinnan), Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区神南1-7-8",
+          "en": "1-7-8 Jinnan, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "渋谷駅から徒歩約8分",
+          "en": "About 8 min walk from Shibuya Station"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "フロアごとに顔の違うカクテルバー",
+          "en": "Multi-floor cocktail bar with a different mood on each level"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "後閑信吾（創業者）",
+          "en": "Shingo Gokan (founder)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "1階「Guzzle」は気軽に、地下「Sip」はじっくりと",
+          "en": "Casual Guzzle on the ground floor; the more serious Sip downstairs"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "The World's 50 Best Bars 2020 第10位／The World's 50 Best Bars 2024 第23位／The 50 Best Bars 2026 第88位（51–100位）",
+          "en": "The World's 50 Best Bars 2020, No. 10; The World's 50 Best Bars 2024, No. 23; The 50 Best Bars 2026, No. 88 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "18:00〜翌1:00（第4月曜休の記載あり。公式Instagramで要確認）（二次情報・訪問前に要確認）",
+          "en": "6pm–1am (listed as closed on the 4th Monday; check official Instagram) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "1階Guzzleはチャージ・サービス料なし（二次情報）",
+          "en": "Ground-floor Guzzle has no cover or service charge (secondary source)"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://sg-management.jp/en/establishments/sgclub/",
+          "en": "https://sg-management.jp/en/establishments/sgclub/"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/the_sg_club/",
+          "en": "https://www.instagram.com/the_sg_club/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "the-bellwood",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 渋谷・宇田川町",
+      "en": "EXPLORE BARS / SHIBUYA (UDAGAWACHO)"
+    },
+    "title": {
+      "ja": "ザ・ベルウッド",
+      "en": "The Bellwood"
+    },
+    "dek": {
+      "ja": "ニューヨークや上海で腕を磨いたスズキ アツシ氏の店。ステンドグラスと木の色に包まれ、懐石の順に並ぶカクテルを選ぶ。",
+      "en": "Atsushi Suzuki's bar, after years in New York and Shanghai. Stained glass and warm wood frame a menu laid out like a kaiseki meal."
+    },
+    "byline": {
+      "ja": "東京・渋谷・宇田川町",
+      "en": "Shibuya (Udagawacho), Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "テーマは大正時代に広がった喫茶の文化。メニューは「焼物」「ご飯」など懐石の構成に沿って分けられている。",
+        "en": "The theme is the kissa café culture of the Taisho era. The menu follows the structure of kaiseki, with sections such as grilled dishes and rice."
+      },
+      {
+        "ja": "館内には4席だけの鮨のおまかせカウンターがあり、カクテルとの組み合わせを楽しめる。",
+        "en": "Inside the building, a four-seat sushi omakase counter pairs its courses with cocktails."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・渋谷・宇田川町",
+          "en": "Shibuya (Udagawacho), Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区宇田川町41-31",
+          "en": "41-31 Udagawacho, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "大正の喫茶文化と懐石の流れを映すカクテルバー",
+          "en": "Cocktail bar inspired by Taisho-era kissa culture and the flow of kaiseki"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "スズキ アツシ（創業者）",
+          "en": "Atsushi Suzuki (founder)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "懐石の品書きに沿って並ぶカクテル、館内の4席の鮨カウンター",
+          "en": "Cocktails grouped like courses of a kaiseki meal; a four-seat sushi counter in the building"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2023 第49位／The World's 50 Best Bars 2025 第48位／Asia's 50 Best Bars 2026 第79位（51–100位）",
+          "en": "Asia's 50 Best Bars 2023, No. 49; The World's 50 Best Bars 2025, No. 48; Asia's 50 Best Bars 2026, No. 79 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 18:00〜翌2:00（予約はTableCheck）（二次情報・訪問前に要確認）",
+          "en": "Daily 6pm–2am (book via TableCheck) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.tablecheck.com/en/shops/thebellwood/reserve",
+          "en": "https://www.tablecheck.com/en/shops/thebellwood/reserve"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/the_bellwood/",
+          "en": "https://www.instagram.com/the_bellwood/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "the-bar-ritz-carlton-tokyo",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 六本木・赤坂",
+      "en": "EXPLORE BARS / ROPPONGI / AKASAKA"
+    },
+    "title": {
+      "ja": "ザ・バー（ザ・リッツ・カールトン東京）",
+      "en": "The Bar at The Ritz-Carlton, Tokyo"
+    },
+    "dek": {
+      "ja": "六本木の高層ビル45階。東京の夜景を前に、東西の味を組み合わせたカクテルとウイスキーを。",
+      "en": "On the 45th floor above Roppongi, with the city spread below. Cocktails that pair East and West, plus a deep whisky list."
+    },
+    "byline": {
+      "ja": "東京・六本木・赤坂",
+      "en": "Roppongi / Akasaka, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "酒の中心はカクテル、日本酒、ワイン、そして約100種のウイスキー。常連向けのボトルロッカーもある。",
+        "en": "The list centres on cocktails, sake, wine and about 100 whiskies, with private bottle lockers for regulars."
+      },
+      {
+        "ja": "2026年、アジアのランキング51–100位に初めて名を連ねた。",
+        "en": "In 2026 it entered Asia's 51–100 list for the first time."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・六本木・赤坂",
+          "en": "Roppongi / Akasaka, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都港区赤坂9-7-1 東京ミッドタウン ザ・リッツ・カールトン東京 45F",
+          "en": "45F, The Ritz-Carlton Tokyo, Tokyo Midtown, 9-7-1 Akasaka, Minato-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "高層階のホテルバー",
+          "en": "High-rise hotel bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "東西の要素を合わせたカクテル、約100種のウイスキー",
+          "en": "Cocktails blending East and West; around 100 whiskies"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2026 第75位（51–100位・初登場）",
+          "en": "Asia's 50 Best Bars 2026, No. 75 (51–100, new entry)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜木 15:00〜23:30／金・祝前日 15:00〜24:00／土 12:00〜24:00／日 12:00〜23:30",
+          "en": "Mon–Thu 3pm–11:30pm; Fri & eve of holidays 3pm–midnight; Sat noon–midnight; Sun noon–11:30pm"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://bar.ritzcarltontokyo.com/en",
+          "en": "https://bar.ritzcarltontokyo.com/en"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "gold-bar-at-edition",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 虎ノ門",
+      "en": "EXPLORE BARS / TORANOMON"
+    },
+    "title": {
+      "ja": "ゴールドバー（東京エディション虎ノ門）",
+      "en": "Gold Bar at EDITION"
+    },
+    "dek": {
+      "ja": "金箔の壁と焼杉の黒が向き合う部屋。100年以上前のカクテル黄金期を下敷きにした一杯を出す。",
+      "en": "Gold-leaf art faces charred yakisugi timber. The drinks take their cue from the golden age of cocktails, more than a century ago."
+    },
+    "byline": {
+      "ja": "東京・虎ノ門",
+      "en": "Toranomon, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "マティーニ、マンハッタン、ダイキリといった名作を出発点に、オリジナルのカクテルを組み立てる。",
+        "en": "Classics such as the Martini, Manhattan and Daiquiri are the starting point for the bar's own creations."
+      },
+      {
+        "ja": "つまみは居酒屋風の小皿で、分け合って楽しめる。木・金・土曜はDJが入る。",
+        "en": "Bar snacks come izakaya-style, made for sharing. A DJ plays on Thursdays, Fridays and Saturdays."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・虎ノ門",
+          "en": "Toranomon, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都港区虎ノ門4-1-1 東京エディション虎ノ門 1F",
+          "en": "1F, Tokyo EDITION Toranomon, 4-1-1 Toranomon, Minato-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ホテルのカクテルバー",
+          "en": "Hotel cocktail bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "マティーニやマンハッタンなどカクテル黄金期の名作に着想した創作",
+          "en": "Original drinks inspired by golden-age classics such as the Martini and Manhattan"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2025 第66位（51–100位）",
+          "en": "Asia's 50 Best Bars 2025, No. 66 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "火〜木 18:00〜翌1:00／金・土 18:00〜翌2:00／日・月 定休",
+          "en": "Tue–Thu 6pm–1am; Fri–Sat 6pm–2am; closed Sun–Mon"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.goldbaratedition.com/",
+          "en": "https://www.goldbaratedition.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tokyo-confidential",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 麻布十番",
+      "en": "EXPLORE BARS / AZABU-JUBAN"
+    },
+    "title": {
+      "ja": "トウキョウ・コンフィデンシャル",
+      "en": "Tokyo Confidential"
+    },
+    "dek": {
+      "ja": "香港の名店を手がけた二人が開いた店。神社の古材でつくった長いカウンターと、東京タワーを望むバルコニーがある。",
+      "en": "Opened by a duo with Hong Kong pedigree. A long counter carved from reclaimed shrine wood, and a balcony facing Tokyo Tower."
+    },
+    "byline": {
+      "ja": "東京・麻布十番",
+      "en": "Azabu-Juban, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "共同創業者のトム・エガートン氏は、香港の「Argo」の立ち上げに携わった人物。上質さと遊び心を同居させたカクテルを出す。",
+        "en": "Co-founder Tom Egerton conceived and opened Argo in Hong Kong. The cocktails balance polish with play."
+      },
+      {
+        "ja": "樹齢300年ともいわれる神社の古材のカウンターに沿って、バーテンダーのすぐ前に座れる。",
+        "en": "The counter, made from 300-year-old reclaimed shrine wood, lets guests sit right in front of the bartenders."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・麻布十番",
+          "en": "Azabu-Juban, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都港区麻布十番1-6-1 The V-City 麻布十番 Place 9F",
+          "en": "9F, The V-City Azabu-Juban Place, 1-6-1 Azabu-Juban, Minato-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "東京タワーを望むカクテルバー",
+          "en": "Cocktail bar with a view of Tokyo Tower"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "ホリー・グラハム、トム・エガートン（共同創業者）",
+          "en": "Holly Graham and Tom Egerton (co-founders)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "キャビアとシャンパン、アガベ・スピリッツ、遊び心のあるカクテル",
+          "en": "Caviar and champagne, agave spirits and playful cocktails"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2025 第69位（51–100位）",
+          "en": "Asia's 50 Best Bars 2025, No. 69 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 18:00〜翌1:00／日 18:00〜24:00（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 6pm–1am; Sun 6pm–midnight (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.tokyoconfidential.com/",
+          "en": "https://www.tokyoconfidential.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-high-five",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "バー ハイファイブ",
+      "en": "Bar High Five"
+    },
+    "dek": {
+      "ja": "2008年開業の銀座のバー。海外のバーテンダーとのつながりが深く、世界のランキングで長く上位に名を連ねてきた。",
+      "en": "A Ginza bar opened in 2008, with deep ties to bartenders abroad and a long run near the top of world rankings."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "上野秀嗣氏はStar Bar Ginzaで岸久氏のもとで学んだ。メニューに頼らず、客の好みを聞いて一杯を決める。",
+        "en": "Hidetsugu Ueno trained under Hisashi Kishi at Star Bar Ginza. Rather than a fixed menu, drinks are shaped by what the guest likes."
+      },
+      {
+        "ja": "2015年から予約は受けていない。人数を伝えて案内を待つ、静かに過ごすなど、店のルールが公式サイトに掲げられている。",
+        "en": "No reservations since 2015. House rules, such as giving your party size and waiting to be seated, are posted on the official site."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座5-4-15 エフローレギンザ5ビル 地階",
+          "en": "Efflore Ginza 5 Bldg B1F, 5-4-15 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "東京メトロ銀座駅 B7出口から徒歩1分",
+          "en": "1 min walk from Ginza Station (Tokyo Metro), Exit B7"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー（好みを聞いて作るスタイル）",
+          "en": "Authentic Japanese bar; drinks made to the guest's taste"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "上野秀嗣（オーナーバーテンダー）",
+          "en": "Hidetsugu Ueno (owner-bartender)"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "The World's 50 Best Bars 2013 第3位／Asia's 50 Best Bars 2019 The Best Bar in Japan",
+          "en": "The World's 50 Best Bars 2013, No. 3; Asia's 50 Best Bars 2019, The Best Bar in Japan"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 17:00〜翌1:00（最終入店24:00）／日・祝 定休",
+          "en": "Mon–Sat 5pm–1am (last entry midnight); closed Sun & holidays"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "18席",
+          "en": "18 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "席料 1,000円（店のポリシーより・二次情報）",
+          "en": "Seat charge ¥1,000 (house policy, via secondary source)"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.barhighfive.com/",
+          "en": "https://www.barhighfive.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "star-bar-ginza",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "スタア・バー・ギンザ",
+      "en": "Star Bar Ginza"
+    },
+    "dek": {
+      "ja": "1996年に世界一となった岸久氏が2000年に開いた店。透き通るように削った氷で知られる。",
+      "en": "Opened in 2000 by Hisashi Kishi, the 1996 world champion. Famous for ice carved so clear it seems to disappear."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "手で削り出す「ニンジャ・アイス」やブリリアント・カットの氷は、この店が発祥と公式サイトがうたう。NHKの番組でも紹介された。",
+        "en": "The official site claims the bar as the origin of hand-carved 'ninja ice' and brilliant-cut cubes. It has also been featured on NHK television."
+      },
+      {
+        "ja": "岸氏のもとからは多くのバーテンダーが巣立った。並木通り沿いの地下で、銀座らしい端正な一杯を出す。",
+        "en": "Many well-known bartenders trained here under Kishi. In a basement off Namiki-dori, the drinks are precise in the Ginza way."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座1-5-13 MODERNS GINZA B1F",
+          "en": "MODERNS GINZA B1F, 1-5-13 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "東京メトロ有楽町線 銀座一丁目駅から徒歩2分",
+          "en": "2 min walk from Ginza-itchome Station (Yurakucho Line)"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "銀座スタイルのオーセンティックバー",
+          "en": "Ginza-style authentic bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "岸久（オーナーバーテンダー）",
+          "en": "Hisashi Kishi (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "手で削り出す「ニンジャ・アイス」やブリリアント・カットの氷、サイドカー",
+          "en": "Hand-carved 'ninja ice' and brilliant-cut ice; the Sidecar"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "岸久氏 IBA世界大会 優勝（1996年）／Asia's 50 Best Bars 2021 第50位",
+          "en": "Hisashi Kishi, IBA world champion (1996); Asia's 50 Best Bars 2021, No. 50"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 17:00〜23:30（食べログ掲載）（二次情報・訪問前に要確認）",
+          "en": "Daily 5pm–11:30pm (per Tabelog) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "カウンター9席・テーブル10席（二次情報）",
+          "en": "9 counter seats, 10 at tables (secondary source)"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "チャージ 1,100円",
+          "en": "Cover ¥1,100"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.starbar.jp/",
+          "en": "https://www.starbar.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ginza-tender",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "銀座 テンダー",
+      "en": "Ginza Tender"
+    },
+    "dek": {
+      "ja": "「ハードシェイク」を生んだ上田和男氏の店。氷の動きまで計算された一杯を、目の前で見られる。",
+      "en": "The bar of Kazuo Uyeda, creator of the 'hard shake'. You can watch every movement of the ice in front of you."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "ハードシェイクは、シェイカーの中で氷を転がすように動かし、空気を含ませてなめらかに仕上げる技法。上田氏は著書『カクテルテクニック』でその考えを記した。",
+        "en": "The hard shake rolls the ice through the shaker to aerate the drink and give it a smoother texture. Uyeda set out the idea in his book Cocktail Techniques."
+      },
+      {
+        "ja": "店は銀座6丁目の三楽ビルへ移転している。古い掲載情報の住所と異なる点に注意。",
+        "en": "The bar has moved to the Sanraku Building in Ginza 6-chome. Older listings may still show the previous address."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座6-5-16 三楽ビル 9F",
+          "en": "Sanraku Building 9F, 6-5-16 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "東京メトロ銀座駅 C2出口から徒歩約2分",
+          "en": "About 2 min walk from Ginza Station, Exit C2"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー",
+          "en": "Authentic Japanese bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "上田和男",
+          "en": "Kazuo Uyeda"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "「ハードシェイク」で仕上げるカクテル",
+          "en": "Cocktails finished with the 'hard shake'"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 17:00〜23:00／日・祝 定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 5pm–11pm; closed Sun & holidays (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "gen-yamamoto",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 麻布十番",
+      "en": "EXPLORE BARS / AZABU-JUBAN"
+    },
+    "title": {
+      "ja": "ゲン ヤマモト",
+      "en": "Gen Yamamoto"
+    },
+    "dek": {
+      "ja": "八席だけのカウンターで、季節の果実と野菜を主役にしたカクテルをコースで味わう。2013年開業。",
+      "en": "Eight seats and a cocktail course led by seasonal fruit and vegetables. Open since 2013."
+    },
+    "byline": {
+      "ja": "東京・麻布十番",
+      "en": "Azabu-Juban, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "酒、果実、野菜を「調理」し、日本の四季に合わせた一杯を順に出す。素材の産地も一杯ごとに説明される。",
+        "en": "Spirits, fruit and vegetables are 'cooked' into drinks that follow the Japanese seasons, served one at a time with a note on where each ingredient comes from."
+      },
+      {
+        "ja": "予約は七日前から、本人の電話でのみ受け付ける。カウンターはミズナラの一枚板。",
+        "en": "Reservations open seven days ahead and are taken by phone from the guest only. The counter is a single slab of mizunara oak."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・麻布十番",
+          "en": "Azabu-Juban, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都港区麻布十番1-6-4 アニバーサリービル 1F",
+          "en": "Anniversary Building 1F, 1-6-4 Azabu-Juban, Minato-ku, Tokyo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "麻布十番駅（南北線・大江戸線）",
+          "en": "Azabu-Juban Station (Namboku and Oedo lines)"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "季節の果実と野菜のおまかせカクテル",
+          "en": "Omakase cocktail course built on seasonal fruit and vegetables"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "ヤマモト ゲン（オーナーバーテンダー）",
+          "en": "Gen Yamamoto (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "5〜7杯のおまかせコース",
+          "en": "Omakase course of five to seven drinks"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "15:00〜22:30（最終予約21:00）／日・月 定休",
+          "en": "3pm–10:30pm (last booking 9pm); closed Sun & Mon"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "8席",
+          "en": "8 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "おまかせ 5杯 8,800円／6杯 10,000円／7杯 11,000円（税込）",
+          "en": "Omakase: 5 drinks ¥8,800 / 6 ¥10,000 / 7 ¥11,000 (tax incl.)"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "http://www.genyamamoto.jp/",
+          "en": "http://www.genyamamoto.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mixology-salon",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "ミクソロジーサロン",
+      "en": "Mixology Salon"
+    },
+    "dek": {
+      "ja": "GINZA SIXの最上階にある八席の店。日本茶を軸にしたカクテルを、単品でもコースでも楽しめる。",
+      "en": "Eight seats at the top of GINZA SIX. Cocktails built around Japanese tea, by the glass or as a tasting course."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "玉露、烏龍茶、ほうじ茶など、茶の香りと渋みを酒と合わせる。昼から開いているのも特徴。",
+        "en": "Gyokuro, oolong and hojicha bring aroma and gentle bitterness to the spirits. It opens in the early afternoon."
+      },
+      {
+        "ja": "運営はスピリッツ＆シェアリング。同じ会社のMixology Heritage（日比谷）とは違う切り口を見せる。",
+        "en": "Run by Spirits & Sharing, which also operates Mixology Heritage in Hibiya, with a very different angle."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座6-10-1 GINZA SIX 13F",
+          "en": "GINZA SIX 13F, 6-10-1 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "お茶のカクテル「ティーテイル」",
+          "en": "Tea cocktails ('teatails')"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "南雲主于三（スピリッツ＆シェアリング）",
+          "en": "Shuzo Nagumo (Spirits & Sharing)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "玉露、烏龍茶、ほうじ茶を使うカクテル、緑茶のオールド・ファッションド",
+          "en": "Cocktails with gyokuro, oolong and hojicha; a Green Tea Old Fashioned"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2019 第49位",
+          "en": "Asia's 50 Best Bars 2019, No. 49"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "13:00〜23:00（L.O. 22:00）（二次情報・訪問前に要確認）",
+          "en": "1pm–11pm (last order 10pm) (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "8席",
+          "en": "8 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.mixologysalon.net/",
+          "en": "https://www.mixologysalon.net/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mixology-heritage",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 日比谷",
+      "en": "EXPLORE BARS / HIBIYA"
+    },
+    "title": {
+      "ja": "ミクソロジーヘリテージ",
+      "en": "Mixology Heritage"
+    },
+    "dek": {
+      "ja": "日比谷の高架下にある店。カクテルの古典をたどり、古いボトルの酒でその先を探る。",
+      "en": "Under the Hibiya railway arches. It retraces the classic canon, then pushes past it with spirits from old bottles."
+    },
+    "byline": {
+      "ja": "東京・日比谷",
+      "en": "Hibiya, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "背面の棚には、数十年前のヴィンテージ・ボトルが並ぶ。これを使ったマティーニが看板のひとつ。",
+        "en": "The back bar holds vintage bottles that are decades old, and a martini made with them is one of the signatures."
+      },
+      {
+        "ja": "瓶の中で寝かせた熟成カクテルも、カウンターの上で時間を重ねている。",
+        "en": "House-aged cocktails rest in jars on the back bar."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・日比谷",
+          "en": "Hibiya, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都千代田区内幸町1-7-1 日比谷OKUROJI G31",
+          "en": "Hibiya OKUROJI G31, 1-7-1 Uchisaiwaicho, Chiyoda-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "クラシックとヴィンテージ・スピリッツのバー",
+          "en": "Classic cocktails and vintage spirits"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "1950年代のジンと1970年代のヴェルモットを使う「アルティメット・マティーニ」、瓶で熟成させるカクテル",
+          "en": "The Ultimate Martini with 1950s gin and 1970s vermouth; jar-aged cocktails"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "平日 16:00〜23:00（L.O. 22:15）／土日祝 15:00〜22:00（L.O. 21:15）",
+          "en": "Weekdays 4pm–11pm (LO 10:15pm); weekends & holidays 3pm–10pm (LO 9:15pm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "http://spirits-sharing.com/t_426500/free/mixology_heritage",
+          "en": "http://spirits-sharing.com/t_426500/free/mixology_heritage"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-orchard-ginza",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "バー オーチャード ギンザ",
+      "en": "Bar Orchard Ginza"
+    },
+    "dek": {
+      "ja": "カウンターに並んだ季節の果実から一つを選ぶ。メニューはなく、その果実から一杯が生まれる。",
+      "en": "Choose one of the seasonal fruits lined up on the counter. There is no menu; the drink grows from what you pick."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "クラシックに寄せた一杯も、少し実験的な一杯も、果実を起点に組み立てる。",
+        "en": "Whether it leans classic or a little experimental, every drink starts from the fruit."
+      },
+      {
+        "ja": "小さな店を宮之原拓男氏が一人で切り盛りする夜も多い。",
+        "en": "On many nights Takuo Miyanohara runs the small room on his own."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座6-5-16 三楽ビル 7F",
+          "en": "Sanraku Building 7F, 6-5-16 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "季節の果実のカクテル",
+          "en": "Seasonal fruit cocktails"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "宮之原拓男",
+          "en": "Takuo Miyanohara"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "カウンターに並ぶ果実を選んで作ってもらう一杯",
+          "en": "Pick a fruit from the counter and a drink is built around it"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2019 第28位",
+          "en": "Asia's 50 Best Bars 2019, No. 28"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 18:00〜24:00（最終入店23:00）／日・祝 定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 6pm–midnight (last entry 11pm); closed Sun & holidays (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/barorchardginza/",
+          "en": "https://www.instagram.com/barorchardginza/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mori-bar-gran",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "毛利バー グラン",
+      "en": "Mori Bar Gran"
+    },
+    "dek": {
+      "ja": "「毛利マティーニ」で知られる毛利隆雄氏の店。13階と屋上テラスの2フロアで、テラスには桜の木が立つ。",
+      "en": "The bar of Takao Mori, famous for the 'Mori Martini'. Two floors on the 13th level and rooftop, with a cherry tree on the terrace."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "毛利氏のマティーニは、ジンにごく少量のベルモットを合わせ、長いステアで仕上げる。回数よりも「止めどころ」が大事だと本人は語る。",
+        "en": "Mori's martini pairs gin with a whisper of vermouth and a long stir. He says what matters is not the count but knowing when to stop."
+      },
+      {
+        "ja": "1997年開業のMORI BAR（本店）に続く店。テラスの桜は、毛利氏の創作カクテル「吉野」にちなむ。",
+        "en": "It follows the original MORI BAR, opened in 1997. The cherry tree on the terrace is a nod to Mori's own cocktail, Yoshino."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座6-12-12 サクラマークス銀座612 13F・14F",
+          "en": "13F–14F, Sakura Marks Ginza 612, 6-12-12 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー",
+          "en": "Authentic Japanese bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "毛利隆雄",
+          "en": "Takao Mori"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "長いステアで仕上げる「毛利マティーニ」、ハバナ・マティーニ",
+          "en": "The long-stirred 'Mori Martini'; the Havana Martini"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "毛利隆雄氏 全国バーテンダー・コンペティション 優勝（1984年・1985年）",
+          "en": "Takao Mori, national bartending competition winner (1984, 1985)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜金 12:00〜翌2:00（L.O. 1:30）／土日祝 12:00〜23:00（L.O. 22:30）／定休なし（二次情報・訪問前に要確認）",
+          "en": "Mon–Fri noon–2am (LO 1:30am); Sat, Sun & holidays noon–11pm (LO 10:30pm); open daily (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "23席",
+          "en": "23 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lupin-ginza",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "ルパン",
+      "en": "Lupin"
+    },
+    "dek": {
+      "ja": "1928年から続く銀座の地下のバー。路地の奥で、昭和の空気を今に伝える。",
+      "en": "A Ginza basement bar open since 1928. Down a side lane, it carries the air of the Showa era into the present."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "銀座で最も古いバーのひとつとして名前が挙がる店。路地の階段を下りた先にある。",
+        "en": "Often named among Ginza's oldest bars, it sits at the bottom of a stairway off a narrow lane."
+      },
+      {
+        "ja": "営業日と時間は変わることがあるため、訪問前の確認を勧める。",
+        "en": "Days and hours can change, so check before you go."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座5-5-11 塚本不動産ビル B1F",
+          "en": "Tsukamoto Fudosan Bldg B1F, 5-5-11 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "1928年創業の老舗バー",
+          "en": "Historic bar founded in 1928"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "火〜土 17:00〜23:30（L.O. 23:00）／日・月 定休（二次情報・訪問前に要確認）",
+          "en": "Tue–Sat 5pm–11:30pm (LO 11pm); usually closed Sun–Mon (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "little-smith",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "リトル スミス",
+      "en": "Little Smith"
+    },
+    "dek": {
+      "ja": "1993年11月15日に銀座で開業。天井高4mを超える空間に、馬蹄形のカウンターが据えられている。",
+      "en": "Opened in Ginza on 15 November 1993. A horseshoe counter sits beneath a ceiling more than four metres high."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "メニューを渡すより、好きな酒や味を尋ねて一杯を決める、日本のバーらしい流儀。",
+        "en": "Rather than hand over a menu, the staff ask about your favourite spirits and flavours, in the classic Japanese way."
+      },
+      {
+        "ja": "多くのバーテンダーを輩出してきた店で、新店舗「THE STATE ROOM」も開いている。",
+        "en": "Many respected bartenders have passed through here, and a newer venue, The State Room, has since opened."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座6-4-12 KNビル B2F",
+          "en": "KN Building B2F, 6-4-12 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "馬蹄形カウンターのオーセンティックバー",
+          "en": "Authentic bar around a horseshoe counter"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "好みを聞いて作るオーダーメイドの一杯",
+          "en": "Drinks tailored to each guest's preferences"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（2026年5月に営業時間変更の告知あり。月〜土の夜営業、日・祝 定休）",
+          "en": "To be confirmed (hours changed May 2026; evenings Mon–Sat, closed Sun & holidays)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://littlesmith.jp/",
+          "en": "https://littlesmith.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "zoetrope",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 西新宿",
+      "en": "EXPLORE BARS / NISHI-SHINJUKU"
+    },
+    "title": {
+      "ja": "ゾートロープ",
+      "en": "Zoetrope"
+    },
+    "dek": {
+      "ja": "ジャパニーズウイスキーだけを300種以上並べる小さなバー。壁には無声映画が流れる。",
+      "en": "A small bar stocking more than 300 Japanese whiskies and nothing else. Silent films flicker on the wall."
+    },
+    "byline": {
+      "ja": "東京・西新宿",
+      "en": "Nishi-Shinjuku, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "終売品や希少な瓶も含め、日本のウイスキーを飲み比べられる。",
+        "en": "Discontinued and hard-to-find bottlings sit alongside current releases, so you can taste across Japanese whisky."
+      },
+      {
+        "ja": "店名は、回転させて絵を動かす映像玩具にちなむ。",
+        "en": "The name comes from the spinning optical toy that makes pictures move."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・西新宿",
+          "en": "Nishi-Shinjuku, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都新宿区西新宿7-10-14 ガイアビル 3F",
+          "en": "Gaia Building 3F, 7-10-14 Nishi-Shinjuku, Shinjuku-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ジャパニーズウイスキー専門バー",
+          "en": "Japanese whisky bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "ホリガミ アツシ（オーナー）",
+          "en": "Atsushi Horigami (owner)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "300種を超えるジャパニーズウイスキー、無声映画の映写",
+          "en": "More than 300 Japanese whiskies; silent films on the wall"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 17:00〜23:00／日・祝 定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 5pm–11pm; closed Sun & holidays (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "jeremiah",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 新宿",
+      "en": "EXPLORE BARS / SHINJUKU"
+    },
+    "title": {
+      "ja": "ジェレマイア",
+      "en": "Jeremiah"
+    },
+    "dek": {
+      "ja": "1862年に最初のカクテル本を出したジェリー・トーマスに捧げた店。扉はその本の表紙を模している。",
+      "en": "A tribute to Jerry Thomas, who published the first cocktail book in 1862. The door is modelled on its cover."
+    },
+    "byline": {
+      "ja": "東京・新宿",
+      "en": "Shinjuku, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "京都のBee's Kneesや横浜のNewjackと同じチームが運営。古典のレシピに梅酒やジャスミンなど日本の素材を重ねる。",
+        "en": "Run by the team behind Bee's Knees in Kyoto and Newjack in Yokohama. Old recipes gain Japanese touches such as umeshu and jasmine."
+      },
+      {
+        "ja": "内装もバーテンダーの装いも1800年代後半の酒場を思わせる。",
+        "en": "Both the room and the bartenders' dress recall a saloon of the late 1800s."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・新宿",
+          "en": "Shinjuku, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都新宿区新宿5-4-1 新宿Qフラットビル 1F",
+          "en": "Shinjuku Q Flat Bldg 1F, 5-4-1 Shinjuku, Shinjuku-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "19世紀の酒場をテーマにしたカクテルバー",
+          "en": "Cocktail bar themed on a 19th-century saloon"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "ジェリー・トーマスの古典を日本の素材で再解釈した一杯",
+          "en": "Jerry Thomas classics reinterpreted with Japanese ingredients"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（訪問前に店舗へ確認を）",
+          "en": "To be confirmed (check with the bar before visiting)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.facebook.com/jeremiah.tokyo.shinjuku/",
+          "en": "https://www.facebook.com/jeremiah.tokyo.shinjuku/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-ishinohana",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 渋谷",
+      "en": "EXPLORE BARS / SHIBUYA"
+    },
+    "title": {
+      "ja": "Bar 石の華",
+      "en": "Bar Ishinohana"
+    },
+    "dek": {
+      "ja": "渋谷の喧騒から少し離れた地下の店。石垣忍氏がカウンターに立つ。",
+      "en": "A basement bar a short step from Shibuya's crowds, with Shinobu Ishigaki behind the counter."
+    },
+    "byline": {
+      "ja": "東京・渋谷",
+      "en": "Shibuya, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "渋谷駅の東側、渋谷3丁目のビルの地下にある。",
+        "en": "It sits in a basement in Shibuya 3-chome, on the east side of the station."
+      },
+      {
+        "ja": "営業日は季節ごとに公式サイトで告知される。訪問前の確認を。",
+        "en": "Opening days are announced seasonally on the official site, so check before visiting."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・渋谷",
+          "en": "Shibuya, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区渋谷3-6-2 第2矢木ビル B1",
+          "en": "B1, Dai-ni Yaki Bldg, 3-6-2 Shibuya, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックなカクテルバー",
+          "en": "Authentic cocktail bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "石垣忍（オーナーバーテンダー）",
+          "en": "Shinobu Ishigaki (owner-bartender)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "17:00〜24:00（L.O. 23:00）／水・木・祝 定休（2026年秋の告知）",
+          "en": "5pm–midnight (LO 11pm); closed Wed, Thu & holidays (autumn 2026 notice)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://ishinohana.com/",
+          "en": "https://ishinohana.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-martha",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 恵比寿",
+      "en": "EXPLORE BARS / EBISU"
+    },
+    "title": {
+      "ja": "バー マーサ",
+      "en": "Bar Martha"
+    },
+    "dek": {
+      "ja": "大きなスピーカーからレコードが流れる恵比寿のバー。会話は控えめに、音と酒に身を委ねる。",
+      "en": "An Ebisu bar where records play through big speakers. Talk stays low; the music and the glass do the rest."
+    },
+    "byline": {
+      "ja": "東京・恵比寿",
+      "en": "Ebisu, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "予約は受けない。写真撮影や大声を控えるなど、音を楽しむためのルールがある。",
+        "en": "No reservations. House rules, such as no photos and no loud talk, protect the listening."
+      },
+      {
+        "ja": "ウイスキーやカクテルを片手に、針が落ちる音から聴き込む。",
+        "en": "Whisky or a cocktail in hand, you listen from the moment the needle drops."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・恵比寿",
+          "en": "Ebisu, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都渋谷区恵比寿1-22-23 ベラハイツ恵比寿 109",
+          "en": "Vera Heights Ebisu 109, 1-22-23 Ebisu, Shibuya-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "アナログレコードを聴くバー",
+          "en": "Vinyl listening bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "フクヤマ ワタル（オーナー）",
+          "en": "Wataru Fukuyama (owner)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "レコードの音とウイスキー",
+          "en": "Records and whisky"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "19:00〜翌3:00",
+          "en": "7pm–3am"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://martha-records.com/martha.html",
+          "en": "https://martha-records.com/martha.html"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "albatross-g",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 新宿ゴールデン街",
+      "en": "EXPLORE BARS / SHINJUKU GOLDEN GAI"
+    },
+    "title": {
+      "ja": "アルバトロスG",
+      "en": "Albatross G"
+    },
+    "dek": {
+      "ja": "小さな店がひしめくゴールデン街で、シャンデリアが光る一軒。朝まで開いている。",
+      "en": "A chandelier-lit spot among the tiny bars of Golden Gai, open until dawn."
+    },
+    "byline": {
+      "ja": "東京・新宿ゴールデン街",
+      "en": "Shinjuku Golden Gai, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "赤い壁と鏡、いくつものシャンデリアが狭い空間を飾る。",
+        "en": "Red walls, mirrors and a cluster of chandeliers fill the narrow room."
+      },
+      {
+        "ja": "西新宿と高円寺にも系列店がある。",
+        "en": "Sister bars operate in Nishi-Shinjuku and Koenji."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・新宿ゴールデン街",
+          "en": "Shinjuku Golden Gai, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都新宿区歌舞伎町1-1-7 ゴールデン街5番街",
+          "en": "Golden Gai 5-bangai, 1-1-7 Kabukicho, Shinjuku-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ゴールデン街の小さなバー",
+          "en": "Tiny bar in Golden Gai"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "シャンデリアと赤い壁の内装",
+          "en": "Chandeliers and red walls"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 19:00〜翌5:00",
+          "en": "Daily 7pm–5am"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.alba-s.com/shop-2-2/",
+          "en": "https://www.alba-s.com/shop-2-2/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "new-york-bar",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 西新宿",
+      "en": "EXPLORE BARS / NISHI-SHINJUKU"
+    },
+    "title": {
+      "ja": "ニューヨーク バー（パーク ハイアット 東京）",
+      "en": "New York Bar, Park Hyatt Tokyo"
+    },
+    "dek": {
+      "ja": "52階でジャズの生演奏を聴きながら飲むホテルバー。19か月の改装を経て2025年12月に再開した。",
+      "en": "Live jazz on the 52nd floor. The bar reopened in December 2025 after the hotel's 19-month renovation."
+    },
+    "byline": {
+      "ja": "東京・西新宿",
+      "en": "Nishi-Shinjuku, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "18時半から演奏が始まり、夜更けまで数回のセットが続く。",
+        "en": "Music starts at 6:30pm and runs in several sets late into the night."
+      },
+      {
+        "ja": "映画『ロスト・イン・トランスレーション』の舞台としても知られる。",
+        "en": "It is also known as a setting in the film Lost in Translation."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・西新宿",
+          "en": "Nishi-Shinjuku, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都新宿区西新宿 パーク ハイアット 東京 52F",
+          "en": "52F, Park Hyatt Tokyo, Nishi-Shinjuku, Shinjuku-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ジャズの生演奏が入るホテルバー",
+          "en": "Hotel bar with live jazz"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "夜ごとのジャズ・ライブ",
+          "en": "Live jazz every night"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 17:00〜24:00（フードL.O. 23:00）",
+          "en": "Daily 5pm–midnight (food LO 11pm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "18:30以降 カバーチャージ 3,300円",
+          "en": "Cover charge ¥3,300 per person from 6:30pm"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://restaurants.tokyo.park.hyatt.co.jp/en/newyorkbar/",
+          "en": "https://restaurants.tokyo.park.hyatt.co.jp/en/newyorkbar/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "old-imperial-bar",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 日比谷",
+      "en": "EXPLORE BARS / HIBIYA"
+    },
+    "title": {
+      "ja": "オールドインペリアルバー（帝国ホテル 東京）",
+      "en": "Old Imperial Bar, Imperial Hotel Tokyo"
+    },
+    "dek": {
+      "ja": "帝国ホテル本館のバー。昼前から開き、季節ごとのオリジナルカクテルを出す。",
+      "en": "The bar in the Imperial Hotel's main building, open from late morning with seasonal original cocktails."
+    },
+    "byline": {
+      "ja": "東京・日比谷",
+      "en": "Hibiya, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "本館の建て替えは時期未定とされ、バーは現在も営業を続けている。",
+        "en": "Rebuilding of the main building has no fixed date yet, and the bar remains open."
+      },
+      {
+        "ja": "昼の一杯にも夜の一杯にも使える、ホテルバーらしい懐の深さがある。",
+        "en": "Like the best hotel bars, it works as well for a midday drink as for a nightcap."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・日比谷",
+          "en": "Hibiya, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都千代田区内幸町 帝国ホテル 東京 本館",
+          "en": "Main Building, Imperial Hotel Tokyo, Uchisaiwaicho, Chiyoda-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "老舗ホテルのクラシックなバー",
+          "en": "Classic bar in a historic hotel"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "季節のオリジナルカクテル",
+          "en": "Seasonal original cocktails"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 11:30〜24:00（L.O. 23:30）",
+          "en": "Daily 11:30am–midnight (LO 11:30pm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.imperialhotel.co.jp/en/tokyo/restaurant/old-imperialbar",
+          "en": "https://www.imperialhotel.co.jp/en/tokyo/restaurant/old-imperialbar"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sukiyabashi-samboa",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 銀座",
+      "en": "EXPLORE BARS / GINZA"
+    },
+    "title": {
+      "ja": "数寄屋橋サンボア",
+      "en": "Sukiyabashi Samboa"
+    },
+    "dek": {
+      "ja": "1918年に神戸で生まれたサンボアの系譜を継ぐ銀座の店。冷やしたウイスキーとソーダで、氷なしのハイボールを出す。",
+      "en": "A Ginza branch of the Samboa lineage, born in Kobe in 1918. The highball comes without ice, made with chilled whisky and soda."
+    },
+    "byline": {
+      "ja": "東京・銀座",
+      "en": "Ginza, Tokyo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "サンボアのハイボールは、ウイスキーと炭酸をよく冷やし、氷を入れずに仕上げるのが伝統。",
+        "en": "Samboa's tradition is to chill both whisky and soda thoroughly and leave the ice out."
+      },
+      {
+        "ja": "昼下がりから開き、仕事帰りの一杯にも使いやすい。",
+        "en": "It opens mid-afternoon, handy for a drink on the way home from work."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "東京・銀座",
+          "en": "Ginza, Tokyo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "東京都中央区銀座7-3-16 東五ビル 1F",
+          "en": "Togo Bldg 1F, 7-3-16 Ginza, Chuo-ku, Tokyo"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "サンボアの系譜を継ぐ老舗バー",
+          "en": "Historic bar of the Samboa lineage"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "氷を入れない角ハイボール",
+          "en": "Kakubin highball served without ice"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜金 15:00〜24:00／土日祝 15:00〜23:00",
+          "en": "Mon–Fri 3pm–midnight; Sat, Sun & holidays 3pm–11pm"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.samboa.bar/",
+          "en": "https://www.samboa.bar/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sea-guardian-ii",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 山下町",
+      "en": "EXPLORE BARS / YAMASHITA-CHO"
+    },
+    "title": {
+      "ja": "バー シーガーディアンII（ホテルニューグランド）",
+      "en": "Bar Sea Guardian II, Hotel New Grand"
+    },
+    "dek": {
+      "ja": "山下公園前のクラシックホテルのバー。サヴォイのカクテルブックにも載る「ヨコハマ」を、その名の街で味わえる。",
+      "en": "The bar of a classic hotel facing Yamashita Park, where you can order the Yokohama, listed in The Savoy Cocktail Book, in its namesake city."
+    },
+    "byline": {
+      "ja": "横浜・山下町",
+      "en": "Yamashita-cho, Yokohama"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "作家の大佛次郎や池波正太郎らに愛された英国調のバー。落ち着いた照明とクラシックな内装が続いている。",
+        "en": "A British-style bar once loved by writers such as Jiro Osaragi and Shotaro Ikenami, with soft light and classic furnishings."
+      },
+      {
+        "ja": "夕焼けを思わせるオレンジ色の「ヨコハマ」と、シェリーとベルモットの「バンブー」が看板。",
+        "en": "The sunset-orange Yokohama and the sherry-and-vermouth Bamboo are the house signatures."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "横浜・山下町",
+          "en": "Yamashita-cho, Yokohama"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "神奈川県横浜市中区山下町 ホテルニューグランド 本館1F",
+          "en": "Main Building 1F, Hotel New Grand, Yamashita-cho, Naka-ku, Yokohama"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "英国調のホテルバー",
+          "en": "British-style hotel bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "カクテル「ヨコハマ」、バンブー",
+          "en": "The Yokohama cocktail; the Bamboo"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "17:00〜23:00（L.O. 22:30）",
+          "en": "5pm–11pm (LO 10:30pm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "43席（全席禁煙）",
+          "en": "43 seats (non-smoking)"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.hotel-newgrand.co.jp/sea-guardian-2/",
+          "en": "https://www.hotel-newgrand.co.jp/sea-guardian-2/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-nayuta",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / アメリカ村（西心斎橋）",
+      "en": "EXPLORE BARS / AMERIKAMURA (NISHI-SHINSAIBASHI)"
+    },
+    "title": {
+      "ja": "バー ナユタ",
+      "en": "Bar Nayuta"
+    },
+    "dek": {
+      "ja": "小さな扉に謎めいた印だけが掲げられた店。メニューはなく、好みの酒やスタイルを伝えて一杯を作ってもらう。",
+      "en": "A tiny door marked only by an occult-looking symbol. There is no list; name a spirit or a style and the bartenders build a drink for you."
+    },
+    "byline": {
+      "ja": "大阪・アメリカ村（西心斎橋）",
+      "en": "Amerikamura (Nishi-Shinsaibashi), Osaka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "自家製のビターズや浸漬酒、リキュールを使い、クラシックの再解釈から完全な創作まで幅広く応える。",
+        "en": "With house bitters, infusions and liqueurs, the team ranges from reimagined classics to wholly original drinks."
+      },
+      {
+        "ja": "2026年のアジアのランキングで大きく順位を上げた。",
+        "en": "It made one of the biggest jumps on Asia's 2026 list."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "大阪・アメリカ村（西心斎橋）",
+          "en": "Amerikamura (Nishi-Shinsaibashi), Osaka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "大阪府大阪市中央区西心斎橋1-6-17 マリオビル 5F",
+          "en": "Mario Building 5F, 1-6-17 Nishi-Shinsaibashi, Chuo-ku, Osaka"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "三角公園の近く",
+          "en": "Near Triangle Park"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーダーメイドのカクテルバー",
+          "en": "Bespoke cocktail bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "自家製のビターズ、浸漬酒、リキュールを使う一杯",
+          "en": "Drinks built with house bitters, infusions and liqueurs"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2026 第70位（51–100位）",
+          "en": "Asia's 50 Best Bars 2026, No. 70 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "毎日 17:00〜翌3:00（ラストコール 2:30）",
+          "en": "Daily 5pm–3am (last call 2:30am)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://bar-nayuta.com/",
+          "en": "https://bar-nayuta.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "craftroom",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 梅田",
+      "en": "EXPLORE BARS / UMEDA"
+    },
+    "title": {
+      "ja": "クラフトルーム",
+      "en": "Craftroom"
+    },
+    "dek": {
+      "ja": "駅前ビルの地下にある六席の店。北新地のBar, Kで腕を磨いた藤井氏が2020年に開いた。",
+      "en": "Six seats in the basement of a station-front building. Ryu Fujii, who honed his craft at Bar, K in Kitashinchi, opened it in 2020."
+    },
+    "byline": {
+      "ja": "大阪・梅田",
+      "en": "Umeda, Osaka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "季節で変わるメニューに、クラシックの変奏とノンアルコールの一杯が並ぶ。",
+        "en": "The seasonal menu mixes twists on classics with alcohol-free drinks."
+      },
+      {
+        "ja": "焼き立てのパイが名物で、味は月ごとに変わる。",
+        "en": "Freshly baked pies are a house speciality, with flavours that change every month."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "大阪・梅田",
+          "en": "Umeda, Osaka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "大阪府大阪市北区梅田1-3-1 大阪駅前第一ビル B2-70",
+          "en": "Osaka Ekimae Daiichi Bldg B2-70, 1-3-1 Umeda, Kita-ku, Osaka"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "6席のカクテルバー",
+          "en": "Six-seat cocktail bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "藤井氏（Ryu Fujii／オーナーバーテンダー）",
+          "en": "Ryu Fujii (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "季節のクラシック・ツイスト、ノンアルコールカクテル、月替わりのパイ",
+          "en": "Seasonal twists on classics, non-alcoholic cocktails, monthly pies"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2026 第72位（51–100位）",
+          "en": "Asia's 50 Best Bars 2026, No. 72 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 16:00〜24:00／日 定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 4pm–midnight; closed Sun (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "6席",
+          "en": "6 seats"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://craft-room.jp/",
+          "en": "https://craft-room.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-k-kitashinchi",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 北新地",
+      "en": "EXPLORE BARS / KITASHINCHI"
+    },
+    "title": {
+      "ja": "Bar, K（バー ケイ）",
+      "en": "Bar, K"
+    },
+    "dek": {
+      "ja": "北新地の地下にある静かなバー。世界のウイスキー、とくに日本の銘柄を厚く揃え、カクテルの評価も高い。",
+      "en": "A quiet basement bar in Kitashinchi. Whiskies from around the world, with a strong Japanese focus, and cocktails that hold their own."
+    },
+    "byline": {
+      "ja": "大阪・北新地",
+      "en": "Kitashinchi, Osaka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "にぎやかな北新地にありながら、落ち着いた時間が流れる。",
+        "en": "Calm and low-key, despite the lively Kitashinchi streets outside."
+      },
+      {
+        "ja": "大阪のCraftroomを開いた藤井氏が、かつて腕を磨いた店でもある。",
+        "en": "It is also where Ryu Fujii of Craftroom trained before opening his own bar."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "大阪・北新地",
+          "en": "Kitashinchi, Osaka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "大阪府大阪市北区曾根崎新地1-3-3 好陽ビル B1F",
+          "en": "Koyo Bldg B1F, 1-3-3 Sonezakishinchi, Kita-ku, Osaka"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ウイスキーとカクテルのオーセンティックバー",
+          "en": "Authentic bar for whisky and cocktails"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "日本のウイスキーに厚いコレクション",
+          "en": "A deep collection with a focus on Japanese whisky"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 18:00〜24:00／日・年末年始 定休",
+          "en": "Mon–Sat 6pm–midnight; closed Sun & New Year period"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "カウンター7席・テーブル2卓",
+          "en": "7 counter seats and 2 tables"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://bar-k.jp/",
+          "en": "https://bar-k.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-juniper-osaka",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 堂島",
+      "en": "EXPLORE BARS / DOJIMA"
+    },
+    "title": {
+      "ja": "バー ジュニパー",
+      "en": "Bar Juniper"
+    },
+    "dek": {
+      "ja": "国内外のジンを揃える堂島の専門店。100年前のヴィンテージまで並ぶ棚から、飲み比べを楽しめる。",
+      "en": "A Dojima specialist in gins from Japan and around the world, with vintage bottles up to a century old."
+    },
+    "byline": {
+      "ja": "大阪・堂島",
+      "en": "Dojima, Osaka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "カクテルはジンを主役にしたクラシックが中心。ギムレットやマティーニのほか、柚子や桜を使う日本らしい変奏もある。",
+        "en": "Cocktails are gin-led classics: gimlets and martinis, plus Japanese twists with yuzu or cherry blossom."
+      },
+      {
+        "ja": "薬局を思わせる雰囲気と、現代的ですっきりした内装が同居する。",
+        "en": "The room feels part apothecary, part sleek modern bar."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "大阪・堂島",
+          "en": "Dojima, Osaka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "大阪府大阪市北区堂島1-4-4 NJビル 1F",
+          "en": "NJ Building 1F, 1-4-4 Dojima, Kita-ku, Osaka"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "ジン専門のバー",
+          "en": "Gin specialist bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "ギムレットやマティーニ、柚子や桜を使う変奏",
+          "en": "Gimlets and martinis, plus local twists with yuzu or cherry blossom"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "17:00〜翌1:00（金は翌2:00まで）／第1火曜 定休（二次情報・訪問前に要確認）",
+          "en": "5pm–1am (Fri until 2am); closed 1st Tuesday (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bees-knees-kyoto",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 木屋町・河原町",
+      "en": "EXPLORE BARS / KIYAMACHI / KAWARAMACHI"
+    },
+    "title": {
+      "ja": "ビーズニーズ",
+      "en": "Bee's Knees"
+    },
+    "dek": {
+      "ja": "黄色い扉と蜂のサインだけが目印。1920年代の名作をひねったカクテルを、90年代ヒップホップとともに。",
+      "en": "A yellow door and a bee sign are the only clues. Twists on 1920s classics, served to a 1990s hip-hop soundtrack."
+    },
+    "byline": {
+      "ja": "京都・木屋町・河原町",
+      "en": "Kiyamachi / Kawaramachi, Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "禁酒法時代のスピークイージーを下敷きに、日本の素材を使った創作も並ぶ。",
+        "en": "The speakeasy theme nods to Prohibition, with original drinks that bring in Japanese ingredients."
+      },
+      {
+        "ja": "新宿のJeremiahや横浜のNewjackと同じチームが手がける。",
+        "en": "From the same team as Jeremiah in Shinjuku and Newjack in Yokohama."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・木屋町・河原町",
+          "en": "Kiyamachi / Kawaramachi, Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市中京区 Kamiya-cho 364 松屋ビル 1F",
+          "en": "Matsuya Building 1F, 364 Kamiya-cho, Nakagyo-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "禁酒法時代風のスピークイージー",
+          "en": "Prohibition-style speakeasy"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "Ki No Tea ジンと自家製カシスジャムの「アストロノート」",
+          "en": "The Astronaut, with Ki No Tea gin and house cassis jam"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2021 第18位／Asia's 50 Best Bars 2023 第44位／Asia's 50 Best Bars 2025 第74位（51–100位）",
+          "en": "Asia's 50 Best Bars 2021, No. 18; Asia's 50 Best Bars 2023, No. 44; Asia's 50 Best Bars 2025, No. 74 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜木 18:00〜翌1:00／金・土 18:00〜翌2:00／日 定休",
+          "en": "Mon–Thu 6pm–1am; Fri–Sat 6pm–2am; closed Sun"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://bees-knees-kyoto.jp/",
+          "en": "https://bees-knees-kyoto.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lescamoteur-kyoto",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 河原町",
+      "en": "EXPLORE BARS / KAWARAMACHI"
+    },
+    "title": {
+      "ja": "レスカモトゥール",
+      "en": "L'Escamoteur"
+    },
+    "dek": {
+      "ja": "古書や帽子、古いデキャンタが雑然と並ぶ薄暗い店。魔法と錬金術を主題にしたカクテルを出す。",
+      "en": "A dim, cluttered room of old books, hats and vintage decanters, pouring cocktails on a theme of magic and alchemy."
+    },
+    "byline": {
+      "ja": "京都・河原町",
+      "en": "Kawaramachi, Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "店名はフランス語で「手品師」を意味する。一杯ごとに小さな仕掛けがある。",
+        "en": "The name is French for a conjuror, and each drink comes with a little sleight of hand."
+      },
+      {
+        "ja": "柚子や抹茶、地元の酒といった京都らしい素材も使う。",
+        "en": "Kyoto touches such as yuzu, matcha and local spirits appear throughout the list."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・河原町",
+          "en": "Kawaramachi, Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市下京区斉藤町138-9",
+          "en": "138-9 Saito-cho, Shimogyo-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "魔法と錬金術がテーマのカクテルバー",
+          "en": "Cocktail bar themed on magic and alchemy"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "柚子や抹茶、地元の酒を使った演出のあるカクテル",
+          "en": "Theatrical cocktails with yuzu, matcha and regional spirits"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（訪問前に店舗へ確認を）",
+          "en": "To be confirmed (check with the bar before visiting)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-k6",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 木屋町二条",
+      "en": "EXPLORE BARS / KIYAMACHI NIJO"
+    },
+    "title": {
+      "ja": "Bar K6",
+      "en": "Bar K6"
+    },
+    "dek": {
+      "ja": "京都でも指折りの酒の棚を持つバー。シングルモルトだけで600種に及ぶ。",
+      "en": "One of Kyoto's great back bars, with some 600 single malts alone."
+    },
+    "byline": {
+      "ja": "京都・木屋町二条",
+      "en": "Kiyamachi Nijo, Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "希少なボトルも多いが、接客は気取らず親しみやすい。",
+        "en": "Many bottles are rare, yet the service is friendly and relaxed."
+      },
+      {
+        "ja": "京都のBar Rocking chairを開いた坪倉賢二氏も、かつてここに在籍した。",
+        "en": "Kenji Tsubokura, founder of Bar Rocking chair, worked here before opening his own bar."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・木屋町二条",
+          "en": "Kiyamachi Nijo, Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市中京区二条通木屋町東入東生洲町481 2F",
+          "en": "2F, 481 Higashi-Ikesu-cho, Nijo-dori Kiyamachi Higashi-iru, Nakagyo-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "モルトウイスキーとカクテルのバー",
+          "en": "Malt whisky and cocktail bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "約1,200本のスピリッツ、うち600種のシングルモルト",
+          "en": "About 1,200 bottles, including 600 single malts"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "18:00〜翌2:00／月・火 定休",
+          "en": "6pm–2am; closed Mon & Tue"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://ksix.jp/",
+          "en": "https://ksix.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nokishita711",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 河原町",
+      "en": "EXPLORE BARS / KAWARAMACHI"
+    },
+    "title": {
+      "ja": "nokishita711",
+      "en": "nokishita711"
+    },
+    "dek": {
+      "ja": "カクテルを「液体料理」と呼ぶ完全予約制の店。小さなつまみと組み合わせたコースで味わう。",
+      "en": "A reservation-only bar that calls its cocktails 'liquid cuisine', served as a course with small paired bites."
+    },
+    "byline": {
+      "ja": "京都・河原町",
+      "en": "Kawaramachi, Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "時間を区切った入れ替え制で、席はすべて予約で埋まる。",
+        "en": "Seatings run at set times, and every seat is booked in advance."
+      },
+      {
+        "ja": "オーナーバーテンダーのセキネ トモイキ氏が率いる。",
+        "en": "Led by owner-bartender Tomoiki Sekine."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・河原町",
+          "en": "Kawaramachi, Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市下京区船頭町235",
+          "en": "235 Sendo-cho, Shimogyo-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "完全予約制の「液体料理」コース",
+          "en": "Reservation-only 'liquid cuisine' course"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "セキネ トモイキ（オーナーバーテンダー）",
+          "en": "Tomoiki Sekine (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "つまみと組み合わせたカクテルのコース",
+          "en": "A course of cocktails paired with small bites"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "完全予約制（15時・18時・21時の回）",
+          "en": "Reservation only (sittings at 3pm, 6pm and 9pm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.nokishita.net/nokishita711",
+          "en": "https://www.nokishita.net/nokishita711"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-rocking-chair",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 四条河原町（仏光寺）",
+      "en": "EXPLORE BARS / SHIJO-KAWARAMACHI (BUKKOJI)"
+    },
+    "title": {
+      "ja": "Bar Rocking chair",
+      "en": "Bar Rocking chair"
+    },
+    "dek": {
+      "ja": "2016年の世界大会で頂点に立った坪倉賢二氏が、2009年に開いた京都のバー。",
+      "en": "The Kyoto bar Kenji Tsubokura opened in 2009, seven years before he took the world title."
+    },
+    "byline": {
+      "ja": "京都・四条河原町（仏光寺）",
+      "en": "Shijo-Kawaramachi (Bukkoji), Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "坪倉氏は東京の老舗「ガスライト」で6年、京都のK6で4年半働いたのち独立した。",
+        "en": "Tsubokura spent six years at Tokyo's Gaslight and four and a half at Kyoto's K6 before going independent."
+      },
+      {
+        "ja": "2016年、63か国・地域から約110人が競った世界大会で総合優勝した。",
+        "en": "In 2016 he won the overall title at a world championship of about 110 bartenders from 63 countries and regions."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・四条河原町（仏光寺）",
+          "en": "Shijo-Kawaramachi (Bukkoji), Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市下京区御幸町通仏光寺下る橘町434-2",
+          "en": "434-2 Tachibana-cho, Gokomachi-dori Bukkoji-sagaru, Shimogyo-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー",
+          "en": "Authentic Japanese bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "坪倉賢二（オーナーバーテンダー）",
+          "en": "Kenji Tsubokura (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "世界大会優勝作「The Best Scene」",
+          "en": "'The Best Scene', his world-championship cocktail"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "坪倉賢二氏 全国バーテンダー技能競技大会 総合優勝（2015年）／坪倉賢二氏 IBAワールド・カクテル・チャンピオンシップ 総合優勝（2016年）",
+          "en": "Kenji Tsubokura, national bartending competition overall winner (2015); Kenji Tsubokura, IBA World Cocktail Championship overall winner (2016)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "17:00〜翌1:00（L.O. 24:00）／不定休（2026年11月は火曜休の告知）",
+          "en": "5pm–1am (LO midnight); irregular closures (Tuesdays in Nov 2026)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://bar-rockingchair.jp/",
+          "en": "https://bar-rockingchair.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "gion-samboa",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / 祇園",
+      "en": "EXPLORE BARS / GION"
+    },
+    "title": {
+      "ja": "祇園サンボア",
+      "en": "Gion Samboa"
+    },
+    "dek": {
+      "ja": "祇園の一角で、サンボアの名を継ぐ京都の店。",
+      "en": "A Kyoto bar carrying the Samboa name, in the heart of Gion."
+    },
+    "byline": {
+      "ja": "京都・祇園",
+      "en": "Gion, Kyoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "サンボアは1918年に神戸で創業し、冷やしたウイスキーと炭酸で作る氷なしのハイボールを守り続けている。",
+        "en": "Samboa began in Kobe in 1918 and still makes its highball the old way: chilled whisky and soda, no ice."
+      },
+      {
+        "ja": "夕方早くから開き、祇園の夜の始まりに立ち寄れる。",
+        "en": "It opens in the late afternoon, an easy first stop for an evening in Gion."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "京都・祇園",
+          "en": "Gion, Kyoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "京都府京都市東山区祇園町南側570",
+          "en": "570 Gion-machi Minamigawa, Higashiyama-ku, Kyoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "サンボアの系譜の老舗バー",
+          "en": "Historic bar of the Samboa lineage"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "サンボア伝統の氷なしハイボール",
+          "en": "Samboa's traditional no-ice highball"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "火〜金 16:00〜23:00／土 15:00〜23:00／日 15:00〜22:00／月 定休（二次情報・訪問前に要確認）",
+          "en": "Tue–Fri 4pm–11pm; Sat 3pm–11pm; Sun 3pm–10pm; closed Mon (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lamp-bar-nara",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 奈良市（近鉄奈良駅周辺）",
+      "en": "EXPLORE BARS / NARA CITY (NEAR KINTETSU-NARA)"
+    },
+    "title": {
+      "ja": "ランプバー",
+      "en": "Lamp Bar"
+    },
+    "dek": {
+      "ja": "2015年に世界一のバーテンダーに選ばれた金子道人氏の店。メニューはなく、会話から一杯が決まる。",
+      "en": "The bar of Michito Kaneko, named the world's best bartender in 2015. There is no menu; the drink comes out of a conversation."
+    },
+    "byline": {
+      "ja": "奈良・奈良市（近鉄奈良駅周辺）",
+      "en": "Nara city (near Kintetsu-Nara), Nara"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "背面の棚には豊富なボトルと、銅製の蒸留器のレプリカが並ぶ。",
+        "en": "The back bar holds a broad bottle selection and a replica copper pot still."
+      },
+      {
+        "ja": "好みを聞いたうえで、シェイク、ステア、ビルド、スローと技法を使い分ける。",
+        "en": "After hearing your preferences, the team chooses whether to shake, stir, build or throw."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "奈良・奈良市（近鉄奈良駅周辺）",
+          "en": "Nara city (near Kintetsu-Nara), Nara"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "奈良県奈良市角振町26 伊勢屋ビル 1F",
+          "en": "Iseya Building 1F, 26 Tsunofuri-cho, Nara"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "メニューのないオーダーメイドのカクテルバー",
+          "en": "Menu-free bespoke cocktail bar"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "金子道人（オーナーバーテンダー）",
+          "en": "Michito Kaneko (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "好みを聞いて、シェイク、ステア、ビルド、スローで仕上げる一杯",
+          "en": "Drinks made to order by shaking, stirring, building or throwing"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "金子道人氏 Diageo Reserve World Class 世界一（2015年）／Asia's 50 Best Bars 2023 第23位／Asia's 50 Best Bars 2025 第45位／Asia's 50 Best Bars 2026 第94位（51–100位）",
+          "en": "Michito Kaneko, Diageo Reserve World Class global winner (2015); Asia's 50 Best Bars 2023, No. 23; Asia's 50 Best Bars 2025, No. 45; Asia's 50 Best Bars 2026, No. 94 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 17:00〜翌1:00／日 17:00〜23:00／不定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 5pm–1am; Sun 5pm–11pm; irregular closures (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.lamp-bar.com/",
+          "en": "https://www.lamp-bar.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sone-kobe",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 北野坂",
+      "en": "EXPLORE BARS / KITANOZAKA"
+    },
+    "title": {
+      "ja": "ジャズライブ＆レストラン ソネ",
+      "en": "Sone (Jazz Live & Restaurant)"
+    },
+    "dek": {
+      "ja": "神戸・北野坂で1969年から続くジャズの店。食事と酒とともに、生演奏を聴ける。",
+      "en": "A Kitanozaka jazz room since 1969, with food, drinks and live music."
+    },
+    "byline": {
+      "ja": "神戸・北野坂",
+      "en": "Kitanozaka, Kobe"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "港町神戸のジャズ文化を伝える店として知られ、ステージは夜ごとに開かれる。",
+        "en": "Known as a keeper of Kobe's port-city jazz culture, with live sets night after night."
+      },
+      {
+        "ja": "ライブのスケジュールは公式サイトで月ごとに公開される。",
+        "en": "The live schedule is posted monthly on the official site."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "神戸・北野坂",
+          "en": "Kitanozaka, Kobe"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "兵庫県神戸市中央区中山手通1-24-10",
+          "en": "1-24-10 Nakayamate-dori, Chuo-ku, Kobe"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "1969年創業のジャズライブの店",
+          "en": "Live jazz venue open since 1969"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "毎晩のジャズ・ライブ",
+          "en": "Live jazz every night"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "17:00〜23:00（ライブ 18:30〜）／年始休業あり",
+          "en": "5pm–11pm (live music from 6:30pm); closed over New Year"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.kobe-sone.com/",
+          "en": "https://www.kobe-sone.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "yakoboku-kumamoto",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 熊本市中央区",
+      "en": "EXPLORE BARS / CHUO-KU, KUMAMOTO"
+    },
+    "title": {
+      "ja": "ヤコボク",
+      "en": "Yakoboku"
+    },
+    "dek": {
+      "ja": "戦前の建物が残る通りの、古い蔵を改装した店。九州の季節の素材と自家製の発酵飲料を使う。",
+      "en": "A converted storehouse on a street of pre-war buildings. Kyushu's seasonal produce and house-made ferments drive the drinks."
+    },
+    "byline": {
+      "ja": "熊本・熊本市中央区",
+      "en": "Chuo-ku, Kumamoto, Kumamoto"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "店主は東京とシンガポールのバー、奈良のLamp Barで経験を積んだのち、熊本で独立した。",
+        "en": "The owner worked in Tokyo and Singapore and at Lamp Bar in Nara before opening in Kumamoto."
+      },
+      {
+        "ja": "飾りを削いだ空間で、長いカウンターの照明がバーテンダーの手元を浮かび上がらせる。",
+        "en": "The minimalist room lets the long, dramatically lit counter put the bartender's hands centre stage."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "熊本・熊本市中央区",
+          "en": "Chuo-ku, Kumamoto, Kumamoto"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "熊本県熊本市中央区南坪井町5-21 1F",
+          "en": "1F, 5-21 Minamitsuboi-machi, Chuo-ku, Kumamoto"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "旧蔵を改装した、地域素材のカクテルバー",
+          "en": "Seasonal, regional cocktails in a former storehouse"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "Shinya Koba（オーナーバーテンダー）",
+          "en": "Shinya Koba (owner-bartender)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "ビーツ、柿、すだち、焼酎、ひのき、自家製の柚子テパチェなど",
+          "en": "Beetroot, persimmon, sudachi, shochu, hinoki and house ferments such as yuzu tepache"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "Asia's 50 Best Bars 2025 第25位／Asia's 50 Best Bars 2026 第59位（51–100位）",
+          "en": "Asia's 50 Best Bars 2025, No. 25; Asia's 50 Best Bars 2026, No. 59 (51–100)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（訪問前に店舗へ確認を）",
+          "en": "To be confirmed (check with the bar before visiting)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "instagram",
+        "label": {
+          "ja": "Instagram",
+          "en": "Instagram"
+        },
+        "value": {
+          "ja": "https://www.instagram.com/bar_yakoboku_kumamoto/",
+          "en": "https://www.instagram.com/bar_yakoboku_kumamoto/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-higuchi-fukuoka",
+    "tone": "ash",
+    "kicker": {
+      "ja": "EXPLORE BARS / 中洲",
+      "en": "EXPLORE BARS / NAKASU"
+    },
+    "title": {
+      "ja": "Bar Higuchi（バー ヒグチ）",
+      "en": "Bar Higuchi"
+    },
+    "dek": {
+      "ja": "福岡・中洲の老舗バー。名物のモスコミュールを目当てに訪れる人が多い。",
+      "en": "A long-standing bar in Fukuoka's Nakasu district, where many come for the house Moscow Mule."
+    },
+    "byline": {
+      "ja": "福岡・中洲",
+      "en": "Nakasu, Fukuoka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "中洲川端駅から歩いてすぐ。ウイスキーの品揃えにも定評がある。",
+        "en": "A short walk from Nakasu-Kawabata Station, with a well-regarded whisky selection."
+      },
+      {
+        "ja": "夜の中洲に構える、落ち着いた一軒。",
+        "en": "A calm address amid Nakasu's nightlife."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "福岡・中洲",
+          "en": "Nakasu, Fukuoka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "福岡県福岡市博多区中洲3-4-6 多門ビル'83 1F",
+          "en": "Tamon Bldg '83 1F, 3-4-6 Nakasu, Hakata-ku, Fukuoka"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "地下鉄 中洲川端駅から徒歩約2〜3分",
+          "en": "About 2–3 min walk from Nakasu-Kawabata Station"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "中洲のオーセンティックバー",
+          "en": "Authentic bar in Nakasu"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "名物のモスコミュール",
+          "en": "The house Moscow Mule"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 19:00〜翌1:00／日・祝 定休（二次情報・訪問前に要確認）",
+          "en": "Mon–Sat 7pm–1am; closed Sun & holidays (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.bar-higuchi.com/",
+          "en": "https://www.bar-higuchi.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-oscar-fukuoka",
+    "tone": "dusk",
+    "kicker": {
+      "ja": "EXPLORE BARS / 大名",
+      "en": "EXPLORE BARS / DAIMYO"
+    },
+    "title": {
+      "ja": "Bar Oscar（バー オスカー）",
+      "en": "Bar Oscar"
+    },
+    "dek": {
+      "ja": "福岡・大名のビル6階にある、端正なクラシックカクテルで知られるバー。",
+      "en": "A sixth-floor bar in Fukuoka's Daimyo district, known for polished classic cocktails."
+    },
+    "byline": {
+      "ja": "福岡・大名",
+      "en": "Daimyo, Fukuoka"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "オーナーバーテンダーの長友修一氏がカウンターを率いる。",
+        "en": "Owner-bartender Shuichi Nagatomo leads the counter."
+      },
+      {
+        "ja": "スコッチ・モルト・ウイスキー・ソサエティのパートナーバーでもある。",
+        "en": "It is also a partner bar of The Scotch Malt Whisky Society."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "福岡・大名",
+          "en": "Daimyo, Fukuoka"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "福岡県福岡市中央区大名1-10-29 ステージ1大名 6F",
+          "en": "Stage 1 Daimyo 6F, 1-10-29 Daimyo, Chuo-ku, Fukuoka"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "クラシックカクテルのオーセンティックバー",
+          "en": "Authentic bar for classic cocktails"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "長友修一（オーナーバーテンダー）",
+          "en": "Shuichi Nagatomo (owner-bartender)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "18:00〜翌2:00／日 定休（二次情報・訪問前に要確認）",
+          "en": "6pm–2am; closed Sun (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-yamazaki-sapporo",
+    "tone": "bone",
+    "kicker": {
+      "ja": "EXPLORE BARS / すすきの",
+      "en": "EXPLORE BARS / SUSUKINO"
+    },
+    "title": {
+      "ja": "BARやまざき",
+      "en": "Bar Yamazaki"
+    },
+    "dek": {
+      "ja": "すすきので1958年から続くバー。オリジナルカクテルは200種を超える。",
+      "en": "A Susukino bar open since 1958, with more than 200 original cocktails."
+    },
+    "byline": {
+      "ja": "札幌・すすきの",
+      "en": "Susukino, Sapporo"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "創業者の山崎達郎氏は、1993年にバーテンダーとして日本で初めて勲章を受けた。",
+        "en": "Founder Tatsuro Yamazaki became, in 1993, the first bartender in Japan to receive an imperial decoration."
+      },
+      {
+        "ja": "看板の「サッポロ」は、イタリアのアマレット・ディ・サロンノのカクテルコンクールで受賞した一杯。",
+        "en": "The signature 'Sapporo' won a prize at the Amaretto di Saronno cocktail competition in Italy."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "札幌・すすきの",
+          "en": "Susukino, Sapporo"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "北海道札幌市中央区南3条西3丁目 克美ビル 4F",
+          "en": "Katsumi Bldg 4F, Minami 3-jo Nishi 3-chome, Chuo-ku, Sapporo"
+        }
+      },
+      {
+        "id": "station",
+        "label": {
+          "ja": "最寄り",
+          "en": "Nearest station"
+        },
+        "value": {
+          "ja": "地下鉄南北線 すすきの駅 1番出口から徒歩1分",
+          "en": "1 min walk from Susukino Station (Namboku Line), Exit 1"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "1958年創業のオーセンティックバー",
+          "en": "Authentic bar founded in 1958"
+        }
+      },
+      {
+        "id": "people",
+        "label": {
+          "ja": "人",
+          "en": "People"
+        },
+        "value": {
+          "ja": "山崎達郎（創業者）",
+          "en": "Tatsuro Yamazaki (founder)"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "イタリアのコンクールで受賞したカクテル「サッポロ」ほか200種超のオリジナル",
+          "en": "The prize-winning 'Sapporo' and more than 200 original cocktails"
+        }
+      },
+      {
+        "id": "accolades",
+        "label": {
+          "ja": "受賞・ランキング",
+          "en": "Accolades"
+        },
+        "value": {
+          "ja": "山崎達郎氏 バーテンダーとして日本初の勲章受章（1993年）",
+          "en": "Tatsuro Yamazaki, first bartender in Japan to receive an imperial decoration (1993)"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "月〜土 18:00〜24:30（L.O. 24:00）",
+          "en": "Mon–Sat 6pm–12:30am (LO midnight)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "席料 770円＋サービス料10%（スタンダードカクテル 990円〜）",
+          "en": "Seat charge ¥770 + 10% service (standard cocktails from ¥990)"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.bar-yamazaki.com/",
+          "en": "https://www.bar-yamazaki.com/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-barns-nagoya",
+    "tone": "wine",
+    "kicker": {
+      "ja": "EXPLORE BARS / 栄・伏見",
+      "en": "EXPLORE BARS / SAKAE / FUSHIMI"
+    },
+    "title": {
+      "ja": "BAR BARNS（バー バーンズ）",
+      "en": "Bar Barns"
+    },
+    "dek": {
+      "ja": "名古屋・伏見と栄のあいだにある地下のバー。基本は予約制で、少人数で静かに過ごせる。",
+      "en": "A basement bar between Fushimi and Sakae in Nagoya. Mostly by reservation, for small groups and quiet evenings."
+    },
+    "byline": {
+      "ja": "名古屋・栄・伏見",
+      "en": "Sakae / Fushimi, Nagoya"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "16席の店で、1グループは4名まで。現在は奥側の店舗のみで営業している。",
+        "en": "Sixteen seats, groups of up to four. For now, only the rear room is in operation."
+      },
+      {
+        "ja": "営業日は公式サイトのブログで告知される。",
+        "en": "Opening days are posted on the official blog."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "名古屋・栄・伏見",
+          "en": "Sakae / Fushimi, Nagoya"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "愛知県名古屋市中区栄2-3-32 HP広小路ビル B1",
+          "en": "HP Hirokoji Bldg B1, 2-3-32 Sakae, Naka-ku, Nagoya"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー",
+          "en": "Authentic Japanese bar"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "16:00〜24:00（L.O. 23:30）・基本予約制",
+          "en": "4pm–midnight (LO 11:30pm), reservations recommended"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "16席（1グループ4名まで）",
+          "en": "16 seats (max. 4 per group)"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "チャージ 1,300円（税込）",
+          "en": "Cover ¥1,300 (tax incl.)"
+        }
+      },
+      {
+        "id": "web",
+        "label": {
+          "ja": "公式サイト",
+          "en": "Website"
+        },
+        "value": {
+          "ja": "https://www.bar-barns.jp/",
+          "en": "https://www.bar-barns.jp/"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "bar-spoon-kanazawa",
+    "tone": "ink",
+    "kicker": {
+      "ja": "EXPLORE BARS / 片町",
+      "en": "EXPLORE BARS / KATAMACHI"
+    },
+    "title": {
+      "ja": "BAR SPOON（バー スプーン）",
+      "en": "Bar Spoon"
+    },
+    "dek": {
+      "ja": "金沢の繁華街・片町にある長く続くバー。メニューはなく、好みを伝えて一杯を作ってもらう。",
+      "en": "A long-running bar in Katamachi, Kanazawa's nightlife district. No menu: tell the bartender what you like."
+    },
+    "byline": {
+      "ja": "金沢・片町",
+      "en": "Katamachi, Kanazawa"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "一人でも入りやすい落ち着いたカウンターがある。",
+        "en": "A calm counter that feels easy for solo visitors."
+      },
+      {
+        "ja": "営業時間と定休日は資料により異なるため、訪問前に電話で確認を。",
+        "en": "Hours and closing days differ between listings, so call ahead."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "金沢・片町",
+          "en": "Katamachi, Kanazawa"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "石川県金沢市片町1-5-8 シャトービル 1F",
+          "en": "Chateau Bldg 1F, 1-5-8 Katamachi, Kanazawa"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "オーセンティックバー",
+          "en": "Authentic Japanese bar"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "メニューを置かず好みで作るカクテル",
+          "en": "Menu-free cocktails made to taste"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "要確認（訪問前に店舗へ確認を）",
+          "en": "To be confirmed (check with the bar before visiting)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "kern-sakata",
+    "tone": "lacquer",
+    "kicker": {
+      "ja": "EXPLORE BARS / 山形県酒田市",
+      "en": "EXPLORE BARS / SAKATA, YAMAGATA"
+    },
+    "title": {
+      "ja": "ケルン",
+      "en": "Kern"
+    },
+    "dek": {
+      "ja": "昭和を代表するカクテル「雪国」が生まれた酒田の店。2023年12月に新しい場所へ移って営業を続けている。",
+      "en": "The Sakata café-bar where Yukiguni, a defining Showa-era cocktail, was created. It moved to a new home in December 2023."
+    },
+    "byline": {
+      "ja": "酒田・山形県酒田市",
+      "en": "Sakata, Yamagata, Sakata"
+    },
+    "credit": {
+      "ja": "写真未掲載（権利確認中）",
+      "en": "No photo (rights pending)"
+    },
+    "concept": [
+      {
+        "ja": "雪国は井山計一氏が考案し、1958年の寿屋（現サントリー）のカクテルコンクールで栄冠を得た一杯。",
+        "en": "Yukiguni was created by Keiichi Iyama and won Kotobukiya's (now Suntory's) cocktail contest in 1958."
+      },
+      {
+        "ja": "砂糖で縁を飾ったグラスに、ミントチェリーを沈める姿が特徴。",
+        "en": "Its look is unmistakable: a sugar-rimmed glass with a mint cherry sunk in the drink."
+      }
+    ],
+    "facts": [
+      {
+        "id": "area",
+        "label": {
+          "ja": "エリア",
+          "en": "Area"
+        },
+        "value": {
+          "ja": "酒田・山形県酒田市",
+          "en": "Sakata, Yamagata, Sakata"
+        }
+      },
+      {
+        "id": "address",
+        "label": {
+          "ja": "住所",
+          "en": "Address"
+        },
+        "value": {
+          "ja": "山形県酒田市船場町1-7-45（家坂亭内）",
+          "en": "Inside Iesaka-tei, 1-7-45 Senba-cho, Sakata, Yamagata"
+        }
+      },
+      {
+        "id": "style",
+        "label": {
+          "ja": "スタイル",
+          "en": "Style"
+        },
+        "value": {
+          "ja": "カクテル「雪国」発祥の喫茶・バー",
+          "en": "Café-bar where the Yukiguni cocktail was born"
+        }
+      },
+      {
+        "id": "signature",
+        "label": {
+          "ja": "名物",
+          "en": "Known for"
+        },
+        "value": {
+          "ja": "雪国",
+          "en": "Yukiguni"
+        }
+      },
+      {
+        "id": "hours",
+        "label": {
+          "ja": "時間",
+          "en": "Hours"
+        },
+        "value": {
+          "ja": "10:00〜17:00（金・土は19:00〜22:30の夜営業あり）／不定休（二次情報・訪問前に要確認）",
+          "en": "10am–5pm (Fri–Sat also 7pm–10:30pm); irregular closures (secondary source; please confirm)"
+        }
+      },
+      {
+        "id": "seats",
+        "label": {
+          "ja": "席",
+          "en": "Seats"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "price",
+        "label": {
+          "ja": "価格",
+          "en": "Prices"
+        },
+        "value": {
+          "ja": "要確認",
+          "en": "To be confirmed"
+        }
+      },
+      {
+        "id": "checked",
+        "label": {
+          "ja": "確認日",
+          "en": "Date checked"
+        },
+        "value": {
+          "ja": "2026-11-12（公開情報に基づく）",
+          "en": "2026-11-12 (from public sources)"
+        }
+      }
+    ]
+  }
+]

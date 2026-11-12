@@ -29,12 +29,12 @@ export function EventsPage({ locale }: { locale: Locale }) {
       <section className="event-group" aria-labelledby="events-upcoming">
         <h2 id="events-upcoming">{t(eventUi.upcoming, locale)}</h2>
         <p className="group-note">{t(eventUi.upcomingNote, locale)}</p>
-        {featured ? <StoryCard card={featured} sampleLabel={sample} heading="h3" variant="feature" /> : null}
+        {featured ? <StoryCard card={featured} frameLabel={sample} heading="h3" variant="feature" /> : null}
         {rest.length > 0 ? (
           <ol className="river river-list">
             {rest.map((card) => (
               <li key={card.id} data-reveal>
-                <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
+                <StoryCard card={card} frameLabel={sample} heading="h3" variant="river" />
               </li>
             ))}
           </ol>
@@ -47,7 +47,7 @@ export function EventsPage({ locale }: { locale: Locale }) {
         <ol className="river river-list">
           {ended.map((card) => (
             <li key={card.id} data-reveal>
-              <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
+              <StoryCard card={card} frameLabel={sample} heading="h3" variant="river" />
             </li>
           ))}
         </ol>

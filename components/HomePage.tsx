@@ -7,7 +7,7 @@ import { hrefFor } from "@/lib/routes";
 
 export function HomePage({ locale }: { locale: Locale }) {
   const { lead, grid, latest } = homeCards(locale);
-  const sample = t(ui.sample, locale);
+  const frame = t(ui.photoLabel, locale);
 
   return (
     <div className="home">
@@ -26,13 +26,13 @@ export function HomePage({ locale }: { locale: Locale }) {
         </p>
       </div>
 
-      <StoryCard card={lead} sampleLabel={sample} heading="h1" variant="lead" />
+      <StoryCard card={lead} frameLabel={frame} heading="h1" variant="lead" />
 
       <div className="home-split">
         <ol className="card-grid">
           {grid.map((card) => (
             <li key={card.id} data-reveal>
-              <StoryCard card={card} sampleLabel={sample} heading="h2" variant="grid" />
+              <StoryCard card={card} frameLabel={frame} heading="h2" variant="grid" />
             </li>
           ))}
         </ol>
@@ -43,7 +43,7 @@ export function HomePage({ locale }: { locale: Locale }) {
           <ol className="river">
             {latest.map((card) => (
               <li key={card.id} data-reveal>
-                <StoryCard card={card} sampleLabel={sample} heading="h3" variant="river" />
+                <StoryCard card={card} frameLabel={frame} heading="h3" variant="river" />
               </li>
             ))}
           </ol>

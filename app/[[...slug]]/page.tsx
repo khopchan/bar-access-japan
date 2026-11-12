@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleView } from "@/components/ArticleView";
+import { BarsPage } from "@/components/BarsPage";
 import { BarView } from "@/components/BarView";
 import { CategoryLanding } from "@/components/CategoryLanding";
 import { CocktailsPage } from "@/components/CocktailsPage";
+import { CocktailView } from "@/components/CocktailView";
 import { ContactPage } from "@/components/ContactPage";
 import { EditorialPage } from "@/components/EditorialPage";
 import { EventsPage } from "@/components/EventsPage";
@@ -12,7 +14,7 @@ import { ServicesPage } from "@/components/ServicesPage";
 import { SiteFrame } from "@/components/SiteFrame";
 import { sections } from "@/content/sections";
 import { getPageMeta } from "@/content/pages";
-import { barCards, barBySlug, guideBySlug, guideCards, storyBySlug, storyCards } from "@/lib/catalog";
+import { barBySlug, cocktailBySlug, guideBySlug, guideCards, storyBySlug, storyCards } from "@/lib/catalog";
 import { brandAssets } from "@/lib/brand";
 import { t, type Locale } from "@/lib/i18n";
 import { alternateHrefs, hrefFor, isSectionId, parseSlug, staticParams, type PageId, type ParsedRoute } from "@/lib/routes";
@@ -47,6 +49,11 @@ function describe(parsed: ParsedRoute): { title: string; description: string; ty
     const bar = barBySlug(parsed.slug);
     if (!bar) return { title: "Not found", description: "", type: "website" };
     return { title: t(bar.title, parsed.locale), description: t(bar.dek, parsed.locale), type: "website" };
+  }
+  if (parsed.kind === "cocktail") {
+    const cocktail = cocktailBySlug(parsed.slug);
+    if (!cocktail) return { title: "Not found", description: "", type: "website" };
+    return { title: t(cocktail.title, parsed.locale), description: t(cocktail.dek, parsed.locale), type: "website" };
   }
   const meta = getPageMeta(parsed.page, parsed.locale);
   return { title: meta.title, description: meta.description, type: "website" };
@@ -117,24 +124,17 @@ function PageBody({ route }: { route: ParsedRoute }) {
     if (!bar) notFound();
     return <BarView locale={locale} bar={bar} />;
   }
+  if (route.kind === "cocktail") {
+    const cocktail = cocktailBySlug(route.slug);
+    if (!cocktail) notFound();
+    return <CocktailView locale={locale} cocktail={cocktail} />;
+  }
   return <StaticPage locale={locale} page={route.page} />;
 }
 
 function StaticPage({ locale, page }: { locale: Locale; page: PageId }) {
   if (page === "home") return <HomePage locale={locale} />;
-  if (page === "bars") {
-    const cards = barCards(locale);
-    return (
-      <CategoryLanding
-        locale={locale}
-        kicker={t(sections.bars.kicker, locale)}
-        title={t(sections.bars.title, locale)}
-        lede={t(sections.bars.lede, locale)}
-        featured={cards[0] ?? null}
-        rest={cards.slice(1)}
-      />
-    );
-  }
+  if (page === "bars") return <BarsPage locale={locale} />;
   if (page === "stories") {
     const cards = storyCards(locale);
     return (

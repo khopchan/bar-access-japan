@@ -1,7 +1,7 @@
 import type { L10n } from "@/lib/i18n";
 import type { Tone } from "@/lib/tones";
 
-/** Long-form sample. People, bars, and dates in the prose are not real. */
+/** Long-form piece. Body is original; sources and the date checked live beside it. */
 export type Article = {
   slug: string;
   tone: Tone;
@@ -13,6 +13,9 @@ export type Article = {
   before: L10n[];
   pull: L10n;
   after: L10n[];
+  sources: string[];
+  related: string[];
+  lastVerified: string;
 };
 
 export type BarFact = {
@@ -20,6 +23,9 @@ export type BarFact = {
   label: L10n;
   value: L10n;
 };
+
+/** official: the bar’s own page. secondary: another listing. unverified: confirm before a visit. */
+export type HoursStatus = "official" | "secondary" | "unverified";
 
 export type Bar = {
   slug: string;
@@ -31,4 +37,11 @@ export type Bar = {
   credit: L10n;
   concept: L10n[];
   facts: BarFact[];
+  cityId: string;
+  areaId: string;
+  city: L10n;
+  area: L10n;
+  hoursStatus: HoursStatus;
+  sources: string[];
+  lastVerified: string;
 };

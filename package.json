@@ -2,7 +2,7 @@
   "name": "bar-access-japan",
   "version": "0.1.0",
   "private": true,
-  "description": "BAR ACCESS JAPAN official site (prototype)",
+  "description": "BAR ACCESS JAPAN — a guide to bars and cocktails in Japan",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

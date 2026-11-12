@@ -1,9 +1,17 @@
-import type { L10n } from "@/lib/i18n";
+import type { L10n, Locale } from "@/lib/i18n";
 
 /**
- * サイト全体の設定。実在の店名・人物・住所・価格・イベントは書かない。
- * メールと Instagram は公開前のプレースホルダ。差し替えるときはこのファイルだけを編集する。
+ * サイト全体の設定。店・カクテル・記事の本文は research/ にある。
+ * メールと、このサイト自身の Instagram はまだプレースホルダ。差し替えるときはこのファイルを編集する。
  */
+
+export function verifiedLabel(date: string, locale: Locale): string {
+  return locale === "ja" ? `確認日 ${date}` : `Last verified ${date}`;
+}
+
+export function verifiedValue(date: string, locale: Locale): string {
+  return locale === "ja" ? `${date}（公開情報に基づく）` : `${date} (from public sources)`;
+}
 export const brand = {
   name: "BAR ACCESS JAPAN",
   line: {
@@ -32,16 +40,16 @@ export const ui = {
   primaryNav: { ja: "主要", en: "Primary" },
   footerNav: { ja: "フッター", en: "Footer" },
   newTab: { ja: "（新しいタブで開きます）", en: "(opens in a new tab)" },
-  prototypeMark: { ja: "試作", en: "Prototype" },
   sample: { ja: "サンプル", en: "Sample" },
+  photoLabel: { ja: "写真未掲載", en: "No photo" },
   heroNote: {
-    ja: "試作。掲載はすべてサンプルです。",
-    en: "Prototype. Every listing is a sample.",
+    ja: "公開情報をもとにした、日本のバーとカクテルの案内です。",
+    en: "A guide to Japan’s bars and cocktails, drawn from public sources.",
   },
-  noticeLabel: { ja: "PROTOTYPE", en: "PROTOTYPE" },
+  noticeLabel: { ja: "SAMPLE", en: "SAMPLE" },
   noticeBody: {
-    ja: "このページは試作です。並んでいる名前はサンプルで、実在の店舗、人物、住所、価格、イベントを示すものではありません。",
-    en: "This page is a prototype. The names below are samples. They do not stand for a real bar, person, address, price, or event.",
+    ja: "この一覧はまだサンプルです。日程、会場、出演者は実在の告知ではありません。",
+    en: "This list is still a sample. Dates, rooms, and names are not real announcements.",
   },
   comingSoon: { ja: "近日公開", en: "Coming soon" },
   serviceCta: { ja: "この件で連絡する", en: "Contact about this" },
@@ -49,15 +57,20 @@ export const ui = {
   findBar: { ja: "BARを探す", en: "Find a bar" },
   findCocktail: { ja: "カクテルを探す", en: "Find a cocktail" },
   latestTitle: { ja: "LATEST", en: "LATEST" },
-  relatedTitle: { ja: "関連するサンプル", en: "Related samples" },
+  relatedTitle: { ja: "関連", en: "Related" },
+  linkedDrinks: { ja: "この店とつながるカクテル", en: "Cocktails linked to this bar" },
+  linkedBars: { ja: "このカクテルとつながる店", en: "Bars linked to this drink" },
+  nearbyTitle: { ja: "同じ都市の店", en: "More in this city" },
+  mentionedTitle: { ja: "関連する記事", en: "Related stories" },
+  sourcesTitle: { ja: "出典", en: "Sources" },
   conceptTitle: { ja: "コンセプト", en: "Concept" },
   practicalTitle: { ja: "実用情報", en: "Practical information" },
-  pullCaption: { ja: "サンプル原稿より", en: "From the sample text" },
+  pullCaption: { ja: "本文より", en: "From the piece" },
   searchOpen: { ja: "検索", en: "Search" },
   searchClose: { ja: "検索を閉じる", en: "Close search" },
-  searchPlaceholder: { ja: "サンプルの中を探す", en: "Search the samples" },
-  searchHint: { ja: "見出しと紹介文から探します。", en: "Searches headlines and standfirsts." },
-  searchEmpty: { ja: "一致するサンプルはありません。", en: "No sample matches." },
+  searchPlaceholder: { ja: "店、カクテル、記事を探す", en: "Search bars, cocktails, stories" },
+  searchHint: { ja: "店名、エリア、人、カクテル、記事から探します。", en: "Searches bars, areas, people, cocktails, and stories." },
+  searchEmpty: { ja: "一致するものはありません。", en: "No matches." },
   searchMore: { ja: "ほかにも一致があります。語を足してください。", en: "There are more matches. Add another word." },
   searchLabel: { ja: "検索", en: "Search" },
   newsletterKicker: { ja: "LETTER", en: "LETTER" },

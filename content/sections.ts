@@ -3,7 +3,7 @@ import type { SectionId } from "@/lib/routes";
 
 /**
  * 5つのセクションの導入。個別の項目は stories / bars / cocktails / events / guides にある。
- * 実在の店名・人物・住所・価格・イベントは書かない。
+ * イベントだけは、まだサンプルである。
  */
 export type SectionIntro = {
   kicker: L10n;
@@ -16,40 +16,40 @@ export const sections: Record<SectionId, SectionIntro> = {
     kicker: { ja: "EXPLORE BARS", en: "EXPLORE BARS" },
     title: { ja: "バーを探す", en: "Explore bars" },
     lede: {
-      ja: "店を探すための場所です。いま並んでいるのは試作のサンプルで、営業時間も住所も未設定です。",
-      en: "A place to look for bars. What is listed now is prototype sample material. Hours and addresses are unset.",
+      ja: "東京のエリアから京都、大阪、福岡まで。営業時間には出典の確度を添えています。二次情報と、まだ確認できない時間は、訪れる前に店へ確認してください。",
+      en: "From Tokyo’s neighborhoods to Kyoto, Osaka, and Fukuoka. Hours show how sure the source is. Confirm a secondary or unchecked time with the bar before you visit.",
     },
   },
   cocktails: {
     kicker: { ja: "COCKTAILS", en: "COCKTAILS" },
     title: { ja: "カクテルを探す", en: "Cocktails" },
     lede: {
-      ja: "カクテルを探すための場所です。味の方向だけを示すサンプルで、レシピと価格はありません。ベースと味わいで絞れます。",
-      en: "A place to look for cocktails. These samples suggest a direction of taste. There is no recipe and no price. Filter by base and flavor.",
+      ja: "日本のバーで出会う一杯と、出典にある標準のレシピです。ベースと味わいで絞れます。店では分量も作り方も異なることがあります。",
+      en: "Drinks you meet in Japanese bars, with a standard recipe from a cited source. Filter by base and flavor. A bar may measure and build it differently.",
     },
   },
   stories: {
     kicker: { ja: "STORIES", en: "STORIES" },
     title: { ja: "物語", en: "Stories" },
     lede: {
-      ja: "バー文化をめぐる読みものです。人物も店も、ここにあるのは架空のサンプルです。",
-      en: "Reading on bar culture. The people and the places here are fictional samples.",
+      ja: "賞の夜、ハイボール、横浜の古典、雪国、銀座のハードシェイク。確認できた範囲で書いています。",
+      en: "Awards night, the highball, Yokohama’s classics, Yukiguni, and Ginza’s hard shake — written within what could be checked.",
     },
   },
   events: {
     kicker: { ja: "EVENTS", en: "EVENTS" },
     title: { ja: "イベント", en: "Events" },
     lede: {
-      ja: "集まりや夜の予定を置く場所です。日程も会場も未定のサンプルだけを、これからと終了に分けて置いています。",
-      en: "A place for gatherings. Only samples are shown, with the date and the room unset, split into upcoming and ended.",
+      ja: "集まりを置く場所です。いま並んでいるのはサンプルだけで、日程も会場も実在の告知ではありません。",
+      en: "A place for gatherings. What is listed now is sample material only. The dates and rooms are not real announcements.",
     },
   },
   guide: {
     kicker: { ja: "GUIDE", en: "GUIDE" },
     title: { ja: "案内", en: "Guide" },
     lede: {
-      ja: "バーという場所の過ごし方を、短く残すための案内です。特定の店への行き方ではありません。",
-      en: "Short notes on how to be in a bar. Not directions to any particular address.",
+      ja: "席料の目安と、おまかせのカウンターの過ごし方です。特定の店の規則そのものではありません。",
+      en: "A note on cover charges, and on sitting down to an omakase counter. Not a house rule copied from any one bar.",
     },
   },
 };

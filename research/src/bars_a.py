@@ -1,0 +1,65 @@
+# -*- coding: utf-8 -*-
+TBC = ("要確認", "To be confirmed")
+W50 = "https://www.the50.com/stories/News/the-50-best-bars-2026-the-1-50-list-revealed.html"
+A50 = "https://www.theatlasindex.com/awards/asias-50-best-bars/"
+JT  = "https://www.japantimes.co.jp/life/2026/07/29/food-drink/asias-50-best-bars-2026-japan-no-top-10/"
+JP  = "https://www.thejapanpro.com/blog/best-bars-in-tokyo/"
+D   = "https://www.the50.com/discovery/Establishments/Japan/"
+def acc(ja, en, year, src): return {"ja": ja, "en": en, "year": year, "source": src}
+BARS = []
+BARS.append(dict(slug="bar-benfiddich", ja="バー ベンフィディック", en="Bar BenFiddich",
+ city=("東京","Tokyo"), cityId="tokyo", area=("西新宿","Nishi-Shinjuku"), areaId="nishi-shinjuku",
+ address=("東京都新宿区西新宿1-13-7 Yamatoya Bldg 9F","Yamatoya Building 9F, 1-13-7 Nishi-Shinjuku, Shinjuku-ku, Tokyo"),
+ station=("JR新宿駅 西口から徒歩約5分","About 5 min walk from JR Shinjuku Station, West Exit"),
+ style=("メニューのないファーム・トゥ・グラスのカクテルバー","Menu-free, farm-to-glass cocktail bar"),
+ people=("鹿山博康（オーナーバーテンダー）","Hiroyasu Kayama (owner-bartender)"),
+ signature=("自家製アブサンとヴェルモット、すり鉢で潰すハーブやスパイスのカクテル","House-made absinthe and vermouth; herbs and spices crushed by mortar and pestle"),
+ accolades=[acc("The World's 50 Best Bars 2025 第18位","The World's 50 Best Bars 2025, No. 18",2025,D+"Tokyo/Bar-Benfiddich.html"),
+            acc("The 50 Best Bars 2026 第44位","The 50 Best Bars 2026, No. 44",2026,W50),
+            acc("Asia's 50 Best Bars 2026 第62位（51–100位）","Asia's 50 Best Bars 2026, No. 62 (51–100)",2026,A50)],
+ hours=TBC, seats=("要確認（資料により8席／15席と分かれる）","To be confirmed (sources list 8 or 15 seats)"),
+ price=None, url=None, ig="https://www.instagram.com/benfiddich_tokyo/",
+ dek=("秩父の実家の畑で育てたハーブを、目の前ですり潰して一杯に仕立てる。メニューはなく、好みの酒を伝えるところから始まる。",
+      "Herbs from the family farm in Chichibu are crushed at the counter and built into your drink. There is no menu; you start by naming a spirit you like."),
+ concept=[("鹿山博康氏が2013年に開いた店。棚には瓶詰めのスパイスや浸漬酒が並び、薬局のような景色をつくっている。アブサンもこの店で仕込まれる。",
+           "Hiroyasu Kayama opened the bar in 2013. Jars of spices and infusions line the back bar like an apothecary, and the absinthe is made in-house."),
+          ("注文の起点は客の好み。ベースの酒を聞き、季節の素材と合わせて、その場で一杯を組み立てる。いわば「おまかせ」のカクテルである。",
+           "Every order begins with the guest's taste. The bartender asks about a base spirit, then builds a drink on the spot with seasonal ingredients, a cocktail omakase of sorts.")],
+ sources=[D+"Tokyo/Bar-Benfiddich.html","https://www.the50.com/bars/best-in-the-world/the-list/bar-benfiddich.html",W50,A50,"https://www.timeout.com/tokyo/news/2-tokyo-bars-named-in-the-worlds-50-best-bars-2026-list-100826",JP],
+ notes="Reservations via TableCheck per thejapanpro (shop URL not captured). Hours not confirmed from an official page."))
+BARS.append(dict(slug="virtu", ja="ヴェルテュ", en="Virtù",
+ city=("東京","Tokyo"), cityId="tokyo", area=("大手町","Otemachi"), areaId="otemachi",
+ address=("東京都千代田区大手町1-2-1 フォーシーズンズホテル東京大手町 39F","39F, Four Seasons Hotel Tokyo at Otemachi, 1-2-1 Otemachi, Chiyoda-ku, Tokyo"),
+ station=None, style=("ホテルのカクテルバー＆コニャックラウンジ","Hotel cocktail bar and cognac lounge"), people=None,
+ signature=("自家製ブランデー梅酒を使うスモークド・ウメ・ファッションド、ひのきビターズのヴェルテュ・マティーニ","Smoked Ume Fashioned with house brandy umeshu; the Virtù Martini with hinoki bitters"),
+ accolades=[acc("Michter's Art of Hospitality Award 2024","Michter's Art of Hospitality Award 2024",2024,"https://www.the50.com/bars/best-in-asia/the-list/virtu.html"),
+            acc("Asia's 50 Best Bars 2026 第26位","Asia's 50 Best Bars 2026, No. 26",2026,JT),
+            acc("The 50 Best Bars 2026 第48位","The 50 Best Bars 2026, No. 48",2026,W50)],
+ hours=("日〜水・祝 17:00〜24:00／木〜土 17:00〜24:30","Sun–Wed & holidays 5pm–midnight; Thu–Sat 5pm–12:30am","official"),
+ seats=None, price=None, url="https://www.fourseasons.com/otemachi/dining/restaurants/virtu/", ig="https://www.instagram.com/virtutokyo/",
+ dek=("39階のアール・デコの空間で、日本の地酒や焼酎を織り込んだカクテルを。迎えから見送りまで途切れないサービスで知られる。",
+      "An Art Deco room on the 39th floor, pouring cocktails woven with Japanese sake, shochu and regional spirits. Known for service that never leaves you waiting."),
+ concept=[("カクテルには日本各地の酒やリキュールが使われ、メニューの地図で産地をたどれる。入口近くには自家製梅酒を寝かせる部屋がある。",
+           "Cocktails draw on lesser-known Japanese brews and spirits, and a map on the menu shows where each comes from. Near the entrance, jars of house umeshu age in their own room."),
+          ("2024年にはホスピタリティを評価する賞を受けた。窓の外には東京の街並みが広がる。",
+           "In 2024 the team received an award for hospitality. Outside the windows, the city stretches to the horizon.")],
+ sources=["https://www.the50.com/bars/best-in-asia/the-list/virtu.html",JT,W50,"https://www.timeout.com/tokyo/news/2-tokyo-bars-named-in-the-worlds-50-best-bars-2026-list-100826","https://www.fourseasons.com/otemachi/dining/restaurants/virtu/"],
+ notes="Hours from the Four Seasons official page via search snippet (direct fetch returned 403)."))
+BARS.append(dict(slug="punch-room-tokyo", ja="パンチルーム 東京", en="Punch Room Tokyo",
+ city=("東京","Tokyo"), cityId="tokyo", area=("銀座","Ginza"), areaId="ginza",
+ address=("東京都中央区銀座2-8-13 東京エディション銀座 2F","2F, Tokyo EDITION Ginza, 2-8-13 Ginza, Chuo-ku, Tokyo"),
+ station=None, style=("ホテルのパンチ専門バー","Hotel bar devoted to punch"),
+ people=("カワクボ ヤスヒロ（バーを率いるバーテンダー）","Yasuhiro Kawakubo (leads the bar)"),
+ signature=("テキーラとどぶろく、柚子を合わせた「Kappa & Yuzu」、熊笹茶を浸したマティーニ","Kappa & Yuzu (tequila, doburoku, yuzu); a martini infused with kumazasa tea"),
+ accolades=[acc("Asia's 50 Best Bars 2025 第36位","Asia's 50 Best Bars 2025, No. 36",2025,JT),
+            acc("Asia's 50 Best Bars 2026 第23位／The Best Bar in Japan 2026","Asia's 50 Best Bars 2026, No. 23 / The Best Bar in Japan 2026",2026,"https://www.the50.com/bars/best-in-asia/the-list/punch-room-tokyo.html")],
+ hours=("火〜木 18:00〜24:00／金・土 18:00〜翌2:00／日・月 定休","Tue–Thu 6pm–midnight; Fri–Sat 6pm–2am; closed Sun–Mon","official"),
+ seats=None, price=None, url="https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/", ig=None,
+ dek=("世界最古級のミックスドリンク「パンチ」を、日本の柑橘や地酒で組み直す。二人以上で同じ一杯を頼むと銀のボウルで供される。",
+      "Punch, one of the oldest mixed drinks, rebuilt with Japanese citrus and small-batch brews. Order the same drink for two or more and it arrives in a silver bowl."),
+ concept=[("2024年、東京エディション銀座とともに開業。隈研吾氏が手がけた建物の中に、19世紀ロンドンのクラブを思わせる部屋がある。",
+           "Opened in 2024 with the Tokyo EDITION Ginza. Inside the Kengo Kuma building sits a room that nods to the clubs of 19th-century London."),
+          ("スピリッツ、柑橘、砂糖、スパイス、茶というパンチの五要素を、日本の素材で置き換えていく。2026年には日本のベストバーに選ばれた。",
+           "The five pillars of punch, spirit, citrus, sugar, spice and tea, are recast with Japanese ingredients. In 2026 it was named the Best Bar in Japan.")],
+ sources=["https://www.the50.com/bars/best-in-asia/the-list/punch-room-tokyo.html",JT,"https://www.editionhotels.com/tokyo-ginza/restaurants-and-bars/punch-room/"],
+ notes="Name kanji unconfirmed; katakana used in ja (カワクボ ヤスヒロ)."))

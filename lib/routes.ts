@@ -1,4 +1,5 @@
 import { bars } from "@/content/bars";
+import { cocktails } from "@/content/cocktails";
 import { guides } from "@/content/guides";
 import { stories } from "@/content/stories";
 import type { Locale } from "@/lib/i18n";
@@ -11,13 +12,14 @@ export const pageIds = ["home", ...sectionIds, "about", "services", "contact", "
 
 export type PageId = (typeof pageIds)[number];
 
-export type DetailKind = "story" | "bar" | "guide";
+export type DetailKind = "story" | "bar" | "guide" | "cocktail";
 
 export type ParsedRoute =
   | { locale: Locale; kind: "page"; page: PageId }
   | { locale: Locale; kind: "story"; slug: string }
   | { locale: Locale; kind: "bar"; slug: string }
-  | { locale: Locale; kind: "guide"; slug: string };
+  | { locale: Locale; kind: "guide"; slug: string }
+  | { locale: Locale; kind: "cocktail"; slug: string };
 
 const slugs = {
   bars: "bars",
@@ -35,6 +37,7 @@ const detailSection = {
   story: "stories",
   bar: "bars",
   guide: "guide",
+  cocktail: "cocktails",
 } as const satisfies Record<DetailKind, string>;
 
 export function isSectionId(page: PageId): page is SectionId {
@@ -59,6 +62,7 @@ export function navId(route: ParsedRoute): PageId {
   if (route.kind === "story") return "stories";
   if (route.kind === "bar") return "bars";
   if (route.kind === "guide") return "guide";
+  if (route.kind === "cocktail") return "cocktails";
   return route.page;
 }
 
@@ -80,6 +84,7 @@ function pageFromSlug(slug: string): Exclude<PageId, "home"> | null {
 function knownDetail(kind: DetailKind, slug: string): boolean {
   if (kind === "story") return stories.some((item) => item.slug === slug);
   if (kind === "bar") return bars.some((item) => item.slug === slug);
+  if (kind === "cocktail") return cocktails.some((item) => item.slug === slug);
   return guides.some((item) => item.slug === slug);
 }
 
@@ -98,7 +103,15 @@ export function parseSlug(slug: string[] | undefined): ParsedRoute | null {
   if (parts.length === 2) {
     const section = parts[0];
     const kind: DetailKind | null =
-      section === "stories" ? "story" : section === "bars" ? "bar" : section === "guide" ? "guide" : null;
+      section === "stories"
+        ? "story"
+        : section === "bars"
+          ? "bar"
+          : section === "guide"
+            ? "guide"
+            : section === "cocktails"
+              ? "cocktail"
+              : null;
     if (!kind || !knownDetail(kind, parts[1])) return null;
     return { locale, kind, slug: parts[1] };
   }
@@ -112,6 +125,7 @@ export function staticParams(): { slug: string[] }[] {
     ...stories.map((item) => ({ section: "stories", slug: item.slug })),
     ...bars.map((item) => ({ section: "bars", slug: item.slug })),
     ...guides.map((item) => ({ section: "guide", slug: item.slug })),
+    ...cocktails.map((item) => ({ section: "cocktails", slug: item.slug })),
   ];
 
   return [

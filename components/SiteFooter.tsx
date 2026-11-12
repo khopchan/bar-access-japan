@@ -72,7 +72,7 @@ export function SiteFooter({
         {site.instagram.pending ? <p className="footer-note">{t(site.instagram.note, locale)}</p> : null}
         <LangSwitch languages={languages} />
         <p className="footer-legal">
-          © {year} {brand.name} · {t(ui.prototypeMark, locale)}
+          © {year} {brand.name}
         </p>
       </div>
     </footer>
