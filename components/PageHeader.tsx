@@ -9,7 +9,7 @@ export function PageHeader({
 }) {
   return (
     <header className="page-header">
-      <p className="eyebrow">{kicker}</p>
+      <p className="kicker">{kicker}</p>
       <h1>{title}</h1>
       <p className="lede">{lede}</p>
     </header>

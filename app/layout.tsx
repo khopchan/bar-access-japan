@@ -32,7 +32,7 @@ const serif = Noto_Serif_JP({
 });
 
 export const viewport: Viewport = {
-  themeColor: "#0b0b0b",
+  themeColor: "#000000",
   colorScheme: "light",
   width: "device-width",
   initialScale: 1,
@@ -48,6 +48,15 @@ export const metadata: Metadata = {
   applicationName: "BAR ACCESS JAPAN",
   robots: { index: true, follow: true },
   formatDetection: { email: false, address: false, telephone: false },
+  openGraph: {
+    siteName: "BAR ACCESS JAPAN",
+    type: "website",
+    images: [{ url: "/brand/og.jpg", width: 1200, height: 630, alt: "BAR ACCESS JAPAN" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/brand/og.jpg"],
+  },
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
@@ -61,7 +70,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <script
           dangerouslySetInnerHTML={{
             __html:
-              "document.documentElement.lang=location.pathname==='/en'||location.pathname.indexOf('/en/')===0?'en':'ja';",
+              "document.documentElement.classList.add('js');document.documentElement.lang=location.pathname==='/en'||location.pathname.indexOf('/en/')===0?'en':'ja';",
           }}
         />
         {children}
